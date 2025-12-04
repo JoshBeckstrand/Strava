@@ -1,0 +1,708 @@
+{
+  "activity_summary": {
+    "WeightTraining": {
+      "total_distance": "0.22 miles",
+      "total_time": "72:01 h",
+      "average_pace": "19988:03 min/mile",
+      "total_elevation": "0.0 ft",
+      "average_hr": "99.11 bpm",
+      "activities_count": "97"
+    },
+    "Run": {
+      "total_distance": "2184.91 miles",
+      "total_time": "367:12 h",
+      "average_pace": "10:05 min/mile",
+      "total_elevation": "58269.03 ft",
+      "average_hr": "150.03 bpm",
+      "activities_count": "341"
+    },
+    "Hike": {
+      "total_distance": "22.4 miles",
+      "total_time": "12:01 h",
+      "average_pace": "32:11 min/mile",
+      "total_elevation": "13414.7 ft",
+      "average_hr": "111.0 bpm",
+      "activities_count": "3"
+    },
+    "Workout": {
+      "total_distance": "0.0 miles",
+      "total_time": "21:04 h",
+      "average_pace": "N/A",
+      "total_elevation": "0.0 ft",
+      "average_hr": "122.98 bpm",
+      "activities_count": "12"
+    },
+    "Ride": {
+      "total_distance": "932.61 miles",
+      "total_time": "148:03 h",
+      "average_pace": "9:31 min/mile",
+      "total_elevation": "38590.55 ft",
+      "average_hr": "132.84 bpm",
+      "activities_count": "126"
+    },
+    "Walk": {
+      "total_distance": "1.43 miles",
+      "total_time": "0:39 h",
+      "average_pace": "27:11 min/mile",
+      "total_elevation": "78.08 ft",
+      "average_hr": "91.75 bpm",
+      "activities_count": "2"
+    },
+    "Swim": {
+      "total_distance": "26.46 miles",
+      "total_time": "14:00 h",
+      "average_pace": "31:45 min/mile",
+      "total_elevation": "10.5 ft",
+      "average_hr": "137.84 bpm",
+      "activities_count": "36"
+    }
+  },
+  "monthly_summary": {
+    "WeightTraining": {
+      "June 2024": {
+        "total_distance": "0.0 miles",
+        "total_time": "1:56 h",
+        "average_pace": "N/A",
+        "total_elevation": "0.0 ft",
+        "average_hr": "107.1 bpm",
+        "activities_count": "2"
+      },
+      "July 2024": {
+        "total_distance": "0.0 miles",
+        "total_time": "5:01 h",
+        "average_pace": "N/A",
+        "total_elevation": "0.0 ft",
+        "average_hr": "106.28 bpm",
+        "activities_count": "6"
+      },
+      "August 2024": {
+        "total_distance": "0.0 miles",
+        "total_time": "5:13 h",
+        "average_pace": "N/A",
+        "total_elevation": "0.0 ft",
+        "average_hr": "112.78 bpm",
+        "activities_count": "5"
+      },
+      "October 2024": {
+        "total_distance": "0.0 miles",
+        "total_time": "3:50 h",
+        "average_pace": "N/A",
+        "total_elevation": "0.0 ft",
+        "average_hr": "114.6 bpm",
+        "activities_count": "3"
+      },
+      "November 2024": {
+        "total_distance": "0.0 miles",
+        "total_time": "3:44 h",
+        "average_pace": "N/A",
+        "total_elevation": "0.0 ft",
+        "average_hr": "104.0 bpm",
+        "activities_count": "3"
+      },
+      "December 2024": {
+        "total_distance": "0.0 miles",
+        "total_time": "4:50 h",
+        "average_pace": "N/A",
+        "total_elevation": "0.0 ft",
+        "average_hr": "102.0 bpm",
+        "activities_count": "4"
+      },
+      "January 2025": {
+        "total_distance": "0.0 miles",
+        "total_time": "5:46 h",
+        "average_pace": "N/A",
+        "total_elevation": "0.0 ft",
+        "average_hr": "102.68 bpm",
+        "activities_count": "4"
+      },
+      "February 2025": {
+        "total_distance": "0.0 miles",
+        "total_time": "2:00 h",
+        "average_pace": "N/A",
+        "total_elevation": "0.0 ft",
+        "average_hr": "113.35 bpm",
+        "activities_count": "2"
+      },
+      "March 2025": {
+        "total_distance": "0.0 miles",
+        "total_time": "0:52 h",
+        "average_pace": "N/A",
+        "total_elevation": "0.0 ft",
+        "average_hr": "101.8 bpm",
+        "activities_count": "1"
+      },
+      "May 2025": {
+        "total_distance": "0.0 miles",
+        "total_time": "3:15 h",
+        "average_pace": "N/A",
+        "total_elevation": "0.0 ft",
+        "average_hr": "101.73 bpm",
+        "activities_count": "6"
+      },
+      "June 2025": {
+        "total_distance": "0.0 miles",
+        "total_time": "5:37 h",
+        "average_pace": "N/A",
+        "total_elevation": "0.0 ft",
+        "average_hr": "99.47 bpm",
+        "activities_count": "9"
+      },
+      "July 2025": {
+        "total_distance": "0.0 miles",
+        "total_time": "3:38 h",
+        "average_pace": "N/A",
+        "total_elevation": "0.0 ft",
+        "average_hr": "85.07 bpm",
+        "activities_count": "7"
+      },
+      "August 2025": {
+        "total_distance": "0.22 miles",
+        "total_time": "8:22 h",
+        "average_pace": "2324:02 min/mile",
+        "total_elevation": "0.0 ft",
+        "average_hr": "86.57 bpm",
+        "activities_count": "12"
+      },
+      "September 2025": {
+        "total_distance": "0.0 miles",
+        "total_time": "5:33 h",
+        "average_pace": "N/A",
+        "total_elevation": "0.0 ft",
+        "average_hr": "92.79 bpm",
+        "activities_count": "11"
+      },
+      "October 2025": {
+        "total_distance": "0.0 miles",
+        "total_time": "6:11 h",
+        "average_pace": "N/A",
+        "total_elevation": "0.0 ft",
+        "average_hr": "104.74 bpm",
+        "activities_count": "10"
+      },
+      "November 2025": {
+        "total_distance": "0.0 miles",
+        "total_time": "5:02 h",
+        "average_pace": "N/A",
+        "total_elevation": "0.0 ft",
+        "average_hr": "99.73 bpm",
+        "activities_count": "10"
+      },
+      "December 2025": {
+        "total_distance": "0.0 miles",
+        "total_time": "1:10 h",
+        "average_pace": "N/A",
+        "total_elevation": "0.0 ft",
+        "average_hr": "94.65 bpm",
+        "activities_count": "2"
+      }
+    },
+    "Run": {
+      "February 2024": {
+        "total_distance": "9.13 miles",
+        "total_time": "1:24 h",
+        "average_pace": "9:11 min/mile",
+        "total_elevation": "0.0 ft",
+        "average_hr": "168.65 bpm",
+        "activities_count": "2"
+      },
+      "March 2024": {
+        "total_distance": "45.31 miles",
+        "total_time": "7:00 h",
+        "average_pace": "9:16 min/mile",
+        "total_elevation": "2045.93 ft",
+        "average_hr": "159.95 bpm",
+        "activities_count": "10"
+      },
+      "April 2024": {
+        "total_distance": "33.35 miles",
+        "total_time": "5:00 h",
+        "average_pace": "8:59 min/mile",
+        "total_elevation": "1286.09 ft",
+        "average_hr": "164.89 bpm",
+        "activities_count": "7"
+      },
+      "May 2024": {
+        "total_distance": "40.1 miles",
+        "total_time": "7:03 h",
+        "average_pace": "10:33 min/mile",
+        "total_elevation": "2028.87 ft",
+        "average_hr": "154.72 bpm",
+        "activities_count": "4"
+      },
+      "June 2024": {
+        "total_distance": "84.34 miles",
+        "total_time": "16:16 h",
+        "average_pace": "11:34 min/mile",
+        "total_elevation": "6076.77 ft",
+        "average_hr": "157.61 bpm",
+        "activities_count": "7"
+      },
+      "July 2024": {
+        "total_distance": "37.16 miles",
+        "total_time": "7:04 h",
+        "average_pace": "11:24 min/mile",
+        "total_elevation": "238.85 ft",
+        "average_hr": "151.86 bpm",
+        "activities_count": "9"
+      },
+      "August 2024": {
+        "total_distance": "98.05 miles",
+        "total_time": "16:31 h",
+        "average_pace": "10:06 min/mile",
+        "total_elevation": "1828.08 ft",
+        "average_hr": "154.14 bpm",
+        "activities_count": "14"
+      },
+      "September 2024": {
+        "total_distance": "81.55 miles",
+        "total_time": "15:21 h",
+        "average_pace": "11:17 min/mile",
+        "total_elevation": "3595.8 ft",
+        "average_hr": "146.07 bpm",
+        "activities_count": "6"
+      },
+      "October 2024": {
+        "total_distance": "41.26 miles",
+        "total_time": "6:33 h",
+        "average_pace": "9:31 min/mile",
+        "total_elevation": "791.34 ft",
+        "average_hr": "166.45 bpm",
+        "activities_count": "6"
+      },
+      "November 2024": {
+        "total_distance": "55.33 miles",
+        "total_time": "9:49 h",
+        "average_pace": "10:38 min/mile",
+        "total_elevation": "1828.08 ft",
+        "average_hr": "160.73 bpm",
+        "activities_count": "9"
+      },
+      "December 2024": {
+        "total_distance": "118.77 miles",
+        "total_time": "19:58 h",
+        "average_pace": "10:05 min/mile",
+        "total_elevation": "3208.66 ft",
+        "average_hr": "149.31 bpm",
+        "activities_count": "21"
+      },
+      "January 2025": {
+        "total_distance": "57.04 miles",
+        "total_time": "9:56 h",
+        "average_pace": "10:26 min/mile",
+        "total_elevation": "939.63 ft",
+        "average_hr": "151.86 bpm",
+        "activities_count": "12"
+      },
+      "February 2025": {
+        "total_distance": "70.56 miles",
+        "total_time": "10:53 h",
+        "average_pace": "9:15 min/mile",
+        "total_elevation": "593.83 ft",
+        "average_hr": "160.31 bpm",
+        "activities_count": "19"
+      },
+      "March 2025": {
+        "total_distance": "102.79 miles",
+        "total_time": "15:26 h",
+        "average_pace": "9:00 min/mile",
+        "total_elevation": "2708.66 ft",
+        "average_hr": "156.4 bpm",
+        "activities_count": "22"
+      },
+      "April 2025": {
+        "total_distance": "59.3 miles",
+        "total_time": "10:48 h",
+        "average_pace": "10:55 min/mile",
+        "total_elevation": "1499.34 ft",
+        "average_hr": "154.78 bpm",
+        "activities_count": "13"
+      },
+      "May 2025": {
+        "total_distance": "47.44 miles",
+        "total_time": "8:11 h",
+        "average_pace": "10:20 min/mile",
+        "total_elevation": "805.12 ft",
+        "average_hr": "150.74 bpm",
+        "activities_count": "13"
+      },
+      "June 2025": {
+        "total_distance": "170.45 miles",
+        "total_time": "28:46 h",
+        "average_pace": "10:07 min/mile",
+        "total_elevation": "5783.46 ft",
+        "average_hr": "147.0 bpm",
+        "activities_count": "26"
+      },
+      "July 2025": {
+        "total_distance": "204.6 miles",
+        "total_time": "37:17 h",
+        "average_pace": "10:55 min/mile",
+        "total_elevation": "8388.45 ft",
+        "average_hr": "141.57 bpm",
+        "activities_count": "30"
+      },
+      "August 2025": {
+        "total_distance": "199.32 miles",
+        "total_time": "31:39 h",
+        "average_pace": "9:31 min/mile",
+        "total_elevation": "4726.38 ft",
+        "average_hr": "144.7 bpm",
+        "activities_count": "27"
+      },
+      "September 2025": {
+        "total_distance": "188.84 miles",
+        "total_time": "29:14 h",
+        "average_pace": "9:17 min/mile",
+        "total_elevation": "1781.5 ft",
+        "average_hr": "140.21 bpm",
+        "activities_count": "27"
+      },
+      "October 2025": {
+        "total_distance": "142.61 miles",
+        "total_time": "21:11 h",
+        "average_pace": "8:54 min/mile",
+        "total_elevation": "2318.9 ft",
+        "average_hr": "153.35 bpm",
+        "activities_count": "25"
+      },
+      "November 2025": {
+        "total_distance": "286.56 miles",
+        "total_time": "50:10 h",
+        "average_pace": "10:30 min/mile",
+        "total_elevation": "5795.28 ft",
+        "average_hr": "141.31 bpm",
+        "activities_count": "29"
+      },
+      "December 2025": {
+        "total_distance": "11.03 miles",
+        "total_time": "1:42 h",
+        "average_pace": "9:17 min/mile",
+        "total_elevation": "0.0 ft",
+        "average_hr": "130.93 bpm",
+        "activities_count": "3"
+      }
+    },
+    "Hike": {
+      "May 2024": {
+        "total_distance": "11.79 miles",
+        "total_time": "6:28 h",
+        "average_pace": "32:53 min/mile",
+        "total_elevation": "8357.61 ft",
+        "average_hr": "117.1 bpm",
+        "activities_count": "1"
+      },
+      "July 2025": {
+        "total_distance": "9.69 miles",
+        "total_time": "5:09 h",
+        "average_pace": "31:52 min/mile",
+        "total_elevation": "4682.41 ft",
+        "average_hr": "103.5 bpm",
+        "activities_count": "1"
+      },
+      "November 2025": {
+        "total_distance": "0.92 miles",
+        "total_time": "0:24 h",
+        "average_pace": "26:32 min/mile",
+        "total_elevation": "374.67 ft",
+        "average_hr": "112.4 bpm",
+        "activities_count": "1"
+      }
+    },
+    "Workout": {
+      "May 2024": {
+        "total_distance": "0.0 miles",
+        "total_time": "6:23 h",
+        "average_pace": "N/A",
+        "total_elevation": "0.0 ft",
+        "average_hr": "164.8 bpm",
+        "activities_count": "1"
+      },
+      "April 2025": {
+        "total_distance": "0.0 miles",
+        "total_time": "6:12 h",
+        "average_pace": "N/A",
+        "total_elevation": "0.0 ft",
+        "average_hr": "154.2 bpm",
+        "activities_count": "1"
+      },
+      "May 2025": {
+        "total_distance": "0.0 miles",
+        "total_time": "0:54 h",
+        "average_pace": "N/A",
+        "total_elevation": "0.0 ft",
+        "average_hr": "157.9 bpm",
+        "activities_count": "1"
+      },
+      "August 2025": {
+        "total_distance": "0.0 miles",
+        "total_time": "1:26 h",
+        "average_pace": "N/A",
+        "total_elevation": "0.0 ft",
+        "average_hr": "109.05 bpm",
+        "activities_count": "2"
+      },
+      "September 2025": {
+        "total_distance": "0.0 miles",
+        "total_time": "2:55 h",
+        "average_pace": "N/A",
+        "total_elevation": "0.0 ft",
+        "average_hr": "114.75 bpm",
+        "activities_count": "4"
+      },
+      "October 2025": {
+        "total_distance": "0.0 miles",
+        "total_time": "2:14 h",
+        "average_pace": "N/A",
+        "total_elevation": "0.0 ft",
+        "average_hr": "111.9 bpm",
+        "activities_count": "2"
+      },
+      "November 2025": {
+        "total_distance": "0.0 miles",
+        "total_time": "1:00 h",
+        "average_pace": "N/A",
+        "total_elevation": "0.0 ft",
+        "average_hr": "97.9 bpm",
+        "activities_count": "1"
+      }
+    },
+    "Ride": {
+      "February 2024": {
+        "total_distance": "0.0 miles",
+        "total_time": "1:21 h",
+        "average_pace": "N/A",
+        "total_elevation": "0.0 ft",
+        "average_hr": "134.2 bpm",
+        "activities_count": "2"
+      },
+      "March 2024": {
+        "total_distance": "243.62 miles",
+        "total_time": "16:42 h",
+        "average_pace": "4:06 min/mile",
+        "total_elevation": "9091.21 ft",
+        "average_hr": "136.7 bpm",
+        "activities_count": "7"
+      },
+      "April 2024": {
+        "total_distance": "111.56 miles",
+        "total_time": "6:55 h",
+        "average_pace": "3:43 min/mile",
+        "total_elevation": "4398.29 ft",
+        "average_hr": "150.33 bpm",
+        "activities_count": "4"
+      },
+      "May 2024": {
+        "total_distance": "10.85 miles",
+        "total_time": "0:44 h",
+        "average_pace": "4:02 min/mile",
+        "total_elevation": "435.7 ft",
+        "average_hr": "139.7 bpm",
+        "activities_count": "1"
+      },
+      "June 2024": {
+        "total_distance": "0.0 miles",
+        "total_time": "0:10 h",
+        "average_pace": "N/A",
+        "total_elevation": "0.0 ft",
+        "average_hr": "117.6 bpm",
+        "activities_count": "1"
+      },
+      "July 2024": {
+        "total_distance": "0.0 miles",
+        "total_time": "6:04 h",
+        "average_pace": "N/A",
+        "total_elevation": "0.0 ft",
+        "average_hr": "138.34 bpm",
+        "activities_count": "8"
+      },
+      "August 2024": {
+        "total_distance": "0.0 miles",
+        "total_time": "8:46 h",
+        "average_pace": "N/A",
+        "total_elevation": "0.0 ft",
+        "average_hr": "134.17 bpm",
+        "activities_count": "10"
+      },
+      "October 2024": {
+        "total_distance": "66.04 miles",
+        "total_time": "7:10 h",
+        "average_pace": "6:30 min/mile",
+        "total_elevation": "1738.85 ft",
+        "average_hr": "138.72 bpm",
+        "activities_count": "5"
+      },
+      "November 2024": {
+        "total_distance": "97.55 miles",
+        "total_time": "16:16 h",
+        "average_pace": "10:00 min/mile",
+        "total_elevation": "3610.89 ft",
+        "average_hr": "140.52 bpm",
+        "activities_count": "17"
+      },
+      "December 2024": {
+        "total_distance": "0.0 miles",
+        "total_time": "5:19 h",
+        "average_pace": "N/A",
+        "total_elevation": "0.0 ft",
+        "average_hr": "129.41 bpm",
+        "activities_count": "7"
+      },
+      "January 2025": {
+        "total_distance": "0.0 miles",
+        "total_time": "13:18 h",
+        "average_pace": "N/A",
+        "total_elevation": "0.0 ft",
+        "average_hr": "136.21 bpm",
+        "activities_count": "13"
+      },
+      "February 2025": {
+        "total_distance": "0.0 miles",
+        "total_time": "17:05 h",
+        "average_pace": "N/A",
+        "total_elevation": "0.0 ft",
+        "average_hr": "125.17 bpm",
+        "activities_count": "15"
+      },
+      "March 2025": {
+        "total_distance": "221.01 miles",
+        "total_time": "29:07 h",
+        "average_pace": "7:54 min/mile",
+        "total_elevation": "9524.93 ft",
+        "average_hr": "123.02 bpm",
+        "activities_count": "20"
+      },
+      "April 2025": {
+        "total_distance": "84.63 miles",
+        "total_time": "11:46 h",
+        "average_pace": "8:20 min/mile",
+        "total_elevation": "3471.13 ft",
+        "average_hr": "128.41 bpm",
+        "activities_count": "10"
+      },
+      "May 2025": {
+        "total_distance": "97.35 miles",
+        "total_time": "6:49 h",
+        "average_pace": "4:12 min/mile",
+        "total_elevation": "6319.55 ft",
+        "average_hr": "143.26 bpm",
+        "activities_count": "5"
+      },
+      "October 2025": {
+        "total_distance": "0.0 miles",
+        "total_time": "0:30 h",
+        "average_pace": "N/A",
+        "total_elevation": "0.0 ft",
+        "average_hr": "108.7 bpm",
+        "activities_count": "1"
+      }
+    },
+    "Walk": {
+      "March 2024": {
+        "total_distance": "0.92 miles",
+        "total_time": "0:20 h",
+        "average_pace": "21:50 min/mile",
+        "total_elevation": "78.08 ft",
+        "average_hr": "100.9 bpm",
+        "activities_count": "1"
+      },
+      "October 2025": {
+        "total_distance": "0.51 miles",
+        "total_time": "0:19 h",
+        "average_pace": "36:53 min/mile",
+        "total_elevation": "0.0 ft",
+        "average_hr": "82.6 bpm",
+        "activities_count": "1"
+      }
+    },
+    "Swim": {
+      "February 2024": {
+        "total_distance": "0.57 miles",
+        "total_time": "0:16 h",
+        "average_pace": "27:23 min/mile",
+        "total_elevation": "0.0 ft",
+        "average_hr": "142.3 bpm",
+        "activities_count": "1"
+      },
+      "June 2024": {
+        "total_distance": "2.05 miles",
+        "total_time": "1:10 h",
+        "average_pace": "34:07 min/mile",
+        "total_elevation": "0.0 ft",
+        "average_hr": "136.3 bpm",
+        "activities_count": "2"
+      },
+      "July 2024": {
+        "total_distance": "4.57 miles",
+        "total_time": "2:37 h",
+        "average_pace": "34:25 min/mile",
+        "total_elevation": "0.0 ft",
+        "average_hr": "135.31 bpm",
+        "activities_count": "7"
+      },
+      "August 2024": {
+        "total_distance": "2.16 miles",
+        "total_time": "1:04 h",
+        "average_pace": "29:45 min/mile",
+        "total_elevation": "0.0 ft",
+        "average_hr": "133.55 bpm",
+        "activities_count": "2"
+      },
+      "December 2024": {
+        "total_distance": "2.84 miles",
+        "total_time": "1:20 h",
+        "average_pace": "28:07 min/mile",
+        "total_elevation": "0.0 ft",
+        "average_hr": "140.74 bpm",
+        "activities_count": "5"
+      },
+      "January 2025": {
+        "total_distance": "2.9 miles",
+        "total_time": "1:17 h",
+        "average_pace": "26:25 min/mile",
+        "total_elevation": "0.0 ft",
+        "average_hr": "149.68 bpm",
+        "activities_count": "4"
+      },
+      "February 2025": {
+        "total_distance": "1.48 miles",
+        "total_time": "0:46 h",
+        "average_pace": "31:00 min/mile",
+        "total_elevation": "0.0 ft",
+        "average_hr": "138.5 bpm",
+        "activities_count": "2"
+      },
+      "March 2025": {
+        "total_distance": "6.28 miles",
+        "total_time": "3:30 h",
+        "average_pace": "33:29 min/mile",
+        "total_elevation": "0.0 ft",
+        "average_hr": "132.94 bpm",
+        "activities_count": "8"
+      },
+      "April 2025": {
+        "total_distance": "1.31 miles",
+        "total_time": "0:54 h",
+        "average_pace": "40:52 min/mile",
+        "total_elevation": "10.5 ft",
+        "average_hr": "132.1 bpm",
+        "activities_count": "3"
+      },
+      "May 2025": {
+        "total_distance": "1.19 miles",
+        "total_time": "0:30 h",
+        "average_pace": "25:32 min/mile",
+        "total_elevation": "0.0 ft",
+        "average_hr": "159.2 bpm",
+        "activities_count": "1"
+      },
+      "July 2025": {
+        "total_distance": "1.12 miles",
+        "total_time": "0:37 h",
+        "average_pace": "32:46 min/mile",
+        "total_elevation": "0.0 ft",
+        "average_hr": "134.5 bpm",
+        "activities_count": "1"
+      }
+    }
+  }
+}

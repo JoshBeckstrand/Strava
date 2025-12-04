@@ -1,0 +1,708 @@
+{
+  "activity_summary": {
+    "WeightTraining": {
+      "total_distance": 0.21617497089999999,
+      "total_time": 72.01527777777777,
+      "total_elevation": 0.0,
+      "total_hr": 9613.4,
+      "count_hr": 97,
+      "count": 97
+    },
+    "Run": {
+      "total_distance": 2184.909386774899,
+      "total_time": 367.20194444444473,
+      "total_elevation": 58269.03073599998,
+      "total_hr": 51161.80000000001,
+      "count_hr": 341,
+      "count": 341
+    },
+    "Hike": {
+      "total_distance": 22.3961370901,
+      "total_time": 12.016944444444444,
+      "total_elevation": 13414.698592,
+      "total_hr": 333.0,
+      "count_hr": 3,
+      "count": 3
+    },
+    "Workout": {
+      "total_distance": 0.0,
+      "total_time": 21.05972222222222,
+      "total_elevation": 0.0,
+      "total_hr": 1475.7,
+      "count_hr": 12,
+      "count": 12
+    },
+    "Ride": {
+      "total_distance": 932.6054812785001,
+      "total_time": 148.04166666666674,
+      "total_elevation": 38590.552416000006,
+      "total_hr": 16738.40000000001,
+      "count_hr": 126,
+      "count": 126
+    },
+    "Walk": {
+      "total_distance": 1.4288426145000002,
+      "total_time": 0.6475,
+      "total_elevation": 78.083992,
+      "total_hr": 183.5,
+      "count_hr": 2,
+      "count": 2
+    },
+    "Swim": {
+      "total_distance": 26.464004478699998,
+      "total_time": 14.006944444444445,
+      "total_elevation": 10.498688000000001,
+      "total_hr": 4962.1,
+      "count_hr": 36,
+      "count": 36
+    }
+  },
+  "monthly_summary": {
+    "WeightTraining": {
+      "2025-12": {
+        "total_distance": 0.0,
+        "total_time": 1.1622222222222223,
+        "total_elevation": 0.0,
+        "total_hr": 189.3,
+        "count_hr": 2,
+        "count": 2
+      },
+      "2025-11": {
+        "total_distance": 0.0,
+        "total_time": 5.026944444444444,
+        "total_elevation": 0.0,
+        "total_hr": 997.3,
+        "count_hr": 10,
+        "count": 10
+      },
+      "2025-10": {
+        "total_distance": 0.0,
+        "total_time": 6.180833333333332,
+        "total_elevation": 0.0,
+        "total_hr": 1047.4,
+        "count_hr": 10,
+        "count": 10
+      },
+      "2025-09": {
+        "total_distance": 0.0,
+        "total_time": 5.553055555555555,
+        "total_elevation": 0.0,
+        "total_hr": 1020.6999999999998,
+        "count_hr": 11,
+        "count": 11
+      },
+      "2025-08": {
+        "total_distance": 0.21617497089999999,
+        "total_time": 8.373333333333333,
+        "total_elevation": 0.0,
+        "total_hr": 1038.8000000000002,
+        "count_hr": 12,
+        "count": 12
+      },
+      "2025-07": {
+        "total_distance": 0.0,
+        "total_time": 3.6386111111111115,
+        "total_elevation": 0.0,
+        "total_hr": 595.5,
+        "count_hr": 7,
+        "count": 7
+      },
+      "2025-06": {
+        "total_distance": 0.0,
+        "total_time": 5.6161111111111115,
+        "total_elevation": 0.0,
+        "total_hr": 895.2000000000002,
+        "count_hr": 9,
+        "count": 9
+      },
+      "2025-05": {
+        "total_distance": 0.0,
+        "total_time": 3.2525000000000004,
+        "total_elevation": 0.0,
+        "total_hr": 610.4,
+        "count_hr": 6,
+        "count": 6
+      },
+      "2025-03": {
+        "total_distance": 0.0,
+        "total_time": 0.8613888888888889,
+        "total_elevation": 0.0,
+        "total_hr": 101.8,
+        "count_hr": 1,
+        "count": 1
+      },
+      "2025-02": {
+        "total_distance": 0.0,
+        "total_time": 2.0077777777777777,
+        "total_elevation": 0.0,
+        "total_hr": 226.7,
+        "count_hr": 2,
+        "count": 2
+      },
+      "2025-01": {
+        "total_distance": 0.0,
+        "total_time": 5.773611111111111,
+        "total_elevation": 0.0,
+        "total_hr": 410.70000000000005,
+        "count_hr": 4,
+        "count": 4
+      },
+      "2024-12": {
+        "total_distance": 0.0,
+        "total_time": 4.830833333333333,
+        "total_elevation": 0.0,
+        "total_hr": 407.99999999999994,
+        "count_hr": 4,
+        "count": 4
+      },
+      "2024-11": {
+        "total_distance": 0.0,
+        "total_time": 3.7347222222222225,
+        "total_elevation": 0.0,
+        "total_hr": 312.0,
+        "count_hr": 3,
+        "count": 3
+      },
+      "2024-10": {
+        "total_distance": 0.0,
+        "total_time": 3.826388888888889,
+        "total_elevation": 0.0,
+        "total_hr": 343.8,
+        "count_hr": 3,
+        "count": 3
+      },
+      "2024-08": {
+        "total_distance": 0.0,
+        "total_time": 5.213333333333333,
+        "total_elevation": 0.0,
+        "total_hr": 563.9000000000001,
+        "count_hr": 5,
+        "count": 5
+      },
+      "2024-07": {
+        "total_distance": 0.0,
+        "total_time": 5.022777777777779,
+        "total_elevation": 0.0,
+        "total_hr": 637.6999999999999,
+        "count_hr": 6,
+        "count": 6
+      },
+      "2024-06": {
+        "total_distance": 0.0,
+        "total_time": 1.9408333333333332,
+        "total_elevation": 0.0,
+        "total_hr": 214.2,
+        "count_hr": 2,
+        "count": 2
+      }
+    },
+    "Run": {
+      "2025-12": {
+        "total_distance": 11.0252342014,
+        "total_time": 1.706388888888889,
+        "total_elevation": 0.0,
+        "total_hr": 392.8,
+        "count_hr": 3,
+        "count": 3
+      },
+      "2025-11": {
+        "total_distance": 286.5646855622999,
+        "total_time": 50.17222222222222,
+        "total_elevation": 5795.275776,
+        "total_hr": 4098.0,
+        "count_hr": 29,
+        "count": 29
+      },
+      "2025-10": {
+        "total_distance": 142.60880768569996,
+        "total_time": 21.190833333333337,
+        "total_elevation": 2318.897712,
+        "total_hr": 3833.6999999999994,
+        "count_hr": 25,
+        "count": 25
+      },
+      "2025-09": {
+        "total_distance": 188.84110915840003,
+        "total_time": 29.238888888888887,
+        "total_elevation": 1781.4961199999998,
+        "total_hr": 3785.5999999999995,
+        "count_hr": 27,
+        "count": 27
+      },
+      "2025-08": {
+        "total_distance": 199.32177381539998,
+        "total_time": 31.657500000000002,
+        "total_elevation": 4726.378103999999,
+        "total_hr": 3906.9000000000005,
+        "count_hr": 27,
+        "count": 27
+      },
+      "2025-07": {
+        "total_distance": 204.5983942103,
+        "total_time": 37.27527777777778,
+        "total_elevation": 8388.451711999998,
+        "total_hr": 4247.200000000001,
+        "count_hr": 30,
+        "count": 30
+      },
+      "2025-06": {
+        "total_distance": 170.4531878409,
+        "total_time": 28.763333333333335,
+        "total_elevation": 5783.464751999999,
+        "total_hr": 3821.9000000000005,
+        "count_hr": 26,
+        "count": 26
+      },
+      "2025-05": {
+        "total_distance": 47.443664237200004,
+        "total_time": 8.180555555555557,
+        "total_elevation": 805.118136,
+        "total_hr": 1959.6000000000001,
+        "count_hr": 13,
+        "count": 13
+      },
+      "2025-04": {
+        "total_distance": 59.29948505430001,
+        "total_time": 10.794722222222223,
+        "total_elevation": 1499.34388,
+        "total_hr": 2012.2,
+        "count_hr": 13,
+        "count": 13
+      },
+      "2025-03": {
+        "total_distance": 102.7870044087,
+        "total_time": 15.425555555555553,
+        "total_elevation": 2708.661504,
+        "total_hr": 3440.8,
+        "count_hr": 22,
+        "count": 22
+      },
+      "2025-02": {
+        "total_distance": 70.5620829777,
+        "total_time": 10.890833333333331,
+        "total_elevation": 593.83204,
+        "total_hr": 3045.7999999999997,
+        "count_hr": 19,
+        "count": 19
+      },
+      "2025-01": {
+        "total_distance": 57.044778243699994,
+        "total_time": 9.934444444444443,
+        "total_elevation": 939.632576,
+        "total_hr": 1822.3000000000002,
+        "count_hr": 12,
+        "count": 12
+      },
+      "2024-12": {
+        "total_distance": 118.7703442304,
+        "total_time": 19.966666666666665,
+        "total_elevation": 3208.66152,
+        "total_hr": 3135.4999999999995,
+        "count_hr": 21,
+        "count": 21
+      },
+      "2024-11": {
+        "total_distance": 55.3320933564,
+        "total_time": 9.811944444444444,
+        "total_elevation": 1828.0840479999997,
+        "total_hr": 1446.6000000000001,
+        "count_hr": 9,
+        "count": 9
+      },
+      "2024-10": {
+        "total_distance": 41.263011174400006,
+        "total_time": 6.545277777777778,
+        "total_elevation": 791.338608,
+        "total_hr": 998.7,
+        "count_hr": 6,
+        "count": 6
+      },
+      "2024-09": {
+        "total_distance": 81.55264467730001,
+        "total_time": 15.350555555555555,
+        "total_elevation": 3595.80064,
+        "total_hr": 876.4000000000001,
+        "count_hr": 6,
+        "count": 6
+      },
+      "2024-08": {
+        "total_distance": 98.04954763050002,
+        "total_time": 16.515555555555554,
+        "total_elevation": 1828.0840480000002,
+        "total_hr": 2157.9000000000005,
+        "count_hr": 14,
+        "count": 14
+      },
+      "2024-07": {
+        "total_distance": 37.1558110015,
+        "total_time": 7.067222222222222,
+        "total_elevation": 238.84515199999998,
+        "total_hr": 1366.7,
+        "count_hr": 9,
+        "count": 9
+      },
+      "2024-06": {
+        "total_distance": 84.33899651550001,
+        "total_time": 16.261111111111113,
+        "total_elevation": 6076.771848,
+        "total_hr": 1103.3,
+        "count_hr": 7,
+        "count": 7
+      },
+      "2024-05": {
+        "total_distance": 40.102476557699994,
+        "total_time": 7.051388888888889,
+        "total_elevation": 2028.8714559999999,
+        "total_hr": 618.9,
+        "count_hr": 4,
+        "count": 4
+      },
+      "2024-04": {
+        "total_distance": 33.3490437071,
+        "total_time": 4.9975000000000005,
+        "total_elevation": 1286.0892800000001,
+        "total_hr": 1154.2,
+        "count_hr": 7,
+        "count": 7
+      },
+      "2024-03": {
+        "total_distance": 45.31167819910001,
+        "total_time": 7.006111111111111,
+        "total_elevation": 2045.9318239999996,
+        "total_hr": 1599.4999999999998,
+        "count_hr": 10,
+        "count": 10
+      },
+      "2024-02": {
+        "total_distance": 9.133532329,
+        "total_time": 1.3980555555555556,
+        "total_elevation": 0.0,
+        "total_hr": 337.3,
+        "count_hr": 2,
+        "count": 2
+      }
+    },
+    "Hike": {
+      "2025-11": {
+        "total_distance": 0.9152794830000001,
+        "total_time": 0.405,
+        "total_elevation": 374.671928,
+        "total_hr": 112.4,
+        "count_hr": 1,
+        "count": 1
+      },
+      "2025-07": {
+        "total_distance": 9.6858690109,
+        "total_time": 5.144444444444445,
+        "total_elevation": 4682.414848,
+        "total_hr": 103.5,
+        "count_hr": 1,
+        "count": 1
+      },
+      "2024-05": {
+        "total_distance": 11.794988596200001,
+        "total_time": 6.4675,
+        "total_elevation": 8357.611816,
+        "total_hr": 117.1,
+        "count_hr": 1,
+        "count": 1
+      }
+    },
+    "Workout": {
+      "2025-11": {
+        "total_distance": 0.0,
+        "total_time": 1.0055555555555555,
+        "total_elevation": 0.0,
+        "total_hr": 97.9,
+        "count_hr": 1,
+        "count": 1
+      },
+      "2025-10": {
+        "total_distance": 0.0,
+        "total_time": 2.2269444444444444,
+        "total_elevation": 0.0,
+        "total_hr": 223.8,
+        "count_hr": 2,
+        "count": 2
+      },
+      "2025-09": {
+        "total_distance": 0.0,
+        "total_time": 2.9097222222222223,
+        "total_elevation": 0.0,
+        "total_hr": 459.0,
+        "count_hr": 4,
+        "count": 4
+      },
+      "2025-08": {
+        "total_distance": 0.0,
+        "total_time": 1.4325,
+        "total_elevation": 0.0,
+        "total_hr": 218.1,
+        "count_hr": 2,
+        "count": 2
+      },
+      "2025-05": {
+        "total_distance": 0.0,
+        "total_time": 0.8927777777777778,
+        "total_elevation": 0.0,
+        "total_hr": 157.9,
+        "count_hr": 1,
+        "count": 1
+      },
+      "2025-04": {
+        "total_distance": 0.0,
+        "total_time": 6.205,
+        "total_elevation": 0.0,
+        "total_hr": 154.2,
+        "count_hr": 1,
+        "count": 1
+      },
+      "2024-05": {
+        "total_distance": 0.0,
+        "total_time": 6.387222222222222,
+        "total_elevation": 0.0,
+        "total_hr": 164.8,
+        "count_hr": 1,
+        "count": 1
+      }
+    },
+    "Ride": {
+      "2025-10": {
+        "total_distance": 0.0,
+        "total_time": 0.5005555555555555,
+        "total_elevation": 0.0,
+        "total_hr": 108.7,
+        "count_hr": 1,
+        "count": 1
+      },
+      "2025-05": {
+        "total_distance": 97.349573199,
+        "total_time": 6.820833333333334,
+        "total_elevation": 6319.554008000001,
+        "total_hr": 716.3,
+        "count_hr": 5,
+        "count": 5
+      },
+      "2025-04": {
+        "total_distance": 84.625137861,
+        "total_time": 11.758333333333333,
+        "total_elevation": 3471.1287199999997,
+        "total_hr": 1284.1,
+        "count_hr": 10,
+        "count": 10
+      },
+      "2025-03": {
+        "total_distance": 221.00842949770004,
+        "total_time": 29.11666666666667,
+        "total_elevation": 9524.934688000001,
+        "total_hr": 2460.3,
+        "count_hr": 20,
+        "count": 20
+      },
+      "2025-02": {
+        "total_distance": 0.0,
+        "total_time": 17.084722222222222,
+        "total_elevation": 0.0,
+        "total_hr": 1877.6000000000001,
+        "count_hr": 15,
+        "count": 15
+      },
+      "2025-01": {
+        "total_distance": 0.0,
+        "total_time": 13.302499999999998,
+        "total_elevation": 0.0,
+        "total_hr": 1770.7000000000003,
+        "count_hr": 13,
+        "count": 13
+      },
+      "2024-12": {
+        "total_distance": 0.0,
+        "total_time": 5.321388888888889,
+        "total_elevation": 0.0,
+        "total_hr": 905.9000000000001,
+        "count_hr": 7,
+        "count": 7
+      },
+      "2024-11": {
+        "total_distance": 97.54673421730001,
+        "total_time": 16.26722222222222,
+        "total_elevation": 3610.8925040000004,
+        "total_hr": 2388.9,
+        "count_hr": 17,
+        "count": 17
+      },
+      "2024-10": {
+        "total_distance": 66.0429138318,
+        "total_time": 7.158611111111111,
+        "total_elevation": 1738.8452,
+        "total_hr": 693.5999999999999,
+        "count_hr": 5,
+        "count": 5
+      },
+      "2024-08": {
+        "total_distance": 0.0,
+        "total_time": 8.767222222222223,
+        "total_elevation": 0.0,
+        "total_hr": 1341.6999999999998,
+        "count_hr": 10,
+        "count": 10
+      },
+      "2024-07": {
+        "total_distance": 0.0,
+        "total_time": 6.072777777777778,
+        "total_elevation": 0.0,
+        "total_hr": 1106.7,
+        "count_hr": 8,
+        "count": 8
+      },
+      "2024-06": {
+        "total_distance": 0.0,
+        "total_time": 0.1675,
+        "total_elevation": 0.0,
+        "total_hr": 117.6,
+        "count_hr": 1,
+        "count": 1
+      },
+      "2024-05": {
+        "total_distance": 10.851001773,
+        "total_time": 0.7313888888888889,
+        "total_elevation": 435.695552,
+        "total_hr": 139.7,
+        "count_hr": 1,
+        "count": 1
+      },
+      "2024-04": {
+        "total_distance": 111.5599551464,
+        "total_time": 6.912222222222222,
+        "total_elevation": 4398.2941040000005,
+        "total_hr": 601.3000000000001,
+        "count_hr": 4,
+        "count": 4
+      },
+      "2024-03": {
+        "total_distance": 243.62173575230003,
+        "total_time": 16.708055555555553,
+        "total_elevation": 9091.20764,
+        "total_hr": 956.9,
+        "count_hr": 7,
+        "count": 7
+      },
+      "2024-02": {
+        "total_distance": 0.0,
+        "total_time": 1.3516666666666666,
+        "total_elevation": 0.0,
+        "total_hr": 268.4,
+        "count_hr": 2,
+        "count": 2
+      }
+    },
+    "Walk": {
+      "2025-10": {
+        "total_distance": 0.508281478,
+        "total_time": 0.3125,
+        "total_elevation": 0.0,
+        "total_hr": 82.6,
+        "count_hr": 1,
+        "count": 1
+      },
+      "2024-03": {
+        "total_distance": 0.9205611365,
+        "total_time": 0.335,
+        "total_elevation": 78.083992,
+        "total_hr": 100.9,
+        "count_hr": 1,
+        "count": 1
+      }
+    },
+    "Swim": {
+      "2025-07": {
+        "total_distance": 1.1184678000000001,
+        "total_time": 0.6108333333333333,
+        "total_elevation": 0.0,
+        "total_hr": 134.5,
+        "count_hr": 1,
+        "count": 1
+      },
+      "2025-05": {
+        "total_distance": 1.1931565942,
+        "total_time": 0.5077777777777778,
+        "total_elevation": 0.0,
+        "total_hr": 159.2,
+        "count_hr": 1,
+        "count": 1
+      },
+      "2025-04": {
+        "total_distance": 1.3127705117,
+        "total_time": 0.8944444444444445,
+        "total_elevation": 10.498688000000001,
+        "total_hr": 396.29999999999995,
+        "count_hr": 3,
+        "count": 3
+      },
+      "2025-03": {
+        "total_distance": 6.278270446899999,
+        "total_time": 3.5047222222222225,
+        "total_elevation": 0.0,
+        "total_hr": 1063.5,
+        "count_hr": 8,
+        "count": 8
+      },
+      "2025-02": {
+        "total_distance": 1.4772474154,
+        "total_time": 0.7633333333333333,
+        "total_elevation": 0.0,
+        "total_hr": 277.0,
+        "count_hr": 2,
+        "count": 2
+      },
+      "2025-01": {
+        "total_distance": 2.8977015214,
+        "total_time": 1.276388888888889,
+        "total_elevation": 0.0,
+        "total_hr": 598.7,
+        "count_hr": 4,
+        "count": 4
+      },
+      "2024-12": {
+        "total_distance": 2.840908212,
+        "total_time": 1.3316666666666668,
+        "total_elevation": 0.0,
+        "total_hr": 703.6999999999999,
+        "count_hr": 5,
+        "count": 5
+      },
+      "2024-08": {
+        "total_distance": 2.1590778137,
+        "total_time": 1.0708333333333333,
+        "total_elevation": 0.0,
+        "total_hr": 267.1,
+        "count_hr": 2,
+        "count": 2
+      },
+      "2024-07": {
+        "total_distance": 4.5727934632,
+        "total_time": 2.6241666666666665,
+        "total_elevation": 0.0,
+        "total_hr": 947.1999999999999,
+        "count_hr": 7,
+        "count": 7
+      },
+      "2024-06": {
+        "total_distance": 2.0454290578,
+        "total_time": 1.1633333333333333,
+        "total_elevation": 0.0,
+        "total_hr": 272.6,
+        "count_hr": 2,
+        "count": 2
+      },
+      "2024-02": {
+        "total_distance": 0.5681816424,
+        "total_time": 0.2594444444444444,
+        "total_elevation": 0.0,
+        "total_hr": 142.3,
+        "count_hr": 1,
+        "count": 1
+      }
+    }
+  }
+}
