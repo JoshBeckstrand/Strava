@@ -3,7 +3,7 @@ import math
 import datetime
 
 INPUT_FILE = "strava_running_clean.json"
-OUTPUT_FILE = "running_race_predictions2.json"
+OUTPUT_FILE = "running_race_predictions3.json"
 
 # Target races in miles
 RACES = {
@@ -81,8 +81,8 @@ def cameron(time_hours, distance_miles, target_miles):
     return f"{h}:{m:02d}:{s:02d}"
 
 # Helper: Find best time at or near a target distance
-def find_best_time_near_distance(runs, target_miles, tolerance=0.15):
-    """Find the fastest run within tolerance of target distance (default 15%)"""
+def find_best_time_near_distance(runs, target_miles, tolerance=0.25):
+    """Find the fastest run within tolerance of target distance (default 25%)"""
     candidates = []
     for run in runs:
         dist = float(run["distance"].split()[0])
@@ -155,36 +155,54 @@ def beckstrand_formula(runs, target_miles):
                     best_recent_pace = run['pace']
 
     # Calculate predicted pace
-    if target_miles <= 5:
-        # Short races: use best recent pace with slight adjustment
-        if best_recent_pace:
+    if target_miles <= 1.5:
+        # Mile: Use absolute fastest pace from any distance with aggressive improvement
+        fastest_recent = min(r['pace'] for r in recent_runs if r['weight'] >= 0.6)
+        # Assume you can sustain 95% of fastest pace for a mile all-out
+        predicted_pace = fastest_recent * 0.95
+        
+    elif target_miles <= 5:
+        # 5K and under: use best recent pace with moderate adjustment
+        if best_recent_pace and pr_pace:
+            # Use the better of: PR pace or best recent pace
+            base_pace = min(best_recent_pace, pr_pace)
+        elif pr_pace:
+            base_pace = pr_pace
+        elif best_recent_pace:
             base_pace = best_recent_pace
         else:
             # Average of fastest 25% of recent paces
-            sorted_paces = sorted([r['pace'] * r['weight'] for r in recent_runs])
+            sorted_paces = sorted([r['pace'] for r in recent_runs if r['weight'] >= 0.6])
             top_25_percent = sorted_paces[:max(1, len(sorted_paces)//4)]
             base_pace = sum(top_25_percent) / len(top_25_percent)
         
-        # Optimistic adjustment for short races (assume 2-3% improvement)
-        predicted_pace = base_pace * 0.975
+        # Optimistic adjustment for short races (1-3% improvement potential)
+        if pr_pace:
+            predicted_pace = base_pace * 0.99  # 1% improvement if you have a PR
+        else:
+            predicted_pace = base_pace * 0.97  # 3% improvement if no PR yet
         
     else:
         # Long races: scale from closest distance PR or best long run
         closest_runs = sorted(recent_runs, key=lambda x: abs(x['distance'] - target_miles))[:5]
         
         # Find best weighted pace from similar distances
-        best_weighted_pace = min(r['pace'] for r in closest_runs)
+        best_weighted_pace = min(r['pace'] for r in closest_runs if r['weight'] >= 0.3)
         closest_dist = closest_runs[0]['distance']
         
         # Scale using Riegel-like formula but more optimistic
-        scaling_factor = (target_miles / closest_dist) ** 1.04  # Slightly less penalty than 1.06
+        scaling_factor = (target_miles / closest_dist) ** 1.05  # Slightly less penalty
         predicted_pace = best_weighted_pace * scaling_factor * 0.98  # 2% optimistic
 
     predicted_time_min = predicted_pace * target_miles
 
-    # Ensure prediction is at least as fast as current PR
+    # Ensure prediction is at least as fast as current PR (or slightly faster)
     if pr_time:
-        predicted_time_min = min(predicted_time_min, pr_time - 0.5)  # At least 30s faster than PR
+        # For short races, be more aggressive (predict 1-2% faster than PR)
+        if target_miles <= 5:
+            predicted_time_min = min(predicted_time_min, pr_time * 0.98)
+        else:
+            predicted_time_min = min(predicted_time_min, pr_time * 0.99)
 
     # Calculate confidence score
     confidence = 50  # Base confidence
