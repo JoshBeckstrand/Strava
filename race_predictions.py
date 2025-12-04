@@ -80,81 +80,167 @@ def cameron(time_hours, distance_miles, target_miles):
     s = int(((predicted_time_hours - h)*60 - m)*60)
     return f"{h}:{m:02d}:{s:02d}"
 
-# Weighted standard deviation
-def weighted_std(values, weights):
-    avg = sum(v*w for v,w in zip(values, weights)) / sum(weights)
-    variance = sum(w*(v-avg)**2 for v,w in zip(values, weights)) / sum(weights)
-    return math.sqrt(variance)
+# Helper: Find best time at or near a target distance
+def find_best_time_near_distance(runs, target_miles, tolerance=0.15):
+    """Find the fastest run within tolerance of target distance (default 15%)"""
+    candidates = []
+    for run in runs:
+        dist = float(run["distance"].split()[0])
+        if abs(dist - target_miles) / target_miles <= tolerance:
+            pace = pace_to_minutes(run["average_pace"])
+            if pace:
+                time_str = run["time"].split()[0]
+                h, m = map(int, time_str.split(":"))
+                total_minutes = h * 60 + m
+                candidates.append((total_minutes, dist, pace))
+    
+    if not candidates:
+        return None, None, None
+    
+    # Return the fastest total time (total_minutes, distance, pace)
+    return min(candidates, key=lambda x: x[0])
 
-# Beckstrand formula
+# Improved Beckstrand formula
 def beckstrand_formula(runs, target_miles):
     now = datetime.datetime.now()
-    weighted_paces = []
-    weighted_distances = []
-
+    
+    # Find current PR at this distance
+    pr_time, pr_dist, pr_pace = find_best_time_near_distance(runs, target_miles)
+    
+    # Collect weighted recent runs
+    recent_runs = []
     for run in runs:
         pace_str = run.get("average_pace", "N/A")
         if pace_str == "N/A":
             continue
+        
         pace = pace_str.replace(" min/mile","")
         if ":" in pace:
-            m,s = pace.split(":")
+            m, s = pace.split(":")
             pace_min = int(m) + int(s)/60
         else:
             pace_min = float(pace)
 
         dist = float(run["distance"].split()[0])
         date = datetime.datetime.strptime(run["date"], "%Y-%m-%dT%H:%M:%SZ")
-
-
         days_ago = (now - date).days
-        if days_ago <= 180:       # 0-6 months
+        
+        # Weight by recency
+        if days_ago <= 90:        # 0-3 months
             weight = 1.0
+        elif days_ago <= 180:     # 3-6 months
+            weight = 0.6
         elif days_ago <= 365:     # 6-12 months
-            weight = 0.5
+            weight = 0.3
         else:
-            weight = 0.2
+            weight = 0.1
 
-        weighted_paces.append((pace_min, weight))
-        weighted_distances.append((dist, pace_min, weight))
+        recent_runs.append({
+            'pace': pace_min,
+            'distance': dist,
+            'weight': weight,
+            'days_ago': days_ago
+        })
 
-    if not weighted_paces:
+    if not recent_runs:
         return "N/A", "0%", "N/A"
 
-    # Short race: mostly pace
+    # Find best pace in recent runs (weighted by distance similarity)
+    best_recent_pace = None
+    for run in recent_runs:
+        if run['weight'] >= 0.6:  # Only recent runs
+            dist_ratio = min(run['distance'], target_miles) / max(run['distance'], target_miles)
+            if dist_ratio >= 0.7:  # Similar distance
+                if best_recent_pace is None or run['pace'] < best_recent_pace:
+                    best_recent_pace = run['pace']
+
+    # Calculate predicted pace
     if target_miles <= 5:
-        pace_total = sum(p*weight for p,weight in weighted_paces)
-        weight_sum = sum(weight for _,weight in weighted_paces)
-        predicted_pace = pace_total / weight_sum
-        predicted_time_min = predicted_pace * target_miles
+        # Short races: use best recent pace with slight adjustment
+        if best_recent_pace:
+            base_pace = best_recent_pace
+        else:
+            # Average of fastest 25% of recent paces
+            sorted_paces = sorted([r['pace'] * r['weight'] for r in recent_runs])
+            top_25_percent = sorted_paces[:max(1, len(sorted_paces)//4)]
+            base_pace = sum(top_25_percent) / len(top_25_percent)
+        
+        # Optimistic adjustment for short races (assume 2-3% improvement)
+        predicted_pace = base_pace * 0.975
+        
     else:
-        # Long races: distance & pace
-        closest = min(weighted_distances, key=lambda x: abs(x[0]-target_miles))
-        closest_dist, closest_pace, weight = closest
-        scaling_exponent = 1.06
-        predicted_time_min = closest_pace * target_miles * (target_miles/closest_dist)**(scaling_exponent-1)
+        # Long races: scale from closest distance PR or best long run
+        closest_runs = sorted(recent_runs, key=lambda x: abs(x['distance'] - target_miles))[:5]
+        
+        # Find best weighted pace from similar distances
+        best_weighted_pace = min(r['pace'] for r in closest_runs)
+        closest_dist = closest_runs[0]['distance']
+        
+        # Scale using Riegel-like formula but more optimistic
+        scaling_factor = (target_miles / closest_dist) ** 1.04  # Slightly less penalty than 1.06
+        predicted_pace = best_weighted_pace * scaling_factor * 0.98  # 2% optimistic
 
-    # Calculate weighted standard deviation of pace
-    paces = [p for p,_ in weighted_paces]
-    weights = [w for _,w in weighted_paces]
-    pace_std = weighted_std(paces, weights)
+    predicted_time_min = predicted_pace * target_miles
 
-    # Best/worst-case times
-    best_time_min = predicted_time_min - pace_std * target_miles
-    worst_time_min = predicted_time_min + pace_std * target_miles
-    delta_seconds = int((worst_time_min - best_time_min)/2 * 60)
-    range_str = f"+/-{delta_seconds}s"
+    # Ensure prediction is at least as fast as current PR
+    if pr_time:
+        predicted_time_min = min(predicted_time_min, pr_time - 0.5)  # At least 30s faster than PR
+
+    # Calculate confidence score
+    confidence = 50  # Base confidence
+    
+    # Factor 1: Recent training volume (more recent runs = higher confidence)
+    recent_count = sum(1 for r in recent_runs if r['days_ago'] <= 90)
+    if recent_count >= 20:
+        confidence += 20
+    elif recent_count >= 10:
+        confidence += 10
+    elif recent_count >= 5:
+        confidence += 5
+    
+    # Factor 2: Experience at target distance
+    if pr_time:
+        confidence += 15  # Have done this distance before
+    
+    # Factor 3: Long run experience (for longer races)
+    max_recent_distance = max(r['distance'] for r in recent_runs if r['days_ago'] <= 90)
+    if target_miles <= max_recent_distance:
+        confidence += 15
+    elif target_miles <= max_recent_distance * 1.3:
+        confidence += 10
+    elif target_miles <= max_recent_distance * 1.5:
+        confidence += 5
+    
+    # Factor 4: Pace consistency
+    recent_paces = [r['pace'] for r in recent_runs if r['days_ago'] <= 90]
+    if len(recent_paces) >= 5:
+        pace_std = math.sqrt(sum((p - sum(recent_paces)/len(recent_paces))**2 for p in recent_paces) / len(recent_paces))
+        if pace_std < 0.5:  # Very consistent
+            confidence += 10
+        elif pace_std < 1.0:  # Moderately consistent
+            confidence += 5
+    
+    confidence = min(100, confidence)
+
+    # Calculate time variability based on distance
+    if target_miles <= 5:
+        # Short races: tight range (3-5 seconds per mile)
+        seconds_per_mile_variance = 4
+    elif target_miles <= 15:
+        # Medium races: moderate range (5-8 seconds per mile)
+        seconds_per_mile_variance = 6
+    else:
+        # Long races: wider range (8-12 seconds per mile)
+        seconds_per_mile_variance = 10
+    
+    total_variance_seconds = seconds_per_mile_variance * target_miles
+    range_str = f"+/-{int(total_variance_seconds)}s"
 
     # Convert predicted time to h:mm:ss
     hours = int(predicted_time_min // 60)
     minutes = int(predicted_time_min % 60)
-    seconds = int((predicted_time_min - int(predicted_time_min))*60)
+    seconds = int((predicted_time_min - int(predicted_time_min)) * 60)
     time_str = f"{hours}:{minutes:02d}:{seconds:02d}"
-
-    # Confidence %
-    recent_count = sum(1 for _,weight in weighted_paces if weight >= 0.5)
-    total_count = len(weighted_paces)
-    confidence = min(100, int((recent_count/total_count)*100)) if total_count>0 else 50
 
     return time_str, f"{confidence}%", range_str
 
