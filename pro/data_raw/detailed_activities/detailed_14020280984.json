@@ -1,0 +1,813 @@
+{
+  "resource_state": 3,
+  "athlete": {
+    "id": 57014865,
+    "resource_state": 1
+  },
+  "name": "10 mile long run part 1",
+  "distance": 6450.7,
+  "moving_time": 2458,
+  "elapsed_time": 2469,
+  "total_elevation_gain": 93.0,
+  "type": "Run",
+  "sport_type": "Run",
+  "workout_type": 0,
+  "device_name": "Apple Watch Ultra",
+  "id": 14020280984,
+  "start_date": "2025-03-29T13:13:19Z",
+  "start_date_local": "2025-03-29T07:13:19Z",
+  "timezone": "(GMT-07:00) America/Denver",
+  "utc_offset": -21600.0,
+  "location_city": null,
+  "location_state": null,
+  "location_country": null,
+  "achievement_count": 3,
+  "kudos_count": 3,
+  "comment_count": 0,
+  "athlete_count": 1,
+  "photo_count": 0,
+  "map": {
+    "id": "a14020280984",
+    "polyline": "amoaF|n~sT[C_Bm@I?_AFw@`@m@PU@iAEO@MBEFCJA|@FbBFVDFLF\\B~GCl@@xCChA@b@ALEBKEu@A{ACOQUOCk@BcAAIAWUiAGuAe@UE_AFmAh@a@He@@i@EU?QBEFAHC|@BlAHn@JLh@DjE?tGClB@HAJIG}CCQQQME{@Ds@AOEYSQ?q@ESEm@Yo@Kw@FwAl@SDc@@aAEM?IDGLAfAF~AFZTHvABdNEf@@H?LEBKEu@AaBEQOQOCuAB]?KESSiAEmAe@_@E}@F}An@k@BcAEWDIN?xABn@Hv@LJj@@hKAjD?X?HCBSCq@?aBGQQQIAaADu@AKESQmAI[Iq@Y]Ew@B}@b@q@Re@@e@EUAK@MDEH?HApAFpAHZFDH@zABtIE~@@j@Al@@n@CFG@IEo@AeBEOQQICyB@KCWSgAGa@Ma@Sa@GaADuAn@SFg@?c@EYAI?KFEHAHC~@@`AFh@FNHHPBrACN@NAnB@hKAHG@ICm@A_BAQQUMGc@BuA?MGUQW?q@IiAa@_@Gw@Fu@`@q@Pe@@gACQBGDAJAnAB|@Dd@DHJJf@BxB@nACfKAFCDQC_CCYIOOM}@@GEX@FA?Ak@Gb@@b@ADCAEEAg@?",
+    "resource_state": 3,
+    "summary_polyline": "ytoaFpn~sT{@VgBCMBEDCP?tAFnADNDFLF\\B~GCl@@xCCpA@ZALEBKEu@A{ACOQUOCk@BcAAIAWUiAGuAe@]Ew@FaAb@e@Ne@@_AEYBCDCJCr@BjADp@FNFFh@DjE?tGClB@HAJIG}CCQQQME{@Ds@AOEYSQ?q@ESEm@Yo@Kw@FwAl@SDc@@aAEM?IDGLAjAFzAFZLHX@rQAH?LEBKCm@CiBKYIIGA{B@KESSiAEmAe@_@E}@F}An@e@B_AEY@GBINBhCHv@LJJ@nRAHCBSCa@?}AC]UYIAaADu@AKESQmAI[Iq@YUEs@@K@}@b@q@Re@@e@EUASDIHC|A@j@Fp@FNFDn@BnQCFAFQEo@AeBEOQQICeBBWAGCWSgAGa@Ma@Sa@GaADuAn@SFa@@k@Ga@AKFEHEhA@`AB\\JZJJN@rACN@NAnB@hKAHG@IG_DKQSKc@BuA?MGUQW?q@IiAa@_@Gw@Fu@`@q@Pe@@gACQBGFCxAB|@Dd@DHJJL@pABdFC"
+  },
+  "trainer": false,
+  "commute": false,
+  "manual": false,
+  "private": false,
+  "visibility": "everyone",
+  "flagged": false,
+  "gear_id": null,
+  "start_latlng": [
+    37.112017,
+    -113.538544
+  ],
+  "end_latlng": [
+    37.111229,
+    -113.538548
+  ],
+  "average_speed": 2.624,
+  "max_speed": 3.48,
+  "has_heartrate": true,
+  "average_heartrate": 133.4,
+  "max_heartrate": 156.0,
+  "heartrate_opt_out": false,
+  "display_hide_heartrate_option": true,
+  "elev_high": 846.2,
+  "elev_low": 831.4,
+  "upload_id": 14965967199,
+  "upload_id_str": "14965967199",
+  "external_id": "8CF6E25A-0CF3-436F-B96A-02C254D51B7B.fit",
+  "from_accepted_tag": false,
+  "pr_count": 1,
+  "total_photo_count": 0,
+  "has_kudoed": false,
+  "description": "Slow miles around the track",
+  "calories": 516.0,
+  "perceived_exertion": null,
+  "prefer_perceived_exertion": false,
+  "segment_efforts": [
+    {
+      "id": 3341063800243727566,
+      "resource_state": 2,
+      "name": "MH Full Panorama Loop CCW",
+      "activity": {
+        "id": 14020280984,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 362,
+      "moving_time": 360,
+      "start_date": "2025-03-29T13:14:47Z",
+      "start_date_local": "2025-03-29T07:14:47Z",
+      "distance": 906.2,
+      "start_index": 88,
+      "end_index": 450,
+      "device_watts": false,
+      "average_heartrate": 127.8,
+      "max_heartrate": 146.0,
+      "segment": {
+        "id": 21778610,
+        "resource_state": 2,
+        "name": "MH Full Panorama Loop CCW",
+        "activity_type": "Run",
+        "distance": 906.2,
+        "average_grade": 0.0,
+        "maximum_grade": 5.3,
+        "elevation_high": 843.7,
+        "elevation_low": 829.9,
+        "start_latlng": [
+          37.113924,
+          -113.538589
+        ],
+        "end_latlng": [
+          37.113934,
+          -113.53858
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": null,
+        "country": null,
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3341063800244104398,
+      "resource_state": 2,
+      "name": "MH Full Panorama Loop CCW",
+      "activity": {
+        "id": 14020280984,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 345,
+      "moving_time": 345,
+      "start_date": "2025-03-29T13:20:49Z",
+      "start_date_local": "2025-03-29T07:20:49Z",
+      "distance": 906.2,
+      "start_index": 450,
+      "end_index": 795,
+      "device_watts": false,
+      "average_heartrate": 132.7,
+      "max_heartrate": 147.0,
+      "segment": {
+        "id": 21778610,
+        "resource_state": 2,
+        "name": "MH Full Panorama Loop CCW",
+        "activity_type": "Run",
+        "distance": 906.2,
+        "average_grade": 0.0,
+        "maximum_grade": 5.3,
+        "elevation_high": 843.7,
+        "elevation_low": 829.9,
+        "start_latlng": [
+          37.113924,
+          -113.538589
+        ],
+        "end_latlng": [
+          37.113934,
+          -113.53858
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": null,
+        "country": null,
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 2,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 2
+        }
+      ],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3341063800244491470,
+      "resource_state": 2,
+      "name": "MH Full Panorama Loop CCW",
+      "activity": {
+        "id": 14020280984,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 343,
+      "moving_time": 343,
+      "start_date": "2025-03-29T13:26:34Z",
+      "start_date_local": "2025-03-29T07:26:34Z",
+      "distance": 906.2,
+      "start_index": 795,
+      "end_index": 1138,
+      "device_watts": false,
+      "average_heartrate": 133.1,
+      "max_heartrate": 146.0,
+      "segment": {
+        "id": 21778610,
+        "resource_state": 2,
+        "name": "MH Full Panorama Loop CCW",
+        "activity_type": "Run",
+        "distance": 906.2,
+        "average_grade": 0.0,
+        "maximum_grade": 5.3,
+        "elevation_high": 843.7,
+        "elevation_low": 829.9,
+        "start_latlng": [
+          37.113924,
+          -113.538589
+        ],
+        "end_latlng": [
+          37.113934,
+          -113.53858
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": null,
+        "country": null,
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 1,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 1
+        }
+      ],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3341063800241503438,
+      "resource_state": 2,
+      "name": "MH Full Panorama Loop CCW",
+      "activity": {
+        "id": 14020280984,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 345,
+      "moving_time": 345,
+      "start_date": "2025-03-29T13:32:17Z",
+      "start_date_local": "2025-03-29T07:32:17Z",
+      "distance": 906.2,
+      "start_index": 1138,
+      "end_index": 1482,
+      "device_watts": false,
+      "average_heartrate": 132.8,
+      "max_heartrate": 143.0,
+      "segment": {
+        "id": 21778610,
+        "resource_state": 2,
+        "name": "MH Full Panorama Loop CCW",
+        "activity_type": "Run",
+        "distance": 906.2,
+        "average_grade": 0.0,
+        "maximum_grade": 5.3,
+        "elevation_high": 843.7,
+        "elevation_low": 829.9,
+        "start_latlng": [
+          37.113924,
+          -113.538589
+        ],
+        "end_latlng": [
+          37.113934,
+          -113.53858
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": null,
+        "country": null,
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 3,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 3
+        }
+      ],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3341063800241157326,
+      "resource_state": 2,
+      "name": "MH Full Panorama Loop CCW",
+      "activity": {
+        "id": 14020280984,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 349,
+      "moving_time": 348,
+      "start_date": "2025-03-29T13:38:02Z",
+      "start_date_local": "2025-03-29T07:38:02Z",
+      "distance": 906.2,
+      "start_index": 1482,
+      "end_index": 1830,
+      "device_watts": false,
+      "average_heartrate": 135.6,
+      "max_heartrate": 151.0,
+      "segment": {
+        "id": 21778610,
+        "resource_state": 2,
+        "name": "MH Full Panorama Loop CCW",
+        "activity_type": "Run",
+        "distance": 906.2,
+        "average_grade": 0.0,
+        "maximum_grade": 5.3,
+        "elevation_high": 843.7,
+        "elevation_low": 829.9,
+        "start_latlng": [
+          37.113924,
+          -113.538589
+        ],
+        "end_latlng": [
+          37.113934,
+          -113.53858
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": null,
+        "country": null,
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3341063800243026126,
+      "resource_state": 2,
+      "name": "MH Full Panorama Loop CCW",
+      "activity": {
+        "id": 14020280984,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 353,
+      "moving_time": 341,
+      "start_date": "2025-03-29T13:43:50Z",
+      "start_date_local": "2025-03-29T07:43:50Z",
+      "distance": 906.2,
+      "start_index": 1829,
+      "end_index": 2182,
+      "device_watts": false,
+      "average_heartrate": 137.8,
+      "max_heartrate": 156.0,
+      "segment": {
+        "id": 21778610,
+        "resource_state": 2,
+        "name": "MH Full Panorama Loop CCW",
+        "activity_type": "Run",
+        "distance": 906.2,
+        "average_grade": 0.0,
+        "maximum_grade": 5.3,
+        "elevation_high": 843.7,
+        "elevation_low": 829.9,
+        "start_latlng": [
+          37.113924,
+          -113.538589
+        ],
+        "end_latlng": [
+          37.113934,
+          -113.53858
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": null,
+        "country": null,
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    }
+  ],
+  "splits_metric": [
+    {
+      "distance": 1003.0,
+      "elapsed_time": 401,
+      "elevation_difference": 3.8,
+      "moving_time": 394,
+      "split": 1,
+      "average_speed": 2.55,
+      "average_grade_adjusted_speed": 2.62,
+      "average_heartrate": 124.43846153846154,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.9,
+      "elapsed_time": 374,
+      "elevation_difference": 1.8,
+      "moving_time": 374,
+      "split": 2,
+      "average_speed": 2.67,
+      "average_grade_adjusted_speed": 2.73,
+      "average_heartrate": 133.54545454545453,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.7,
+      "elapsed_time": 373,
+      "elevation_difference": 4.0,
+      "moving_time": 373,
+      "split": 3,
+      "average_speed": 2.68,
+      "average_grade_adjusted_speed": 2.78,
+      "average_heartrate": 133.85522788203752,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.6,
+      "elapsed_time": 379,
+      "elevation_difference": 2.0,
+      "moving_time": 379,
+      "split": 4,
+      "average_speed": 2.64,
+      "average_grade_adjusted_speed": 2.73,
+      "average_heartrate": 133.89709762532982,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.1,
+      "elapsed_time": 388,
+      "elevation_difference": -3.4,
+      "moving_time": 388,
+      "split": 5,
+      "average_speed": 2.58,
+      "average_grade_adjusted_speed": 2.62,
+      "average_heartrate": 136.2421052631579,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.4,
+      "elapsed_time": 370,
+      "elevation_difference": -1.2,
+      "moving_time": 370,
+      "split": 6,
+      "average_speed": 2.7,
+      "average_grade_adjusted_speed": 2.74,
+      "average_heartrate": 138.83013698630137,
+      "pace_zone": 0
+    },
+    {
+      "distance": 448.9,
+      "elapsed_time": 184,
+      "elevation_difference": -6.2,
+      "moving_time": 180,
+      "split": 7,
+      "average_speed": 2.49,
+      "average_grade_adjusted_speed": 2.45,
+      "average_heartrate": 133.5147928994083,
+      "pace_zone": 0
+    }
+  ],
+  "splits_standard": [
+    {
+      "distance": 1610.0,
+      "elapsed_time": 628,
+      "elevation_difference": -0.6,
+      "moving_time": 621,
+      "split": 1,
+      "average_speed": 2.59,
+      "average_grade_adjusted_speed": 2.65,
+      "average_heartrate": 127.86547811993518,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.4,
+      "elapsed_time": 605,
+      "elevation_difference": 9.2,
+      "moving_time": 605,
+      "split": 2,
+      "average_speed": 2.66,
+      "average_grade_adjusted_speed": 2.76,
+      "average_heartrate": 133.9702479338843,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.8,
+      "elapsed_time": 606,
+      "elevation_difference": 1.4,
+      "moving_time": 606,
+      "split": 3,
+      "average_speed": 2.65,
+      "average_grade_adjusted_speed": 2.74,
+      "average_heartrate": 133.93223140495869,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.5,
+      "elapsed_time": 621,
+      "elevation_difference": -9.8,
+      "moving_time": 621,
+      "split": 4,
+      "average_speed": 2.59,
+      "average_grade_adjusted_speed": 2.6,
+      "average_heartrate": 138.03010033444815,
+      "pace_zone": 0
+    },
+    {
+      "distance": 12.9,
+      "elapsed_time": 9,
+      "elevation_difference": 0.6,
+      "moving_time": 5,
+      "split": 5,
+      "average_speed": 2.58,
+      "average_grade_adjusted_speed": 2.88,
+      "average_heartrate": 129.0,
+      "pace_zone": 0
+    }
+  ],
+  "laps": [
+    {
+      "id": 49728751571,
+      "resource_state": 2,
+      "name": "Lap 1",
+      "activity": {
+        "id": 14020280984,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 2415,
+      "moving_time": 2415,
+      "start_date": "2025-03-29T13:13:19Z",
+      "start_date_local": "2025-03-29T07:13:19Z",
+      "distance": 6345.66,
+      "average_speed": 2.63,
+      "max_speed": 3.48,
+      "lap_index": 1,
+      "split": 1,
+      "start_index": 0,
+      "end_index": 2234,
+      "total_elevation_gain": 93.0,
+      "device_watts": false,
+      "average_heartrate": 133.4,
+      "max_heartrate": 156.0,
+      "pace_zone": 0
+    },
+    {
+      "id": 49728751576,
+      "resource_state": 2,
+      "name": "Lap 2",
+      "activity": {
+        "id": 14020280984,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 52,
+      "moving_time": 52,
+      "start_date": "2025-03-29T13:53:36Z",
+      "start_date_local": "2025-03-29T07:53:36Z",
+      "distance": 104.99,
+      "average_speed": 2.02,
+      "max_speed": 2.96,
+      "lap_index": 2,
+      "split": 2,
+      "start_index": 2234,
+      "end_index": 2234,
+      "total_elevation_gain": 0.0,
+      "device_watts": false,
+      "average_heartrate": 133.1,
+      "max_heartrate": 143.0,
+      "pace_zone": 0
+    }
+  ],
+  "best_efforts": [
+    {
+      "id": 59163224512,
+      "resource_state": 2,
+      "name": "400m",
+      "activity": {
+        "id": 14020280984,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 144,
+      "moving_time": 144,
+      "start_date": "2025-03-29T13:13:19Z",
+      "start_date_local": "2025-03-29T07:13:19Z",
+      "distance": 400,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 1928,
+      "end_index": 2072
+    },
+    {
+      "id": 59163224513,
+      "resource_state": 2,
+      "name": "1/2 mile",
+      "activity": {
+        "id": 14020280984,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 294,
+      "moving_time": 294,
+      "start_date": "2025-03-29T13:13:19Z",
+      "start_date_local": "2025-03-29T07:13:19Z",
+      "distance": 805,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 1926,
+      "end_index": 2220
+    },
+    {
+      "id": 59163224514,
+      "resource_state": 2,
+      "name": "1K",
+      "activity": {
+        "id": 14020280984,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 366,
+      "moving_time": 366,
+      "start_date": "2025-03-29T13:13:19Z",
+      "start_date_local": "2025-03-29T07:13:19Z",
+      "distance": 1000,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 1920,
+      "end_index": 2286
+    },
+    {
+      "id": 59163224509,
+      "resource_state": 2,
+      "name": "1 mile",
+      "activity": {
+        "id": 14020280984,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 600,
+      "moving_time": 600,
+      "start_date": "2025-03-29T13:13:19Z",
+      "start_date_local": "2025-03-29T07:13:19Z",
+      "distance": 1609,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 286,
+      "end_index": 886
+    },
+    {
+      "id": 59163224510,
+      "resource_state": 2,
+      "name": "2 mile",
+      "activity": {
+        "id": 14020280984,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 1207,
+      "moving_time": 1207,
+      "start_date": "2025-03-29T13:13:19Z",
+      "start_date_local": "2025-03-29T07:13:19Z",
+      "distance": 3219,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 237,
+      "end_index": 1443
+    },
+    {
+      "id": 59163224511,
+      "resource_state": 2,
+      "name": "5K",
+      "activity": {
+        "id": 14020280984,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 1884,
+      "moving_time": 1884,
+      "start_date": "2025-03-29T13:13:19Z",
+      "start_date_local": "2025-03-29T07:13:19Z",
+      "distance": 5000,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 430,
+      "end_index": 2312
+    }
+  ],
+  "photos": {
+    "primary": null,
+    "count": 0
+  },
+  "stats_visibility": [
+    {
+      "type": "heart_rate",
+      "visibility": "everyone"
+    },
+    {
+      "type": "pace",
+      "visibility": "everyone"
+    },
+    {
+      "type": "power",
+      "visibility": "everyone"
+    },
+    {
+      "type": "speed",
+      "visibility": "everyone"
+    },
+    {
+      "type": "calories",
+      "visibility": "everyone"
+    }
+  ],
+  "hide_from_home": false,
+  "embed_token": "9afe769c58e631a5b54de1d4beeb70cecffdc202",
+  "similar_activities": {
+    "effort_count": 1,
+    "average_speed": 2.6243287225386496,
+    "min_average_speed": 2.6243287225386496,
+    "mid_average_speed": 2.6243287225386496,
+    "max_average_speed": 2.6243287225386496,
+    "pr_rank": null,
+    "frequency_milestone": null,
+    "trend": {
+      "speeds": [
+        2.6243287225386496
+      ],
+      "current_activity_index": 0,
+      "min_speed": 2.6243287225386496,
+      "mid_speed": 2.6243287225386496,
+      "max_speed": 2.6243287225386496,
+      "direction": 0
+    },
+    "resource_state": 2
+  },
+  "available_zones": []
+}

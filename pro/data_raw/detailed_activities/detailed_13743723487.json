@@ -1,0 +1,163 @@
+{
+  "resource_state": 3,
+  "athlete": {
+    "id": 57014865,
+    "resource_state": 1
+  },
+  "name": "Solid 2 hours",
+  "distance": 0.0,
+  "moving_time": 7201,
+  "elapsed_time": 7201,
+  "total_elevation_gain": 0,
+  "type": "Ride",
+  "sport_type": "Ride",
+  "workout_type": 10,
+  "device_name": "Apple Watch Ultra",
+  "id": 13743723487,
+  "start_date": "2025-02-27T16:21:15Z",
+  "start_date_local": "2025-02-27T09:21:15Z",
+  "timezone": "(GMT-07:00) America/Boise",
+  "utc_offset": -25200.0,
+  "location_city": null,
+  "location_state": null,
+  "location_country": null,
+  "achievement_count": 0,
+  "kudos_count": 1,
+  "comment_count": 0,
+  "athlete_count": 1,
+  "photo_count": 0,
+  "map": {
+    "id": "a13743723487",
+    "polyline": "",
+    "resource_state": 3,
+    "summary_polyline": ""
+  },
+  "trainer": true,
+  "commute": false,
+  "manual": false,
+  "private": false,
+  "visibility": "everyone",
+  "flagged": false,
+  "gear_id": null,
+  "start_latlng": [],
+  "end_latlng": [],
+  "average_speed": 0.0,
+  "max_speed": 0.0,
+  "has_heartrate": true,
+  "average_heartrate": 141.7,
+  "max_heartrate": 164.0,
+  "heartrate_opt_out": false,
+  "display_hide_heartrate_option": true,
+  "elev_high": 0.0,
+  "elev_low": 0.0,
+  "upload_id": 14667561160,
+  "upload_id_str": "14667561160",
+  "external_id": "1A6B0E1E-CBAB-4E87-BA5D-5FF851937841.fit",
+  "from_accepted_tag": false,
+  "pr_count": 0,
+  "total_photo_count": 1,
+  "has_kudoed": false,
+  "description": "Good effort but not too hard. 37 miles",
+  "calories": 1393.0,
+  "perceived_exertion": null,
+  "prefer_perceived_exertion": false,
+  "segment_efforts": [],
+  "laps": [
+    {
+      "id": 48647403929,
+      "resource_state": 2,
+      "name": "Lap 1",
+      "activity": {
+        "id": 13743723487,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 3282,
+      "moving_time": 3282,
+      "start_date": "2025-02-27T16:21:15Z",
+      "start_date_local": "2025-02-27T09:21:15Z",
+      "distance": 0.0,
+      "average_speed": 0.0,
+      "max_speed": 0.0,
+      "lap_index": 1,
+      "split": 1,
+      "start_index": 0,
+      "end_index": 655,
+      "total_elevation_gain": 0,
+      "device_watts": false,
+      "average_heartrate": 138.6,
+      "max_heartrate": 164.0
+    },
+    {
+      "id": 48647403940,
+      "resource_state": 2,
+      "name": "Lap 2",
+      "activity": {
+        "id": 13743723487,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 3918,
+      "moving_time": 3918,
+      "start_date": "2025-02-27T17:16:00Z",
+      "start_date_local": "2025-02-27T10:16:00Z",
+      "distance": 0.0,
+      "average_speed": 0.0,
+      "max_speed": 0.0,
+      "lap_index": 2,
+      "split": 2,
+      "start_index": 656,
+      "end_index": 1438,
+      "total_elevation_gain": 0,
+      "device_watts": false,
+      "average_heartrate": 144.4,
+      "max_heartrate": 163.0
+    }
+  ],
+  "photos": {
+    "primary": {
+      "unique_id": "4AF44829-EBFB-4D79-AED5-422B423FB975",
+      "urls": {
+        "600": "https://dgtzuqphqg23d.cloudfront.net/LlG1XW9yLj3AlHtiTsMx2Z9MceZt9O1J8pQvGu6q-O0-576x768.jpg",
+        "100": "https://dgtzuqphqg23d.cloudfront.net/LlG1XW9yLj3AlHtiTsMx2Z9MceZt9O1J8pQvGu6q-O0-96x128.jpg"
+      },
+      "source": 1,
+      "media_type": 1
+    },
+    "use_primary_photo": true,
+    "count": 1
+  },
+  "stats_visibility": [
+    {
+      "type": "heart_rate",
+      "visibility": "everyone"
+    },
+    {
+      "type": "pace",
+      "visibility": "everyone"
+    },
+    {
+      "type": "power",
+      "visibility": "everyone"
+    },
+    {
+      "type": "speed",
+      "visibility": "everyone"
+    },
+    {
+      "type": "calories",
+      "visibility": "everyone"
+    }
+  ],
+  "hide_from_home": false,
+  "embed_token": "c8315b87e9811a0b0c492290542e50a1c79e0d58",
+  "available_zones": []
+}

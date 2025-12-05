@@ -1,0 +1,134 @@
+{
+  "resource_state": 3,
+  "athlete": {
+    "id": 57014865,
+    "resource_state": 1
+  },
+  "name": "No class = long bike",
+  "distance": 0.0,
+  "moving_time": 7204,
+  "elapsed_time": 7204,
+  "total_elevation_gain": 0,
+  "type": "Ride",
+  "sport_type": "Ride",
+  "workout_type": 10,
+  "device_name": "Apple Watch Ultra",
+  "id": 13407289093,
+  "start_date": "2025-01-20T16:28:10Z",
+  "start_date_local": "2025-01-20T09:28:10Z",
+  "timezone": "(GMT-07:00) America/Boise",
+  "utc_offset": -25200.0,
+  "location_city": null,
+  "location_state": null,
+  "location_country": null,
+  "achievement_count": 0,
+  "kudos_count": 4,
+  "comment_count": 0,
+  "athlete_count": 1,
+  "photo_count": 0,
+  "map": {
+    "id": "a13407289093",
+    "polyline": "",
+    "resource_state": 3,
+    "summary_polyline": ""
+  },
+  "trainer": true,
+  "commute": false,
+  "manual": false,
+  "private": false,
+  "visibility": "everyone",
+  "flagged": false,
+  "gear_id": null,
+  "start_latlng": [],
+  "end_latlng": [],
+  "average_speed": 0.0,
+  "max_speed": 0.0,
+  "has_heartrate": true,
+  "average_heartrate": 153.6,
+  "max_heartrate": 173.0,
+  "heartrate_opt_out": false,
+  "display_hide_heartrate_option": true,
+  "elev_high": 0.0,
+  "elev_low": 0.0,
+  "upload_id": 14300492415,
+  "upload_id_str": "14300492415",
+  "external_id": "23EF0382-BEC8-4F47-847F-32442DA860FE.fit",
+  "from_accepted_tag": false,
+  "pr_count": 0,
+  "total_photo_count": 1,
+  "has_kudoed": false,
+  "description": "39 miles at 211w average",
+  "calories": 1627.0,
+  "perceived_exertion": null,
+  "prefer_perceived_exertion": false,
+  "segment_efforts": [],
+  "laps": [
+    {
+      "id": 47315935714,
+      "resource_state": 2,
+      "name": "Lap 1",
+      "activity": {
+        "id": 13407289093,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 7204,
+      "moving_time": 7204,
+      "start_date": "2025-01-20T16:28:10Z",
+      "start_date_local": "2025-01-20T09:28:10Z",
+      "distance": 0.0,
+      "average_speed": 0.0,
+      "max_speed": 0.0,
+      "lap_index": 1,
+      "split": 1,
+      "start_index": 0,
+      "end_index": 1433,
+      "total_elevation_gain": 0,
+      "device_watts": false,
+      "average_heartrate": 153.6,
+      "max_heartrate": 173.0
+    }
+  ],
+  "photos": {
+    "primary": {
+      "unique_id": "2E7F3492-AF8C-4813-86A2-F4D4DE4620FD",
+      "urls": {
+        "600": "https://dgtzuqphqg23d.cloudfront.net/bf-h7ncFANU42vEA_msPbL4PL86rxCUuv4x_yOZb59A-768x767.jpg",
+        "100": "https://dgtzuqphqg23d.cloudfront.net/bf-h7ncFANU42vEA_msPbL4PL86rxCUuv4x_yOZb59A-128x127.jpg"
+      },
+      "source": 1,
+      "media_type": 1
+    },
+    "use_primary_photo": true,
+    "count": 1
+  },
+  "stats_visibility": [
+    {
+      "type": "heart_rate",
+      "visibility": "everyone"
+    },
+    {
+      "type": "pace",
+      "visibility": "everyone"
+    },
+    {
+      "type": "power",
+      "visibility": "everyone"
+    },
+    {
+      "type": "speed",
+      "visibility": "everyone"
+    },
+    {
+      "type": "calories",
+      "visibility": "everyone"
+    }
+  ],
+  "hide_from_home": false,
+  "embed_token": "53e768936bc88362900189923e7d4317e09eed0e",
+  "available_zones": []
+}

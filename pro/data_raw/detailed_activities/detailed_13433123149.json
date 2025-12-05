@@ -1,0 +1,248 @@
+{
+  "resource_state": 3,
+  "athlete": {
+    "id": 57014865,
+    "resource_state": 1
+  },
+  "name": "Morning Run",
+  "distance": 4841.2,
+  "moving_time": 1633,
+  "elapsed_time": 1633,
+  "total_elevation_gain": 0,
+  "type": "Run",
+  "sport_type": "Run",
+  "workout_type": null,
+  "device_name": "Apple Watch Ultra",
+  "id": 13433123149,
+  "start_date": "2025-01-23T17:03:32Z",
+  "start_date_local": "2025-01-23T10:03:32Z",
+  "timezone": "(GMT-07:00) America/Boise",
+  "utc_offset": -25200.0,
+  "location_city": null,
+  "location_state": null,
+  "location_country": null,
+  "achievement_count": 0,
+  "kudos_count": 2,
+  "comment_count": 0,
+  "athlete_count": 1,
+  "photo_count": 0,
+  "map": {
+    "id": "a13433123149",
+    "polyline": "",
+    "resource_state": 3,
+    "summary_polyline": ""
+  },
+  "trainer": true,
+  "commute": false,
+  "manual": false,
+  "private": false,
+  "visibility": "everyone",
+  "flagged": false,
+  "gear_id": null,
+  "start_latlng": [],
+  "end_latlng": [],
+  "average_speed": 2.965,
+  "max_speed": 3.54,
+  "has_heartrate": true,
+  "average_heartrate": 147.3,
+  "max_heartrate": 162.0,
+  "heartrate_opt_out": false,
+  "display_hide_heartrate_option": true,
+  "elev_high": 0.0,
+  "elev_low": 0.0,
+  "upload_id": 14328347092,
+  "upload_id_str": "14328347092",
+  "external_id": "38B0CF3A-500C-4E20-A61D-B4BEB068BFDF.fit",
+  "from_accepted_tag": false,
+  "pr_count": 0,
+  "total_photo_count": 0,
+  "has_kudoed": false,
+  "description": null,
+  "calories": 369.0,
+  "perceived_exertion": null,
+  "prefer_perceived_exertion": null,
+  "segment_efforts": [],
+  "splits_metric": [
+    {
+      "distance": 1001.8,
+      "elapsed_time": 342,
+      "elevation_difference": 0.0,
+      "moving_time": 342,
+      "split": 1,
+      "average_speed": 2.93,
+      "average_grade_adjusted_speed": 2.93,
+      "average_heartrate": 134.11111111111111,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.0,
+      "elapsed_time": 338,
+      "elevation_difference": 0.0,
+      "moving_time": 338,
+      "split": 2,
+      "average_speed": 2.96,
+      "average_grade_adjusted_speed": 2.96,
+      "average_heartrate": 143.4526627218935,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.9,
+      "elapsed_time": 330,
+      "elevation_difference": 0.0,
+      "moving_time": 330,
+      "split": 3,
+      "average_speed": 3.03,
+      "average_grade_adjusted_speed": 3.03,
+      "average_heartrate": 146.8090909090909,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1007.1,
+      "elapsed_time": 326,
+      "elevation_difference": 0.0,
+      "moving_time": 326,
+      "split": 4,
+      "average_speed": 3.09,
+      "average_grade_adjusted_speed": 3.09,
+      "average_heartrate": 154.61042944785277,
+      "pace_zone": 0
+    },
+    {
+      "distance": 833.4,
+      "elapsed_time": 297,
+      "elevation_difference": 0.0,
+      "moving_time": 297,
+      "split": 5,
+      "average_speed": 2.81,
+      "average_grade_adjusted_speed": 2.81,
+      "average_heartrate": 159.65656565656565,
+      "pace_zone": 0
+    }
+  ],
+  "splits_standard": [
+    {
+      "distance": 1613.0,
+      "elapsed_time": 550,
+      "elevation_difference": 0.0,
+      "moving_time": 550,
+      "split": 1,
+      "average_speed": 2.93,
+      "average_grade_adjusted_speed": 2.93,
+      "average_heartrate": 137.1,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1612.8,
+      "elapsed_time": 535,
+      "elevation_difference": 0.0,
+      "moving_time": 535,
+      "split": 2,
+      "average_speed": 3.01,
+      "average_grade_adjusted_speed": 3.01,
+      "average_heartrate": 147.25607476635514,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1604.9,
+      "elapsed_time": 542,
+      "elevation_difference": 0.0,
+      "moving_time": 542,
+      "split": 3,
+      "average_speed": 2.96,
+      "average_grade_adjusted_speed": 2.96,
+      "average_heartrate": 157.70110701107012,
+      "pace_zone": 0
+    },
+    {
+      "distance": 10.5,
+      "elapsed_time": 6,
+      "elevation_difference": 0.0,
+      "moving_time": 6,
+      "split": 4,
+      "average_speed": 1.75,
+      "average_grade_adjusted_speed": 1.75,
+      "average_heartrate": 160.0,
+      "pace_zone": 0
+    }
+  ],
+  "laps": [
+    {
+      "id": 47415852968,
+      "resource_state": 2,
+      "name": "Lap 1",
+      "activity": {
+        "id": 13433123149,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 1632,
+      "moving_time": 1632,
+      "start_date": "2025-01-23T17:03:32Z",
+      "start_date_local": "2025-01-23T10:03:32Z",
+      "distance": 4841.18,
+      "average_speed": 2.97,
+      "max_speed": 3.54,
+      "lap_index": 1,
+      "split": 1,
+      "start_index": 0,
+      "end_index": 832,
+      "total_elevation_gain": 0,
+      "device_watts": false,
+      "average_heartrate": 147.3,
+      "max_heartrate": 162.0,
+      "pace_zone": 0
+    }
+  ],
+  "best_efforts": [],
+  "photos": {
+    "primary": null,
+    "count": 0
+  },
+  "stats_visibility": [
+    {
+      "type": "heart_rate",
+      "visibility": "everyone"
+    },
+    {
+      "type": "pace",
+      "visibility": "everyone"
+    },
+    {
+      "type": "power",
+      "visibility": "everyone"
+    },
+    {
+      "type": "speed",
+      "visibility": "everyone"
+    },
+    {
+      "type": "calories",
+      "visibility": "everyone"
+    }
+  ],
+  "hide_from_home": false,
+  "embed_token": "37bf488d18c23794274f37a7d74444902d6c1da5",
+  "similar_activities": {
+    "effort_count": 0,
+    "average_speed": 0,
+    "min_average_speed": 0,
+    "mid_average_speed": 0,
+    "max_average_speed": 0,
+    "pr_rank": null,
+    "frequency_milestone": null,
+    "trend": {
+      "speeds": [],
+      "current_activity_index": null,
+      "min_speed": 0,
+      "mid_speed": 0,
+      "max_speed": 0,
+      "direction": 0
+    },
+    "resource_state": 2
+  },
+  "available_zones": []
+}

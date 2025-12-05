@@ -1,0 +1,1438 @@
+{
+  "resource_state": 3,
+  "athlete": {
+    "id": 57014865,
+    "resource_state": 1
+  },
+  "name": "Track work",
+  "distance": 6358.9,
+  "moving_time": 2129,
+  "elapsed_time": 2184,
+  "total_elevation_gain": 24.0,
+  "type": "Run",
+  "sport_type": "Run",
+  "workout_type": 0,
+  "device_name": "Apple Watch Ultra",
+  "id": 14292840401,
+  "start_date": "2025-04-26T14:52:36Z",
+  "start_date_local": "2025-04-26T08:52:36Z",
+  "timezone": "(GMT-07:00) America/Denver",
+  "utc_offset": -21600.0,
+  "location_city": null,
+  "location_state": null,
+  "location_country": null,
+  "achievement_count": 3,
+  "kudos_count": 1,
+  "comment_count": 0,
+  "athlete_count": 1,
+  "photo_count": 0,
+  "map": {
+    "id": "a14292840401",
+    "polyline": "iamaFxddtTvC@PCVQLUDY?_@COMWQOSGyCA]DQLOVGV?XFZHRLLRFTBjC?\\GVUJWB]CWOa@MMQG_DCS@IDUNGJIRAd@DZFLNPTHdDBPCPINSHWBWC[IWMOQK[CqC?Q@QJORIRAZDb@LVRNND~C@VEPKP[FYA[EUKUOKKEQCqCAM@QDQJMTGV?XDZHRPNPFfDBPERKPYF_@AWEUIQOMQIeDCM@SHMJKVEZ?VJ^JNLJVDtC@VCPKPUH]@UCWMWOQQG{CCS@MBQLOVGX?VF\\JRNLPFdD@PERKP[D[?YKa@MQUKWAcCA_@BQJQTGTAZBVHXNNXJbD@PCRMLQHa@@YCMKYUUSGcD?O@KFOLKRE^@XFXJNNLXDzC@REJELMHQD[?_@Ma@WU]EuC?Q@MFMLKREX?XDTNXPLVDxC@RETMNWF_@AWGYIQMKQGcDCUBSJOREPCZB\\JXPPRFbDBRENGPUHY@]EYGQQQUIeDC[HQNILEVAXBTFTNPPHd@B|B@^GTQHOFY?_@G[MSSMIAcDCYFMFMRIZAZDXNZJHPFjCBf@ARINQJ[B[CWM[OQSGaDCSBMFQNKZCZBXFVRRRHzCBXCTMNQFUBc@G[MUOMQG{CAUBQFQRIVCVB^HXPNPHrCBb@CPGRYHW@[EWGUQQQIUAkCA]DSNMPERA`@DVJVNLPFfDBNCPIPUHY@YE]MUQQOEWAkCAWDOHQVGZ?TD\\HPPPLF",
+    "resource_state": 3,
+    "summary_polyline": "}zlaFz`dtTOUIGSGyCA]DQLOVGV?XFZLVLJVFxC@\\GNKNWDY@WGYKUMMQG_DCS@IDUNGJIRAd@DZFLNPTHdDBPCXQLUD[?YEUMWOMQEuCC_@BQJORIRAZ@VJZNPPHZ@jC@VEPKLOH[@YCUGUOQSKQCqCAM@QDQJMTGV?XDZHRPNPFfDBPERKLQHW@YCUK[QQQIeDCUDMFQRIXA^BTJXLLTH~CBVCPKPUH]@UCWMWOQQG{CC_@DSLOVGX?V@NHVTTNFP@vC@PERKLQHW@WC[IUMQUKWAcCA_@BQJQTGTAZBVHXLLPHXB|B@T?PCRMLQFUB[CWKYMOSKSAkCA[BSJKNKXAVB`@HRNPPHN@`C@`@AFARKNSFWBUE_@IWSQMGSAkCA[BULGHMZAX@ZHRJRXLpCBd@CPINOL]@[E[ISOQSIaDCUBMFQPKRC\\?TJ\\LPPJTBdD?TKPUHY@]EYGQQQUIeDCUDQJKNI\\ATBXFTNPPHv@BjB@TCLEPON]B]CWEQMSSM]CoCAOBWJMRGLCX@ZJ^NPTHjCBf@ARINQJ[B[CWM[OQSGaDCSBMFQNKZCZBXFVRRRHzCBXCTMNQFU@g@EWMUOMQG{CAUBQFQRIVCVB^HXPNPHrCBb@CPGRYHW@[EWGUQQQIUAkCA]DSNMPERA`@DVNZLJTF`D@TEROLWDY?_@GSIOQQOEWAkCAWDOH"
+  },
+  "trainer": false,
+  "commute": false,
+  "manual": false,
+  "private": false,
+  "visibility": "everyone",
+  "flagged": false,
+  "gear_id": null,
+  "start_latlng": [
+    37.099894,
+    -113.567648
+  ],
+  "end_latlng": [
+    37.099991,
+    -113.567635
+  ],
+  "average_speed": 2.987,
+  "max_speed": 4.933,
+  "has_heartrate": true,
+  "average_heartrate": 170.0,
+  "max_heartrate": 193.0,
+  "heartrate_opt_out": false,
+  "display_hide_heartrate_option": true,
+  "elev_high": 811.4,
+  "elev_low": 806.2,
+  "upload_id": 15252065852,
+  "upload_id_str": "15252065852",
+  "external_id": "E8F87E7D-E60F-4E4B-8C33-75810DAD5685.fit",
+  "from_accepted_tag": false,
+  "pr_count": 1,
+  "total_photo_count": 0,
+  "has_kudoed": false,
+  "description": "3x1600\n7:29\n7:35\n7:08",
+  "calories": 506.0,
+  "perceived_exertion": null,
+  "prefer_perceived_exertion": false,
+  "segment_efforts": [
+    {
+      "id": 3351235022005460628,
+      "resource_state": 2,
+      "name": "DSU - 400M Track Star",
+      "activity": {
+        "id": 14292840401,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 111,
+      "moving_time": 109,
+      "start_date": "2025-04-26T14:52:56Z",
+      "start_date_local": "2025-04-26T08:52:56Z",
+      "distance": 400.0,
+      "start_index": 20,
+      "end_index": 131,
+      "device_watts": false,
+      "average_heartrate": 141.9,
+      "max_heartrate": 157.0,
+      "segment": {
+        "id": 13089565,
+        "resource_state": 2,
+        "name": "DSU - 400M Track Star",
+        "activity_type": "Run",
+        "distance": 400.0,
+        "average_grade": 0.0,
+        "maximum_grade": 3.4,
+        "elevation_high": 811.6,
+        "elevation_low": 807.7,
+        "start_latlng": [
+          37.099242,
+          -113.567657
+        ],
+        "end_latlng": [
+          37.099268,
+          -113.567654
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "St. George",
+        "state": "Utah",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "only_me",
+      "hidden": false
+    },
+    {
+      "id": 3351235022003248788,
+      "resource_state": 2,
+      "name": "DSU - 400M Track Star",
+      "activity": {
+        "id": 14292840401,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 111,
+      "moving_time": 110,
+      "start_date": "2025-04-26T14:54:47Z",
+      "start_date_local": "2025-04-26T08:54:47Z",
+      "distance": 400.0,
+      "start_index": 131,
+      "end_index": 241,
+      "device_watts": false,
+      "average_heartrate": 157.0,
+      "max_heartrate": 157.0,
+      "segment": {
+        "id": 13089565,
+        "resource_state": 2,
+        "name": "DSU - 400M Track Star",
+        "activity_type": "Run",
+        "distance": 400.0,
+        "average_grade": 0.0,
+        "maximum_grade": 3.4,
+        "elevation_high": 811.6,
+        "elevation_low": 807.7,
+        "start_latlng": [
+          37.099242,
+          -113.567657
+        ],
+        "end_latlng": [
+          37.099268,
+          -113.567654
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "St. George",
+        "state": "Utah",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3351235022001680020,
+      "resource_state": 2,
+      "name": "DSU - 400M Track Star",
+      "activity": {
+        "id": 14292840401,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 111,
+      "moving_time": 111,
+      "start_date": "2025-04-26T14:56:38Z",
+      "start_date_local": "2025-04-26T08:56:38Z",
+      "distance": 400.0,
+      "start_index": 241,
+      "end_index": 352,
+      "device_watts": false,
+      "average_heartrate": 166.8,
+      "max_heartrate": 183.0,
+      "segment": {
+        "id": 13089565,
+        "resource_state": 2,
+        "name": "DSU - 400M Track Star",
+        "activity_type": "Run",
+        "distance": 400.0,
+        "average_grade": 0.0,
+        "maximum_grade": 3.4,
+        "elevation_high": 811.6,
+        "elevation_low": 807.7,
+        "start_latlng": [
+          37.099242,
+          -113.567657
+        ],
+        "end_latlng": [
+          37.099268,
+          -113.567654
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "St. George",
+        "state": "Utah",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3351235022001555092,
+      "resource_state": 2,
+      "name": "DSU - 400M Track Star",
+      "activity": {
+        "id": 14292840401,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 137,
+      "moving_time": 121,
+      "start_date": "2025-04-26T14:58:30Z",
+      "start_date_local": "2025-04-26T08:58:30Z",
+      "distance": 400.0,
+      "start_index": 353,
+      "end_index": 490,
+      "device_watts": false,
+      "average_heartrate": 181.9,
+      "max_heartrate": 187.0,
+      "segment": {
+        "id": 13089565,
+        "resource_state": 2,
+        "name": "DSU - 400M Track Star",
+        "activity_type": "Run",
+        "distance": 400.0,
+        "average_grade": 0.0,
+        "maximum_grade": 3.4,
+        "elevation_high": 811.6,
+        "elevation_low": 807.7,
+        "start_latlng": [
+          37.099242,
+          -113.567657
+        ],
+        "end_latlng": [
+          37.099268,
+          -113.567654
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "St. George",
+        "state": "Utah",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3351235022001984148,
+      "resource_state": 2,
+      "name": "DSU - 400M Track Star",
+      "activity": {
+        "id": 14292840401,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 172,
+      "moving_time": 142,
+      "start_date": "2025-04-26T15:00:49Z",
+      "start_date_local": "2025-04-26T09:00:49Z",
+      "distance": 400.0,
+      "start_index": 492,
+      "end_index": 663,
+      "device_watts": false,
+      "average_heartrate": 153.7,
+      "max_heartrate": 166.0,
+      "segment": {
+        "id": 13089565,
+        "resource_state": 2,
+        "name": "DSU - 400M Track Star",
+        "activity_type": "Run",
+        "distance": 400.0,
+        "average_grade": 0.0,
+        "maximum_grade": 3.4,
+        "elevation_high": 811.6,
+        "elevation_low": 807.7,
+        "start_latlng": [
+          37.099242,
+          -113.567657
+        ],
+        "end_latlng": [
+          37.099268,
+          -113.567654
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "St. George",
+        "state": "Utah",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3351235022003945108,
+      "resource_state": 2,
+      "name": "DSU - 400M Track Star",
+      "activity": {
+        "id": 14292840401,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 106,
+      "moving_time": 106,
+      "start_date": "2025-04-26T15:03:41Z",
+      "start_date_local": "2025-04-26T09:03:41Z",
+      "distance": 400.0,
+      "start_index": 663,
+      "end_index": 769,
+      "device_watts": false,
+      "average_heartrate": 177.8,
+      "max_heartrate": 187.0,
+      "segment": {
+        "id": 13089565,
+        "resource_state": 2,
+        "name": "DSU - 400M Track Star",
+        "activity_type": "Run",
+        "distance": 400.0,
+        "average_grade": 0.0,
+        "maximum_grade": 3.4,
+        "elevation_high": 811.6,
+        "elevation_low": 807.7,
+        "start_latlng": [
+          37.099242,
+          -113.567657
+        ],
+        "end_latlng": [
+          37.099268,
+          -113.567654
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "St. George",
+        "state": "Utah",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 3,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 3
+        }
+      ],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3351235022003340948,
+      "resource_state": 2,
+      "name": "DSU - 400M Track Star",
+      "activity": {
+        "id": 14292840401,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 112,
+      "moving_time": 112,
+      "start_date": "2025-04-26T15:05:28Z",
+      "start_date_local": "2025-04-26T09:05:28Z",
+      "distance": 400.0,
+      "start_index": 770,
+      "end_index": 882,
+      "device_watts": false,
+      "average_heartrate": 186.4,
+      "max_heartrate": 188.0,
+      "segment": {
+        "id": 13089565,
+        "resource_state": 2,
+        "name": "DSU - 400M Track Star",
+        "activity_type": "Run",
+        "distance": 400.0,
+        "average_grade": 0.0,
+        "maximum_grade": 3.4,
+        "elevation_high": 811.6,
+        "elevation_low": 807.7,
+        "start_latlng": [
+          37.099242,
+          -113.567657
+        ],
+        "end_latlng": [
+          37.099268,
+          -113.567654
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "St. George",
+        "state": "Utah",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3351235022004740756,
+      "resource_state": 2,
+      "name": "DSU - 400M Track Star",
+      "activity": {
+        "id": 14292840401,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 116,
+      "moving_time": 116,
+      "start_date": "2025-04-26T15:07:21Z",
+      "start_date_local": "2025-04-26T09:07:21Z",
+      "distance": 400.0,
+      "start_index": 883,
+      "end_index": 999,
+      "device_watts": false,
+      "average_heartrate": 185.9,
+      "max_heartrate": 188.0,
+      "segment": {
+        "id": 13089565,
+        "resource_state": 2,
+        "name": "DSU - 400M Track Star",
+        "activity_type": "Run",
+        "distance": 400.0,
+        "average_grade": 0.0,
+        "maximum_grade": 3.4,
+        "elevation_high": 811.6,
+        "elevation_low": 807.7,
+        "start_latlng": [
+          37.099242,
+          -113.567657
+        ],
+        "end_latlng": [
+          37.099268,
+          -113.567654
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "St. George",
+        "state": "Utah",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3351235022003457684,
+      "resource_state": 2,
+      "name": "DSU - 400M Track Star",
+      "activity": {
+        "id": 14292840401,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 156,
+      "moving_time": 130,
+      "start_date": "2025-04-26T15:09:18Z",
+      "start_date_local": "2025-04-26T09:09:18Z",
+      "distance": 400.0,
+      "start_index": 1000,
+      "end_index": 1156,
+      "device_watts": false,
+      "average_heartrate": 181.2,
+      "max_heartrate": 187.0,
+      "segment": {
+        "id": 13089565,
+        "resource_state": 2,
+        "name": "DSU - 400M Track Star",
+        "activity_type": "Run",
+        "distance": 400.0,
+        "average_grade": 0.0,
+        "maximum_grade": 3.4,
+        "elevation_high": 811.6,
+        "elevation_low": 807.7,
+        "start_latlng": [
+          37.099242,
+          -113.567657
+        ],
+        "end_latlng": [
+          37.099268,
+          -113.567654
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "St. George",
+        "state": "Utah",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3351235022001936020,
+      "resource_state": 2,
+      "name": "DSU - 400M Track Star",
+      "activity": {
+        "id": 14292840401,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 200,
+      "moving_time": 143,
+      "start_date": "2025-04-26T15:11:56Z",
+      "start_date_local": "2025-04-26T09:11:56Z",
+      "distance": 400.0,
+      "start_index": 1158,
+      "end_index": 1358,
+      "device_watts": false,
+      "average_heartrate": 143.6,
+      "max_heartrate": 160.0,
+      "segment": {
+        "id": 13089565,
+        "resource_state": 2,
+        "name": "DSU - 400M Track Star",
+        "activity_type": "Run",
+        "distance": 400.0,
+        "average_grade": 0.0,
+        "maximum_grade": 3.4,
+        "elevation_high": 811.6,
+        "elevation_low": 807.7,
+        "start_latlng": [
+          37.099242,
+          -113.567657
+        ],
+        "end_latlng": [
+          37.099268,
+          -113.567654
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "St. George",
+        "state": "Utah",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3351235022003206804,
+      "resource_state": 2,
+      "name": "DSU - 400M Track Star",
+      "activity": {
+        "id": 14292840401,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 211,
+      "moving_time": 145,
+      "start_date": "2025-04-26T15:15:17Z",
+      "start_date_local": "2025-04-26T09:15:17Z",
+      "distance": 400.0,
+      "start_index": 1359,
+      "end_index": 1570,
+      "device_watts": false,
+      "average_heartrate": 152.2,
+      "max_heartrate": 166.0,
+      "segment": {
+        "id": 13089565,
+        "resource_state": 2,
+        "name": "DSU - 400M Track Star",
+        "activity_type": "Run",
+        "distance": 400.0,
+        "average_grade": 0.0,
+        "maximum_grade": 3.4,
+        "elevation_high": 811.6,
+        "elevation_low": 807.7,
+        "start_latlng": [
+          37.099242,
+          -113.567657
+        ],
+        "end_latlng": [
+          37.099268,
+          -113.567654
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "St. George",
+        "state": "Utah",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3351235022002601620,
+      "resource_state": 2,
+      "name": "DSU - 400M Track Star",
+      "activity": {
+        "id": 14292840401,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 98,
+      "moving_time": 98,
+      "start_date": "2025-04-26T15:18:49Z",
+      "start_date_local": "2025-04-26T09:18:49Z",
+      "distance": 400.0,
+      "start_index": 1571,
+      "end_index": 1669,
+      "device_watts": false,
+      "average_heartrate": 179.7,
+      "max_heartrate": 190.0,
+      "segment": {
+        "id": 13089565,
+        "resource_state": 2,
+        "name": "DSU - 400M Track Star",
+        "activity_type": "Run",
+        "distance": 400.0,
+        "average_grade": 0.0,
+        "maximum_grade": 3.4,
+        "elevation_high": 811.6,
+        "elevation_low": 807.7,
+        "start_latlng": [
+          37.099242,
+          -113.567657
+        ],
+        "end_latlng": [
+          37.099268,
+          -113.567654
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "St. George",
+        "state": "Utah",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 1,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 1
+        }
+      ],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3351235022002168468,
+      "resource_state": 2,
+      "name": "DSU - 400M Track Star",
+      "activity": {
+        "id": 14292840401,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 103,
+      "moving_time": 103,
+      "start_date": "2025-04-26T15:20:28Z",
+      "start_date_local": "2025-04-26T09:20:28Z",
+      "distance": 400.0,
+      "start_index": 1670,
+      "end_index": 1773,
+      "device_watts": false,
+      "average_heartrate": 192.0,
+      "max_heartrate": 193.0,
+      "segment": {
+        "id": 13089565,
+        "resource_state": 2,
+        "name": "DSU - 400M Track Star",
+        "activity_type": "Run",
+        "distance": 400.0,
+        "average_grade": 0.0,
+        "maximum_grade": 3.4,
+        "elevation_high": 811.6,
+        "elevation_low": 807.7,
+        "start_latlng": [
+          37.099242,
+          -113.567657
+        ],
+        "end_latlng": [
+          37.099268,
+          -113.567654
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "St. George",
+        "state": "Utah",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 2,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 2
+        }
+      ],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3351235022004590228,
+      "resource_state": 2,
+      "name": "DSU - 400M Track Star",
+      "activity": {
+        "id": 14292840401,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 110,
+      "moving_time": 110,
+      "start_date": "2025-04-26T15:22:11Z",
+      "start_date_local": "2025-04-26T09:22:11Z",
+      "distance": 400.0,
+      "start_index": 1773,
+      "end_index": 1883,
+      "device_watts": false,
+      "average_heartrate": 191.7,
+      "max_heartrate": 193.0,
+      "segment": {
+        "id": 13089565,
+        "resource_state": 2,
+        "name": "DSU - 400M Track Star",
+        "activity_type": "Run",
+        "distance": 400.0,
+        "average_grade": 0.0,
+        "maximum_grade": 3.4,
+        "elevation_high": 811.6,
+        "elevation_low": 807.7,
+        "start_latlng": [
+          37.099242,
+          -113.567657
+        ],
+        "end_latlng": [
+          37.099268,
+          -113.567654
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "St. George",
+        "state": "Utah",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3351235022005702292,
+      "resource_state": 2,
+      "name": "DSU - 400M Track Star",
+      "activity": {
+        "id": 14292840401,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 152,
+      "moving_time": 125,
+      "start_date": "2025-04-26T15:24:02Z",
+      "start_date_local": "2025-04-26T09:24:02Z",
+      "distance": 400.0,
+      "start_index": 1884,
+      "end_index": 2036,
+      "device_watts": false,
+      "average_heartrate": 187.3,
+      "max_heartrate": 193.0,
+      "segment": {
+        "id": 13089565,
+        "resource_state": 2,
+        "name": "DSU - 400M Track Star",
+        "activity_type": "Run",
+        "distance": 400.0,
+        "average_grade": 0.0,
+        "maximum_grade": 3.4,
+        "elevation_high": 811.6,
+        "elevation_low": 807.7,
+        "start_latlng": [
+          37.099242,
+          -113.567657
+        ],
+        "end_latlng": [
+          37.099268,
+          -113.567654
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "St. George",
+        "state": "Utah",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    }
+  ],
+  "splits_metric": [
+    {
+      "distance": 1001.1,
+      "elapsed_time": 280,
+      "elevation_difference": 0.0,
+      "moving_time": 280,
+      "split": 1,
+      "average_speed": 3.58,
+      "average_grade_adjusted_speed": 3.6,
+      "average_heartrate": 146.23826714801444,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.5,
+      "elapsed_time": 369,
+      "elevation_difference": -0.6,
+      "moving_time": 354,
+      "split": 2,
+      "average_speed": 2.82,
+      "average_grade_adjusted_speed": 2.83,
+      "average_heartrate": 168.92283950617283,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.6,
+      "elapsed_time": 277,
+      "elevation_difference": -0.6,
+      "moving_time": 277,
+      "split": 3,
+      "average_speed": 3.61,
+      "average_grade_adjusted_speed": 3.62,
+      "average_heartrate": 181.2391304347826,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.7,
+      "elapsed_time": 412,
+      "elevation_difference": 0.4,
+      "moving_time": 412,
+      "split": 4,
+      "average_speed": 2.43,
+      "average_grade_adjusted_speed": 2.46,
+      "average_heartrate": 169.04268292682926,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.9,
+      "elapsed_time": 371,
+      "elevation_difference": 1.0,
+      "moving_time": 335,
+      "split": 5,
+      "average_speed": 2.98,
+      "average_grade_adjusted_speed": 3.01,
+      "average_heartrate": 168.95737704918034,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.3,
+      "elapsed_time": 293,
+      "elevation_difference": -0.8,
+      "moving_time": 293,
+      "split": 6,
+      "average_speed": 3.41,
+      "average_grade_adjusted_speed": 3.44,
+      "average_heartrate": 191.84098939929328,
+      "pace_zone": 0
+    },
+    {
+      "distance": 359.2,
+      "elapsed_time": 182,
+      "elevation_difference": 0.6,
+      "moving_time": 178,
+      "split": 7,
+      "average_speed": 2.02,
+      "average_grade_adjusted_speed": 2.04,
+      "average_heartrate": 157.5114503816794,
+      "pace_zone": 0
+    }
+  ],
+  "splits_standard": [
+    {
+      "distance": 1611.9,
+      "elapsed_time": 459,
+      "elevation_difference": -0.8,
+      "moving_time": 459,
+      "split": 1,
+      "average_speed": 3.51,
+      "average_grade_adjusted_speed": 3.52,
+      "average_heartrate": 158.86725663716814,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.1,
+      "elapsed_time": 532,
+      "elevation_difference": 0.0,
+      "moving_time": 517,
+      "split": 2,
+      "average_speed": 3.11,
+      "average_grade_adjusted_speed": 3.13,
+      "average_heartrate": 174.565306122449,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.6,
+      "elapsed_time": 674,
+      "elevation_difference": 2.0,
+      "moving_time": 638,
+      "split": 3,
+      "average_speed": 2.52,
+      "average_grade_adjusted_speed": 2.55,
+      "average_heartrate": 165.06297709923663,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1531.7,
+      "elapsed_time": 519,
+      "elevation_difference": -1.2,
+      "moving_time": 515,
+      "split": 4,
+      "average_speed": 2.97,
+      "average_grade_adjusted_speed": 2.99,
+      "average_heartrate": 181.93449781659388,
+      "pace_zone": 0
+    }
+  ],
+  "laps": [
+    {
+      "id": 50771198394,
+      "resource_state": 2,
+      "name": "Lap 1",
+      "activity": {
+        "id": 14292840401,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 448,
+      "moving_time": 448,
+      "start_date": "2025-04-26T14:52:36Z",
+      "start_date_local": "2025-04-26T08:52:36Z",
+      "distance": 1591.43,
+      "average_speed": 3.55,
+      "max_speed": 4.32,
+      "lap_index": 1,
+      "split": 1,
+      "start_index": 0,
+      "end_index": 405,
+      "total_elevation_gain": 5.2,
+      "device_watts": false,
+      "average_heartrate": 158.5,
+      "max_heartrate": 187.0,
+      "pace_zone": 0
+    },
+    {
+      "id": 50771198416,
+      "resource_state": 2,
+      "name": "Lap 2",
+      "activity": {
+        "id": 14292840401,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 197,
+      "moving_time": 197,
+      "start_date": "2025-04-26T15:00:06Z",
+      "start_date_local": "2025-04-26T09:00:06Z",
+      "distance": 398.63,
+      "average_speed": 2.02,
+      "max_speed": 3.48,
+      "lap_index": 2,
+      "split": 2,
+      "start_index": 406,
+      "end_index": 602,
+      "total_elevation_gain": 2.0,
+      "device_watts": false,
+      "average_heartrate": 158.4,
+      "max_heartrate": 187.0,
+      "pace_zone": 0
+    },
+    {
+      "id": 50771198450,
+      "resource_state": 2,
+      "name": "Lap 3",
+      "activity": {
+        "id": 14292840401,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 454,
+      "moving_time": 454,
+      "start_date": "2025-04-26T15:03:23Z",
+      "start_date_local": "2025-04-26T09:03:23Z",
+      "distance": 1590.92,
+      "average_speed": 3.5,
+      "max_speed": 4.933,
+      "lap_index": 3,
+      "split": 3,
+      "start_index": 603,
+      "end_index": 1055,
+      "total_elevation_gain": 4.8,
+      "device_watts": false,
+      "average_heartrate": 183.0,
+      "max_heartrate": 188.0,
+      "pace_zone": 0
+    },
+    {
+      "id": 50771198474,
+      "resource_state": 2,
+      "name": "Lap 4",
+      "activity": {
+        "id": 14292840401,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 450,
+      "moving_time": 450,
+      "start_date": "2025-04-26T15:10:57Z",
+      "start_date_local": "2025-04-26T09:10:57Z",
+      "distance": 795.11,
+      "average_speed": 1.77,
+      "max_speed": 3.18,
+      "lap_index": 4,
+      "split": 4,
+      "start_index": 1056,
+      "end_index": 1505,
+      "total_elevation_gain": 5.0,
+      "device_watts": false,
+      "average_heartrate": 154.6,
+      "max_heartrate": 186.0,
+      "pace_zone": 0
+    },
+    {
+      "id": 50771198495,
+      "resource_state": 2,
+      "name": "Lap 5",
+      "activity": {
+        "id": 14292840401,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 428,
+      "moving_time": 428,
+      "start_date": "2025-04-26T15:18:27Z",
+      "start_date_local": "2025-04-26T09:18:27Z",
+      "distance": 1582.6,
+      "average_speed": 3.7,
+      "max_speed": 4.6,
+      "lap_index": 5,
+      "split": 5,
+      "start_index": 1506,
+      "end_index": 1934,
+      "total_elevation_gain": 7.8,
+      "device_watts": false,
+      "average_heartrate": 187.2,
+      "max_heartrate": 193.0,
+      "pace_zone": 0
+    },
+    {
+      "id": 50771198512,
+      "resource_state": 2,
+      "name": "Lap 6",
+      "activity": {
+        "id": 14292840401,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 205,
+      "moving_time": 205,
+      "start_date": "2025-04-26T15:25:36Z",
+      "start_date_local": "2025-04-26T09:25:36Z",
+      "distance": 400.18,
+      "average_speed": 1.95,
+      "max_speed": 3.54,
+      "lap_index": 6,
+      "split": 6,
+      "start_index": 1935,
+      "end_index": 2106,
+      "total_elevation_gain": 2.8,
+      "device_watts": false,
+      "average_heartrate": 160.4,
+      "max_heartrate": 191.0,
+      "pace_zone": 0
+    }
+  ],
+  "best_efforts": [
+    {
+      "id": 60262629046,
+      "resource_state": 2,
+      "name": "400m",
+      "activity": {
+        "id": 14292840401,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 99,
+      "moving_time": 99,
+      "start_date": "2025-04-26T14:52:36Z",
+      "start_date_local": "2025-04-26T08:52:36Z",
+      "distance": 400,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 1571,
+      "end_index": 1670
+    },
+    {
+      "id": 60262629047,
+      "resource_state": 2,
+      "name": "1/2 mile",
+      "activity": {
+        "id": 14292840401,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 204,
+      "moving_time": 204,
+      "start_date": "2025-04-26T14:52:36Z",
+      "start_date_local": "2025-04-26T08:52:36Z",
+      "distance": 805,
+      "pr_rank": 2,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 2
+        }
+      ],
+      "start_index": 1558,
+      "end_index": 1762
+    },
+    {
+      "id": 60262629048,
+      "resource_state": 2,
+      "name": "1K",
+      "activity": {
+        "id": 14292840401,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 258,
+      "moving_time": 258,
+      "start_date": "2025-04-26T14:52:36Z",
+      "start_date_local": "2025-04-26T08:52:36Z",
+      "distance": 1000,
+      "pr_rank": 2,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 2
+        }
+      ],
+      "start_index": 1558,
+      "end_index": 1816
+    },
+    {
+      "id": 60262629043,
+      "resource_state": 2,
+      "name": "1 mile",
+      "activity": {
+        "id": 14292840401,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 452,
+      "moving_time": 452,
+      "start_date": "2025-04-26T14:52:36Z",
+      "start_date_local": "2025-04-26T08:52:36Z",
+      "distance": 1609,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 1554,
+      "end_index": 2006
+    },
+    {
+      "id": 60262629044,
+      "resource_state": 2,
+      "name": "2 mile",
+      "activity": {
+        "id": 14292840401,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 991,
+      "moving_time": 991,
+      "start_date": "2025-04-26T14:52:36Z",
+      "start_date_local": "2025-04-26T08:52:36Z",
+      "distance": 3219,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 0,
+      "end_index": 989
+    },
+    {
+      "id": 60262629045,
+      "resource_state": 2,
+      "name": "5K",
+      "activity": {
+        "id": 14292840401,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 1703,
+      "moving_time": 1703,
+      "start_date": "2025-04-26T14:52:36Z",
+      "start_date_local": "2025-04-26T08:52:36Z",
+      "distance": 5000,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 110,
+      "end_index": 1811
+    }
+  ],
+  "photos": {
+    "primary": null,
+    "count": 0
+  },
+  "stats_visibility": [
+    {
+      "type": "heart_rate",
+      "visibility": "everyone"
+    },
+    {
+      "type": "pace",
+      "visibility": "everyone"
+    },
+    {
+      "type": "power",
+      "visibility": "everyone"
+    },
+    {
+      "type": "speed",
+      "visibility": "everyone"
+    },
+    {
+      "type": "calories",
+      "visibility": "everyone"
+    }
+  ],
+  "hide_from_home": false,
+  "embed_token": "c47b006257160252c20b75f0f06408d69b30ad1e",
+  "similar_activities": {
+    "effort_count": 1,
+    "average_speed": 2.9868013151714417,
+    "min_average_speed": 2.9868013151714417,
+    "mid_average_speed": 2.9868013151714417,
+    "max_average_speed": 2.9868013151714417,
+    "pr_rank": null,
+    "frequency_milestone": null,
+    "trend": {
+      "speeds": [
+        2.9868013151714417
+      ],
+      "current_activity_index": 0,
+      "min_speed": 2.9868013151714417,
+      "mid_speed": 2.9868013151714417,
+      "max_speed": 2.9868013151714417,
+      "direction": 0
+    },
+    "resource_state": 2
+  },
+  "available_zones": []
+}

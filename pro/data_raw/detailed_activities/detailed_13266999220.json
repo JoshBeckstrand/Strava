@@ -1,0 +1,179 @@
+{
+  "resource_state": 3,
+  "athlete": {
+    "id": 57014865,
+    "resource_state": 1
+  },
+  "name": "Consistent speed",
+  "distance": 914.4,
+  "moving_time": 877,
+  "elapsed_time": 877,
+  "total_elevation_gain": 0,
+  "type": "Swim",
+  "sport_type": "Swim",
+  "device_name": "Apple Watch Ultra",
+  "id": 13266999220,
+  "start_date": "2025-01-04T19:23:44Z",
+  "start_date_local": "2025-01-04T12:23:44Z",
+  "timezone": "(GMT-07:00) America/Boise",
+  "utc_offset": -25200.0,
+  "location_city": null,
+  "location_state": null,
+  "location_country": null,
+  "achievement_count": 0,
+  "kudos_count": 2,
+  "comment_count": 0,
+  "athlete_count": 1,
+  "photo_count": 0,
+  "map": {
+    "id": "a13266999220",
+    "polyline": "",
+    "resource_state": 3,
+    "summary_polyline": ""
+  },
+  "trainer": true,
+  "commute": false,
+  "manual": false,
+  "private": false,
+  "visibility": "everyone",
+  "flagged": false,
+  "gear_id": null,
+  "start_latlng": [],
+  "end_latlng": [],
+  "average_speed": 1.043,
+  "max_speed": 4.58,
+  "has_heartrate": true,
+  "average_heartrate": 149.1,
+  "max_heartrate": 171.0,
+  "heartrate_opt_out": false,
+  "display_hide_heartrate_option": true,
+  "elev_high": 0.0,
+  "elev_low": 0.0,
+  "upload_id": 14149519063,
+  "upload_id_str": "14149519063",
+  "external_id": "00275D01-EE98-4659-B3DF-2F7A43F4FA3C.fit",
+  "from_accepted_tag": false,
+  "pr_count": 0,
+  "total_photo_count": 0,
+  "has_kudoed": false,
+  "description": "",
+  "calories": 201.0,
+  "perceived_exertion": null,
+  "prefer_perceived_exertion": false,
+  "segment_efforts": [],
+  "splits_metric": [
+    {
+      "distance": 914.4,
+      "elapsed_time": 877,
+      "elevation_difference": 0.0,
+      "moving_time": 877,
+      "split": 1,
+      "average_speed": 1.04,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 149.10832383124287,
+      "pace_zone": 0
+    }
+  ],
+  "splits_standard": [
+    {
+      "distance": 914.4,
+      "elapsed_time": 877,
+      "elevation_difference": 0.0,
+      "moving_time": 877,
+      "split": 1,
+      "average_speed": 1.04,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 149.10832383124287,
+      "pace_zone": 0
+    }
+  ],
+  "laps": [
+    {
+      "id": 46764373990,
+      "resource_state": 2,
+      "name": "Lap 1",
+      "activity": {
+        "id": 13266999220,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 872,
+      "moving_time": 872,
+      "start_date": "2025-01-04T19:23:44Z",
+      "start_date_local": "2025-01-04T12:23:44Z",
+      "distance": 891.54,
+      "average_speed": 1.02,
+      "max_speed": 4.58,
+      "lap_index": 1,
+      "split": 1,
+      "start_index": 0,
+      "end_index": 159,
+      "total_elevation_gain": 0,
+      "device_watts": false,
+      "average_heartrate": 149.0,
+      "max_heartrate": 169.0
+    },
+    {
+      "id": 46764373991,
+      "resource_state": 2,
+      "name": "Lap 2",
+      "activity": {
+        "id": 13266999220,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 4,
+      "moving_time": 4,
+      "start_date": "2025-01-04T19:38:18Z",
+      "start_date_local": "2025-01-04T12:38:18Z",
+      "distance": 22.86,
+      "average_speed": 5.72,
+      "max_speed": 3.81667,
+      "lap_index": 2,
+      "split": 2,
+      "start_index": 160,
+      "end_index": 161,
+      "total_elevation_gain": 0,
+      "device_watts": false,
+      "average_heartrate": 171.0,
+      "max_heartrate": 171.0
+    }
+  ],
+  "photos": {
+    "primary": null,
+    "count": 0
+  },
+  "stats_visibility": [
+    {
+      "type": "heart_rate",
+      "visibility": "everyone"
+    },
+    {
+      "type": "pace",
+      "visibility": "everyone"
+    },
+    {
+      "type": "power",
+      "visibility": "everyone"
+    },
+    {
+      "type": "speed",
+      "visibility": "everyone"
+    },
+    {
+      "type": "calories",
+      "visibility": "everyone"
+    }
+  ],
+  "hide_from_home": false,
+  "embed_token": "2a9118ef3154bef131f8828aebba52a1f35fbaa3",
+  "available_zones": []
+}

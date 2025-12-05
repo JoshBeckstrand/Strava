@@ -1,0 +1,4417 @@
+{
+  "resource_state": 3,
+  "athlete": {
+    "id": 57014865,
+    "resource_state": 1
+  },
+  "name": "Sortie v\u00e9lo le matin",
+  "distance": 81159.9,
+  "moving_time": 12012,
+  "elapsed_time": 13106,
+  "total_elevation_gain": 422.4,
+  "type": "Ride",
+  "sport_type": "Ride",
+  "workout_type": null,
+  "device_name": "Apple Watch Ultra",
+  "id": 11044683629,
+  "start_date": "2024-03-13T16:39:18Z",
+  "start_date_local": "2024-03-13T10:39:18Z",
+  "timezone": "(GMT-07:00) America/Denver",
+  "utc_offset": -21600.0,
+  "location_city": null,
+  "location_state": null,
+  "location_country": null,
+  "achievement_count": 35,
+  "kudos_count": 0,
+  "comment_count": 0,
+  "athlete_count": 1,
+  "photo_count": 0,
+  "map": {
+    "id": "a11044683629",
+    "polyline": "svfaFlj~sTBNJFtAJDDDL?|BEvAJnu@BpAVfAEPMPsAlAo@^a@Zo@p@}ErCkAl@iBt@cBl@aDz@eCj@y@VaBr@kHfDiB`AqAh@w@N}@FyJ?iEBuK?aABs@HeAVmBp@{DrBaAb@aA`@{HdCiAZO@WAIBCBIREZG`AIz@?\\Jh@r@nBHl@h@bH?nBDpAZjELn@PVt@ZVPNVh@hB`@|@T\\b@f@t@j@|@^^J`@DdAFjCFr@FND\\RXZHPNh@XfBZ`BXvBF|@NfETnBH~BB`@DNPXtA|@rAtAVf@ZlA^x@\\b@x@h@\\`@Vh@Ld@@XEx@F\\FJTLL@VCRMf@a@LIVEdAIh@IXKTQTWPYZ}@RuAB}AFQDER@RLPThAjBCM{BkDEU?IJQHEVGl@APBDDHTNlALt@L^RVXJd@BXCZSRULYT}CBeBPaBDSFG\\IPGhAq@TY`@q@LMN?n@VdCp@NHDJ@N?j@i@pGMj@Ux@w@jBUlAE|@?dFKrCa@dCeAjEUhACh@Ah@F~@Ff@ZfA`@r@d@d@x@b@Xb@NNRHH?f@MPAPFDH^zAb@z@Pb@\\tB\\lAdAjCt@bCLVz@|@t@fAb@ZRTJ\\Bn@F^Xx@`@p@j@t@RNp@`@d@PfAPDBABK@eAA]E[IYQYU}@gAGBmAtBY^K@[My@OUIIGKWSkAQm@w@kBkAwBUWYI]@[F{@Zg@T{Az@]VOR]bAKL}AVQFMJGTCZ?zAFf@?\\WhBOt@Uj@[b@i@h@OTAVHx@A^Kj@a@lC}AzGg@dC]pBMtA{@jMI`D@fALrBDnDRvFHdAFHDA?OGo@K}AEIM?[RGHITGVAjAITu@dAi@bASTSLwAZU@UAo@Ma@O[Qm@e@SIKAU@i@NUJSPmArASb@CLBZTd@BP[bBKjDETKRgA`BMLOFOAIEsC_CWOWIWDWL_AfAQXO^Qp@Mn@A`@RbCB`AE`@Mp@Ol@Sf@{AbB{@rA{@dAa@p@]`@a@Z_B`AiCnBwDzDo@t@KP@PfBfCHN?LcDhDmCzC}@fAkA`B_Ax@QVu@`BoBzBq@|@eBfCoBdDSR]Rm@Ja@BwAWq@CIEw@g@YKi@CaAFWEUMk@a@a@MU?SBMHILs@LOFKJILERAV?lHAxAB^Jb@AJsAhBuE`Hk@l@i@d@k@^c@Rs@VgHfBa@N_@T]Z_@f@yAfDg@v@m@p@c@\\y@b@eH`E{Ax@q@VYFc@B}@Cq@MoCmAg@[m@SsAi@{Au@{Am@mAq@cCaAiB}@u@c@c@K_J_EkBs@g@IkBGy@DmATeA`@uA|@yRtOk@^o@PIEYa@][i@a@q@_@_@QSG{@Cg@GQIUWMKO?s@\\g@JgCJcDK}@Q]OOMQ]Ks@CEKA]NODQ?OCWQ}@gA[S_@Iy@EcAFq@?]DOD@DHD\\@JDFJBdAExE?rCG`CWdCM~@s@bEgNzt@e@bCGRILMBQGyB}@o@a@OOS]{@oBYg@q@s@m@a@k@Qu@MsEGyB?oIHiEJuAFsANyA\\iEzAa@Fy@DiHA{@Gs@QsDcBcAa@i@Kg@A[Fg@PmD|BqB`AkEhB_@Ha@BKFMVC\\BnHBj@CfABn@Fl@Ln@Vr@Xf@`AlATf@Pj@Fl@Id@?Zf@hED~@?vA@FBBB?PWBAD@JR?Pw@hCm@|Bg@bA_BzDc@zAORQLs@Pc@DKDGFMXCLEfAIVUf@INUTsAx@UZITGb@Eh@?`@B`@J^rArCFb@Ab@Kb@ORmBvAi@f@S^Eh@Hh@LTHFVDv@CNBJLFV?NCNM`@]l@YR[Fe@@SJu@tAc@j@a@|@Ub@uC|DMH[ASBcAl@UFg@AUHGFQTOZo@rBO\\eAxASj@Kn@BEP{@JYLWj@o@Ve@~@mCTa@RORIl@@VEdAo@N?JDBPY~@Ij@Cl@@f@Dd@RjAV`ADr@?xEDbBCrA@zJGlCGLOBcBC{JFy@D]HKNKn@ILc@^K\\Cx@BhADNRZ@ROfAUx@Un@qAdCq@z@s@pCK@SGOAKFcA~B]|@GTAZ?|FCVY^AHn@j@Z^Zd@`@x@Pl@Lh@L`AFz@HB`BEdB?B@EDK@}N@yKHmd@IkBDsN?{CAmBE{CC_E@cACqC?w@DKFINEPAf@Bk@AGKEK?MBEBENARFjD@dPDtA_@`BH^TTFJDpA@pJD`HHvg@FfOCvAKh@BPDDHBFAHEDG@YEeAGeb@@_BBe@EoACkGAcFGcS?yBNaBCOGIIGK?UFY\\CBCC\\sADg@G_CAkMGwDDsBI{JBoC?gAIoCB{AIcHCaKAwABmDA_B?aJCwG@{CA_D@}CEcAM_AWiAOWLq@d@u@Fa@?aAIoAFaC@}BH_A\\qAXo@^i@xA{AdA{AfC_Dr@cAt@wAz@cA|@qAt@w@z@qAxAkBnB}C|@_A^o@La@Ba@Cc@DQLKPIv@EJETShAwB`@_ArA{BxAqCXw@n@_CRiATa@d@c@dAmAxB{B|DaDn@k@jHyFdJuHbF{Dn@k@l@q@xA}BrByCxAcCvF{HnA_Bj@_A|@y@`A_BNe@BYEYYo@G_@?WBKJU~AsA\\UzDsAjCkAx@WfAUf@Qh@[lAcAdEeCpDeC\\Qv@Yj@YhAcAd@]XIdBa@rC}@jH{DnCcBhCyAdAo@v@m@jCyBRYz@{AtBaDZc@h@i@~CaFpA}BhAyC\\{A\\uAXiBRyCH_DH{AAg@EOOCs@BCDDLfAv@pAjA^l@HFJFv@PVPJJx@~AL~@FXj@z@d@fAXf@HJZN`APn@P\\PjAt@ZHhAHZFVJ`@VZ\\^r@JTV`AP\\^d@z@~@z@`Bf@h@VfANVHFZLbBf@h@H~@DVFFFRZ`@bAT`@|@xAn@v@h@`ATNLDj@B^Hh@TTPPXj@`B^|@TVf@Vf@FbAIr@B|@GXBf@HZLJHt@~@TPJDV?n@SJ?DJFp@JTFHHHXJhARl@BxB?n@ArBOz@[PANHTXRN~ALh@P|A~@^Zb@b@JBt@]RO`GuEz@u@\\UfJiHbAe@fAYfAKfA@fAJd@Lj@VvBfAbGlC|Aj@tEvB|@Zj@\\n@ZbDxAzBz@\\TxB~@r@Rt@Dz@En@O`@QtBkArEmCbAu@fAm@\\]r@eApAqCVc@X_@f@a@t@]x@QpFwAr@Yj@[t@g@\\]h@m@bEiGl@u@p@cALUBUU{@Em@?{FDyABORYJGr@OXY`@ARBRJn@d@ZPRBrAKVB`@Pr@f@TF^?bANj@@TC\\Kb@WRY|ByDdA_Bx@gAtAyAf@q@PW\\w@Xg@dAaAz@qAx@cAhHgIFQEOkBeCCQFOxFuF`CgBzA_Ar@k@X]b@{@fBeCnA{AXa@L_@Jc@N_B?s@SyC@a@`@qAP]P[b@c@b@]XILAXHfAbAfAz@VJLBJ?JCJGRWx@_BNg@HeDXqBCQQ_@CYBMDKPUlAiAVSXKZEXAXHt@l@ZPzAVV?VEpAa@TSt@}Ap@gAF[BeAJYPUPOFAD@DPB~AHt@E@ACEO]uIE_EI}B?_AFwAr@sKV}C\\{BbCsKP_A^iD@SCaAHWf@i@T[Na@Lg@b@aDAWEa@@UDiAJYDEPGfBWLONq@JSZ]dCoAb@Sp@Od@ETBHDHFPV|@jBj@rAf@xAR`ALVVNr@FVF^VNT\\v@`@~ALZ^^vB`Bz@z@p@bArA~BtFvHxAhBlBdBhBbDjCvDh@bAlAhCjE|J^n@nA`BPZL`@N~ATjAvArDh@dATXb@\\VPZLZFhD^ZJJHb@f@\\l@j@bCZhAt@|ATXJHx@ZlARl@@xAM\\@LBrEbB|Av@xBn@t@F~@CfB@b@BVDb@NpAn@NVX|@JLF@NEFQCw@B{C?qEASCCEA_@?QCq@[KACB?JPNfAn@XHXDXAv@KfA?jDMlKMzBIh@?nEMxBA^DzA^x@NtJdAfF`ARHPLNPj@|@RNJBL?XEbAo@TCHBFDDJDZEjBBpDBr@F\\fAdCzBpCz@|@d@x@tApBVb@Th@Nj@L~@PfCHt@p@tEd@dCJx@L|CC\\[vAGn@@r@FvABhBAb@OtA?zAFrBXzEL|C?fAMnC?~D\\xDBPB??EKi@[_EBcDLqC?kAMwCWsEGwB@mBJoABm@KgFDo@ZaBBa@QcD{@uEUiBW}AUkDMw@Ss@e@_AqC{DuA_BqAeB]q@i@}AGe@Ce@@{FA_@K[GGKCM?YJ{@h@WDK?WKIIu@oAUQ[KyFaAsD]aDa@cEu@YAaGN_DJsLP}ENo@?y@H_@Ec@Q_Aq@EMFCLBv@\\PBVADB@DC~CBlGGLMFE?OEEG[gAMSQM}Ai@_@IUAaBAaB@_@E{Bo@uBaAyDuAo@ImBLW@_B_@a@SUOYc@o@cBeAcEQ[SUk@g@YKiCUeAQe@YaAeA_@w@_BqEKe@[yBKe@U]_AgAm@aA{DeJmCmFiCuDoBgD{AmAk@q@yBwC}@sAoBmC{AcCg@u@q@u@yBcBe@a@MSKWUiAq@cBrAsBX_@F@T`@b@f@ZT`@RVFf@@x@CDEACIGkASk@U_As@Y_@a@q@Yo@Og@G[Ey@KWOQq@e@y@oAo@s@OYs@gCm@sA[{@S}@_@wBKWe@_AUs@C@CNLxBC`@CNM\\UVKF[JYBYCu@Og@Sc@[m@k@o@cAQ_@Us@SoAcA{KiBaPCi@DwAA_AKe@Sa@oDeF[YQCIBEDEJAVCtAOhAYv@c@n@]Z_@N]DyAHSDeAn@QBGAQIKSGU?WDs@E]I]Ue@Ya@aAk@Y[c@}@_@wAWe@aB}AaAq@Wc@E]EmCU{BScFi@oDo@_DUq@SYUUg@Ow@EoBAqAIcAQYKc@Uw@k@q@y@_@w@w@cCOYSQy@_@QQEK_@mG@_DIcAk@cGI_@]w@Ss@ES?_@NiADy@DWL]Ry@bB{Fb@mCTcB@[IWaAy@IS@YVqALQFCPAv@LP?FCJMHYDUL{CVyTDsBLmBDm@^kCnAaGd@{CRmBFgAHeDCoDIaEEgAU_Bo@yBOw@OmAMiCBeBDy@fAeLBe@?w@GqAIw@{@sES{@WiBUkGG_AAeB?qFCkABy@?uVKqBI_@ECABOaA_@qCIiACmEHcBLoATwAXiAd@sAb@_At@qApImLl@kAV{@PyA?aAFQV_@H_@CaGA{M?i@D[HGLA`ABdQCzCChC@jDEvFBTCTGNQ@QCcBCgHEaCAwGAGCAGFAH?v@?vBDrBF^FLHHXLh@FxA?jSCjAE`BSf@EfGCzB@PFDJ?hECvQ@zNAXGREDIBU@}DEOEEECQTcBD_ACcU@}BAiA?kCDaAJ}@HKDCvDBJDDFD`@?l^D~MB~c@ApEEhC?rBCp@D`DBpb@D`N?b@I`A@tDDhA`@v@DDNBh@?rITfB?v@Kd@Sh@c@tAeBdAgAhAaBh@q@n@a@ZM\\I`AGxSCz@CpAM|Dq@`AMRBFFPv@Zf@VTbAh@VT`C`Cj@n@\\h@Xl@Rp@Lr@Fv@RfFXdFBtBK|COrCSzBe@~IEZGHWHoAPs@RiAh@y@l@yA~AsBtCaAzAkAvB]h@o@j@WPg@Rg@Nk@HgA@y@Au@PaAd@ODOIWY_@Ya@Uu@Y[Eg@Am@@a@Dc@HgAVu@XcElAm@Ja@XkBp@m@Xk@TYRa@d@gBbBa@n@e@`AwBlDaAtAIHKBKCKUC]Am@?aDC_C@qCCyF?{HCcF?wFASW[COAyHCaBE]EGMIa@Em@?",
+    "resource_state": 3,
+    "summary_polyline": "gsfaFht~sTf@zx@{AfBwLxHyb@jPee@h@_]|MQzChAfExA`VjHvJlM~BhB|J`AfPdKlMp@lE|HeBhB{HbCpC_CyDNw@|A?hApEtBGrAiLfEeDtErAa@xIqB~GQvL}BzKHzDfExFnBJlGnSvDnErAxEdFnCmCKqBoBoBxCwBe@oF_LoM`H[|H{BdEyEt[eAlR`ApTg@gDiEzIcCZ{DaBiBn@aBvBX`By@xHeBvB}EaDoBzAaAzCTfFw@hDsGpIsN~LfBhE{NhP_M`RaCv@mMuCeCp@Q|OiHjKcQlHmFtI_N|H_FP{j@kVyHt@kXdSkJyEwKh@kBo@}BgAqBmBmFAp@jBe@tRaRdbAiEcByE{GuHg@iV\\sMvCeJI}JeD}RxIAvPhDlHj@pMp@XqGbRmCfAw@nDsCpCIpCdBzFmE`G`@fAjBRIxAmCvAgH`L}EpA{DhIKn@hEyJpEaAe@dDx@nGAr[qQl@qAjCIdIiGbKeBhEe@dJhCjDx@vEpEAsnB@cALQhAi@q@Vfd@J`nAh@_@KquAyABb@{Bg@wwB{@eFz@iCf@cP~\\wd@r@iDxBu@xGeMrBcHfl@eg@zWq_@CcFnRiI`h@yXbPuKfQ_ZtA{Gf@uKkAw@lHdGzDdJ|LfExIxOrG|AbFtInDjAzChF~GFrBhB`CnAlBh@xKk@pJvElWyRzGiAzk@lVtEBvNoI|F{ItKaDhDoCpHyKD_OzBs@~IdCfFU~\\_d@eBiEjOiMnG}IVsKdAkCnBmAfFtChBgDLqJdBkBfBg@hIx@xD{I`@fDs@}XjAqPpEoYdBgDn@uIdEyC`GyBnF|KbCv@|AhErE|DxXf`@dMxVtDfMzItC`FdLzHh@jLjExGNrDdDTqMyBg@hC~Abe@cArW|D`CzBrCo@TvKhLnQ|C~T]nWfApa@cAua@XkXaDuTgLqQWcK{Cn@iCcCsWwDwd@dAeCyAzBj@[bMoDaDyGQkLgEmI}@uD}J}J{DsDoMmM{VmXq_@_FoEsAeElBsC~BtB|BC}FwDcAeE{DuEyFyQA|DkAhAqCc@aCkCiGkj@}EcGiBtH{HhBs@wEmKyMu@kOoBaKmMeCwHkKg@qNmBcMzEaVqA{Cd@cBbBFb@aAx@w`@zCwQd@{ISyLsBiNtAcTwCoYAse@yA{S|BmL~MeTz@mFBiXpk@SCsYCtHr@dAzj@U@bi@eGCb@_h@rEe@`@`gDr@x@`OPzMyL|b@_BlJ`KnA`Ev@hRcBrX_HfCiNdQ}IvA_DmBsC?{RpG{L`PgAkw@"
+  },
+  "trainer": false,
+  "commute": false,
+  "manual": false,
+  "private": false,
+  "visibility": "everyone",
+  "flagged": false,
+  "gear_id": null,
+  "start_latlng": [
+    37.06746608018875,
+    -113.53782168589532
+  ],
+  "end_latlng": [
+    37.06747932359576,
+    -113.53784901089966
+  ],
+  "average_speed": 6.757,
+  "max_speed": 14.636,
+  "has_heartrate": true,
+  "average_heartrate": 131.5,
+  "max_heartrate": 171.0,
+  "heartrate_opt_out": false,
+  "display_hide_heartrate_option": true,
+  "elev_high": 940.8,
+  "elev_low": 759.2,
+  "upload_id": 11806267642,
+  "upload_id_str": "11806267642",
+  "external_id": "5218BCD7-5DF5-4675-BDE9-AA3C956D689C.fit",
+  "from_accepted_tag": false,
+  "pr_count": 15,
+  "total_photo_count": 0,
+  "has_kudoed": false,
+  "description": null,
+  "calories": 2183.0,
+  "perceived_exertion": null,
+  "prefer_perceived_exertion": null,
+  "segment_efforts": [
+    {
+      "id": 3207819673542109900,
+      "resource_state": 2,
+      "name": "River road to St James Park",
+      "activity": {
+        "id": 11044683629,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 194,
+      "moving_time": 194,
+      "start_date": "2024-03-13T16:46:20Z",
+      "start_date_local": "2024-03-13T10:46:20Z",
+      "distance": 1585.2,
+      "start_index": 422,
+      "end_index": 615,
+      "device_watts": false,
+      "average_heartrate": 136.1,
+      "max_heartrate": 148.0,
+      "segment": {
+        "id": 18975082,
+        "resource_state": 2,
+        "name": "River road to St James Park",
+        "activity_type": "Ride",
+        "distance": 1585.2,
+        "average_grade": -0.7,
+        "maximum_grade": 3.6,
+        "elevation_high": 779.6,
+        "elevation_low": 767.2,
+        "start_latlng": [
+          37.085877,
+          -113.556553
+        ],
+        "end_latlng": [
+          37.079449,
+          -113.570168
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "St. George",
+        "state": "Utah",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 2,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 2
+        }
+      ],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3207819673540319948,
+      "resource_state": 2,
+      "name": "trail climb",
+      "activity": {
+        "id": 11044683629,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 66,
+      "moving_time": 64,
+      "start_date": "2024-03-13T16:51:56Z",
+      "start_date_local": "2024-03-13T10:51:56Z",
+      "distance": 361.4,
+      "start_index": 756,
+      "end_index": 822,
+      "device_watts": false,
+      "average_heartrate": 148.2,
+      "max_heartrate": 163.0,
+      "segment": {
+        "id": 30415015,
+        "resource_state": 2,
+        "name": "trail climb",
+        "activity_type": "Ride",
+        "distance": 361.4,
+        "average_grade": 2.6,
+        "maximum_grade": 9.0,
+        "elevation_high": 785.8,
+        "elevation_low": 775.8,
+        "start_latlng": [
+          37.075715,
+          -113.569601
+        ],
+        "end_latlng": [
+          37.074411,
+          -113.568588
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "St. George",
+        "state": "Utah",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 1,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 1
+        }
+      ],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3207819673541571276,
+      "resource_state": 2,
+      "name": "River Watch",
+      "activity": {
+        "id": 11044683629,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 109,
+      "moving_time": 109,
+      "start_date": "2024-03-13T16:56:40Z",
+      "start_date_local": "2024-03-13T10:56:40Z",
+      "distance": 712.0,
+      "start_index": 1040,
+      "end_index": 1149,
+      "device_watts": false,
+      "average_heartrate": 121.2,
+      "max_heartrate": 126.0,
+      "segment": {
+        "id": 26470390,
+        "resource_state": 2,
+        "name": "River Watch",
+        "activity_type": "Ride",
+        "distance": 712.0,
+        "average_grade": -0.1,
+        "maximum_grade": 4.2,
+        "elevation_high": 785.0,
+        "elevation_low": 782.4,
+        "start_latlng": [
+          37.072051,
+          -113.577873
+        ],
+        "end_latlng": [
+          37.068284,
+          -113.58385
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "St. George",
+        "state": "Utah",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 1,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 1
+        }
+      ],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3207819673541186252,
+      "resource_state": 2,
+      "name": "suz segment",
+      "activity": {
+        "id": 11044683629,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 119,
+      "moving_time": 119,
+      "start_date": "2024-03-13T17:01:01Z",
+      "start_date_local": "2024-03-13T11:01:01Z",
+      "distance": 867.8,
+      "start_index": 1301,
+      "end_index": 1420,
+      "device_watts": false,
+      "average_heartrate": 143.4,
+      "max_heartrate": 151.0,
+      "segment": {
+        "id": 21417733,
+        "resource_state": 2,
+        "name": "suz segment",
+        "activity_type": "Ride",
+        "distance": 867.8,
+        "average_grade": 0.9,
+        "maximum_grade": 8.4,
+        "elevation_high": 775.6,
+        "elevation_low": 767.2,
+        "start_latlng": [
+          37.074422,
+          -113.584787
+        ],
+        "end_latlng": [
+          37.076443,
+          -113.594005
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "St. George",
+        "state": "Utah",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 2,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 2
+        }
+      ],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3207819673538696908,
+      "resource_state": 2,
+      "name": "Tonaquint to Cottonwood Cove",
+      "activity": {
+        "id": 11044683629,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 422,
+      "moving_time": 422,
+      "start_date": "2024-03-13T17:03:29Z",
+      "start_date_local": "2024-03-13T11:03:29Z",
+      "distance": 2615.3,
+      "start_index": 1449,
+      "end_index": 1870,
+      "device_watts": false,
+      "average_heartrate": 135.8,
+      "max_heartrate": 151.0,
+      "segment": {
+        "id": 17487009,
+        "resource_state": 2,
+        "name": "Tonaquint to Cottonwood Cove",
+        "activity_type": "Ride",
+        "distance": 2615.3,
+        "average_grade": 0.5,
+        "maximum_grade": 3.6,
+        "elevation_high": 789.6,
+        "elevation_low": 774.6,
+        "start_latlng": [
+          37.076372,
+          -113.59597
+        ],
+        "end_latlng": [
+          37.090362,
+          -113.613359
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "St. George",
+        "state": "Utah",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 3,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 3
+        }
+      ],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3207819673538648780,
+      "resource_state": 2,
+      "name": "Dixie Rd Sprint NW w/Corners",
+      "activity": {
+        "id": 11044683629,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 72,
+      "moving_time": 72,
+      "start_date": "2024-03-13T17:08:32Z",
+      "start_date_local": "2024-03-13T11:08:32Z",
+      "distance": 460.0,
+      "start_index": 1751,
+      "end_index": 1823,
+      "device_watts": false,
+      "average_heartrate": 145.3,
+      "max_heartrate": 151.0,
+      "segment": {
+        "id": 30321676,
+        "resource_state": 2,
+        "name": "Dixie Rd Sprint NW w/Corners",
+        "activity_type": "Ride",
+        "distance": 460.0,
+        "average_grade": 1.1,
+        "maximum_grade": 5.4,
+        "elevation_high": 768.6,
+        "elevation_low": 763.0,
+        "start_latlng": [
+          37.086271,
+          -113.606939
+        ],
+        "end_latlng": [
+          37.088081,
+          -113.610502
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "St. George",
+        "state": "Utah",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 3,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 3
+        }
+      ],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3207819673538847436,
+      "resource_state": 2,
+      "name": "2400 W LL Drive to 1800 N",
+      "activity": {
+        "id": 11044683629,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 74,
+      "moving_time": 74,
+      "start_date": "2024-03-13T17:27:27Z",
+      "start_date_local": "2024-03-13T11:27:27Z",
+      "distance": 522.4,
+      "start_index": 2885,
+      "end_index": 2959,
+      "device_watts": false,
+      "average_heartrate": 148.9,
+      "max_heartrate": 155.0,
+      "segment": {
+        "id": 13999620,
+        "resource_state": 2,
+        "name": "2400 W LL Drive to 1800 N",
+        "activity_type": "Ride",
+        "distance": 522.4,
+        "average_grade": 0.9,
+        "maximum_grade": 2.0,
+        "elevation_high": 861.5,
+        "elevation_low": 856.3,
+        "start_latlng": [
+          37.134689,
+          -113.634066
+        ],
+        "end_latlng": [
+          37.139216,
+          -113.633715
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "St. George",
+        "state": "Utah",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3207819673541684940,
+      "resource_state": 2,
+      "name": "The snake's venom",
+      "activity": {
+        "id": 11044683629,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 57,
+      "moving_time": 57,
+      "start_date": "2024-03-13T17:51:16Z",
+      "start_date_local": "2024-03-13T11:51:16Z",
+      "distance": 384.6,
+      "start_index": 4312,
+      "end_index": 4369,
+      "device_watts": false,
+      "average_heartrate": 125.3,
+      "max_heartrate": 131.0,
+      "segment": {
+        "id": 9136269,
+        "resource_state": 2,
+        "name": "The snake's venom",
+        "activity_type": "Ride",
+        "distance": 384.6,
+        "average_grade": -0.2,
+        "maximum_grade": 2.6,
+        "elevation_high": 936.6,
+        "elevation_low": 934.6,
+        "start_latlng": [
+          37.168495,
+          -113.675172
+        ],
+        "end_latlng": [
+          37.168412,
+          -113.679505
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Ivins",
+        "state": "Utah",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 1,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 1
+        }
+      ],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3207819673538466508,
+      "resource_state": 2,
+      "name": "400W to 200E lap (loop)",
+      "activity": {
+        "id": 11044683629,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 1409,
+      "moving_time": 314,
+      "start_date": "2024-03-13T17:51:35Z",
+      "start_date_local": "2024-03-13T11:51:35Z",
+      "distance": 2497.2,
+      "start_index": 4331,
+      "end_index": 4647,
+      "device_watts": false,
+      "average_heartrate": 145.5,
+      "max_heartrate": 152.0,
+      "segment": {
+        "id": 5658184,
+        "resource_state": 2,
+        "name": "400W to 200E lap (loop)",
+        "activity_type": "Ride",
+        "distance": 2497.2,
+        "average_grade": -0.0,
+        "maximum_grade": 2.4,
+        "elevation_high": 939.6,
+        "elevation_low": 936.6,
+        "start_latlng": [
+          37.168425,
+          -113.676416
+        ],
+        "end_latlng": [
+          37.168438,
+          -113.675696
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Ivins",
+        "state": "UT",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3207819673539121868,
+      "resource_state": 2,
+      "name": "Kevin's baked goods use the finest yeast ",
+      "activity": {
+        "id": 11044683629,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 94,
+      "moving_time": 94,
+      "start_date": "2024-03-13T17:52:17Z",
+      "start_date_local": "2024-03-13T11:52:17Z",
+      "distance": 744.1,
+      "start_index": 4373,
+      "end_index": 4466,
+      "device_watts": false,
+      "average_heartrate": 135.7,
+      "max_heartrate": 145.0,
+      "segment": {
+        "id": 9136322,
+        "resource_state": 2,
+        "name": "Kevin's baked goods use the finest yeast ",
+        "activity_type": "Ride",
+        "distance": 744.1,
+        "average_grade": 0.1,
+        "maximum_grade": 5.6,
+        "elevation_high": 936.4,
+        "elevation_low": 933.4,
+        "start_latlng": [
+          37.168409,
+          -113.679875
+        ],
+        "end_latlng": [
+          37.168307,
+          -113.688261
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Ivins",
+        "state": "Utah",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 2,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 2
+        }
+      ],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3207819673538672332,
+      "resource_state": 2,
+      "name": "Ivins Center St East",
+      "activity": {
+        "id": 11044683629,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 1533,
+      "moving_time": 438,
+      "start_date": "2024-03-13T17:54:09Z",
+      "start_date_local": "2024-03-13T11:54:09Z",
+      "distance": 3063.3,
+      "start_index": 4484,
+      "end_index": 4924,
+      "device_watts": false,
+      "average_heartrate": 141.7,
+      "max_heartrate": 152.0,
+      "segment": {
+        "id": 24297612,
+        "resource_state": 2,
+        "name": "Ivins Center St East",
+        "activity_type": "Ride",
+        "distance": 3063.3,
+        "average_grade": -0.3,
+        "maximum_grade": 5.0,
+        "elevation_high": 937.6,
+        "elevation_low": 926.6,
+        "start_latlng": [
+          37.168186,
+          -113.688507
+        ],
+        "end_latlng": [
+          37.168613,
+          -113.65406
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Ivins",
+        "state": "Utah",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3207819673538731724,
+      "resource_state": 2,
+      "name": "Fire station to pond",
+      "activity": {
+        "id": 11044683629,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 732,
+      "moving_time": 729,
+      "start_date": "2024-03-13T18:13:59Z",
+      "start_date_local": "2024-03-13T12:13:59Z",
+      "distance": 5574.18,
+      "start_index": 4582,
+      "end_index": 5313,
+      "device_watts": false,
+      "average_heartrate": 117.4,
+      "max_heartrate": 149.0,
+      "segment": {
+        "id": 805144,
+        "resource_state": 2,
+        "name": "Fire station to pond",
+        "activity_type": "Ride",
+        "distance": 5574.18,
+        "average_grade": -0.8,
+        "maximum_grade": 3.7,
+        "elevation_high": 939.2,
+        "elevation_low": 886.5,
+        "start_latlng": [
+          37.16828763484955,
+          -113.68120193481445
+        ],
+        "end_latlng": [
+          37.1500164270401,
+          -113.62863600254059
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Ivins",
+        "state": "UT",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3207819673538949836,
+      "resource_state": 2,
+      "name": "Padre Canyon Finishing Sprint",
+      "activity": {
+        "id": 11044683629,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 37,
+      "moving_time": 37,
+      "start_date": "2024-03-13T18:19:00Z",
+      "start_date_local": "2024-03-13T12:19:00Z",
+      "distance": 287.108,
+      "start_index": 4882,
+      "end_index": 4919,
+      "device_watts": false,
+      "average_heartrate": 122.9,
+      "max_heartrate": 129.0,
+      "segment": {
+        "id": 3302162,
+        "resource_state": 2,
+        "name": "Padre Canyon Finishing Sprint",
+        "activity_type": "Ride",
+        "distance": 287.108,
+        "average_grade": -0.0,
+        "maximum_grade": 0.8,
+        "elevation_high": 928.6,
+        "elevation_low": 926.1,
+        "start_latlng": [
+          37.16856,
+          -113.657745
+        ],
+        "end_latlng": [
+          37.168595,
+          -113.654508
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Ivins",
+        "state": "UT",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3207819673538191052,
+      "resource_state": 2,
+      "name": "SC roundabout to bronze roundabout",
+      "activity": {
+        "id": 11044683629,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 121,
+      "moving_time": 121,
+      "start_date": "2024-03-13T18:20:15Z",
+      "start_date_local": "2024-03-13T12:20:15Z",
+      "distance": 1038.87,
+      "start_index": 4957,
+      "end_index": 5078,
+      "device_watts": false,
+      "average_heartrate": 111.1,
+      "max_heartrate": 133.0,
+      "segment": {
+        "id": 2597395,
+        "resource_state": 2,
+        "name": "SC roundabout to bronze roundabout",
+        "activity_type": "Ride",
+        "distance": 1038.87,
+        "average_grade": -2.0,
+        "maximum_grade": 0.0,
+        "elevation_high": 928.5,
+        "elevation_low": 907.5,
+        "start_latlng": [
+          37.16852571724318,
+          -113.65302388731608
+        ],
+        "end_latlng": [
+          37.16320276316594,
+          -113.64411359438076
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Ivins",
+        "state": "UT",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 2,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 2
+        }
+      ],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3207819673539166924,
+      "resource_state": 2,
+      "name": "SC Center St to Tuweap",
+      "activity": {
+        "id": 11044683629,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 315,
+      "moving_time": 315,
+      "start_date": "2024-03-13T18:20:53Z",
+      "start_date_local": "2024-03-13T12:20:53Z",
+      "distance": 2789.2,
+      "start_index": 4995,
+      "end_index": 5310,
+      "device_watts": false,
+      "average_heartrate": 115.5,
+      "max_heartrate": 149.0,
+      "segment": {
+        "id": 13543337,
+        "resource_state": 2,
+        "name": "SC Center St to Tuweap",
+        "activity_type": "Ride",
+        "distance": 2789.2,
+        "average_grade": -1.5,
+        "maximum_grade": 4.8,
+        "elevation_high": 911.8,
+        "elevation_low": 865.4,
+        "start_latlng": [
+          37.168179,
+          -113.650155
+        ],
+        "end_latlng": [
+          37.150136,
+          -113.628792
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Ivins",
+        "state": "Utah",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 2,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 2
+        }
+      ],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3207819673539244748,
+      "resource_state": 2,
+      "name": "Night sprint-1",
+      "activity": {
+        "id": 11044683629,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 40,
+      "moving_time": 40,
+      "start_date": "2024-03-13T18:23:49Z",
+      "start_date_local": "2024-03-13T12:23:49Z",
+      "distance": 335.5,
+      "start_index": 5171,
+      "end_index": 5211,
+      "device_watts": false,
+      "average_heartrate": 139.8,
+      "max_heartrate": 149.0,
+      "segment": {
+        "id": 7348546,
+        "resource_state": 2,
+        "name": "Night sprint-1",
+        "activity_type": "Ride",
+        "distance": 335.5,
+        "average_grade": -0.8,
+        "maximum_grade": 0.5,
+        "elevation_high": 860.0,
+        "elevation_low": 857.0,
+        "start_latlng": [
+          37.159336,
+          -113.638189
+        ],
+        "end_latlng": [
+          37.156829,
+          -113.636064
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "St. George",
+        "state": "UT",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 2,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 2
+        }
+      ],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3207819673541446348,
+      "resource_state": 2,
+      "name": "Night sprint-3",
+      "activity": {
+        "id": 11044683629,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 79,
+      "moving_time": 79,
+      "start_date": "2024-03-13T18:23:49Z",
+      "start_date_local": "2024-03-13T12:23:49Z",
+      "distance": 720.1,
+      "start_index": 5171,
+      "end_index": 5250,
+      "device_watts": false,
+      "average_heartrate": 131.4,
+      "max_heartrate": 149.0,
+      "segment": {
+        "id": 7348559,
+        "resource_state": 2,
+        "name": "Night sprint-3",
+        "activity_type": "Ride",
+        "distance": 720.1,
+        "average_grade": -1.2,
+        "maximum_grade": 1.6,
+        "elevation_high": 860.0,
+        "elevation_low": 851.2,
+        "start_latlng": [
+          37.159336,
+          -113.638189
+        ],
+        "end_latlng": [
+          37.153968,
+          -113.633592
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "St. George",
+        "state": "UT",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 1,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 1
+        }
+      ],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3207819673539846860,
+      "resource_state": 2,
+      "name": "Cottonwood to Confluence",
+      "activity": {
+        "id": 11044683629,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 541,
+      "moving_time": 541,
+      "start_date": "2024-03-13T18:45:46Z",
+      "start_date_local": "2024-03-13T12:45:46Z",
+      "distance": 3968.0,
+      "start_index": 6485,
+      "end_index": 7024,
+      "device_watts": false,
+      "average_heartrate": 130.1,
+      "max_heartrate": 163.0,
+      "segment": {
+        "id": 19847895,
+        "resource_state": 2,
+        "name": "Cottonwood to Confluence",
+        "activity_type": "Ride",
+        "distance": 3968.0,
+        "average_grade": -0.6,
+        "maximum_grade": 9.9,
+        "elevation_high": 799.4,
+        "elevation_low": 773.3,
+        "start_latlng": [
+          37.090621,
+          -113.61356
+        ],
+        "end_latlng": [
+          37.074266,
+          -113.584011
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "St. George",
+        "state": "Utah",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 3,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 3
+        }
+      ],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3207819673538522828,
+      "resource_state": 2,
+      "name": "Dixie Rd Spint SE",
+      "activity": {
+        "id": 11044683629,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 54,
+      "moving_time": 54,
+      "start_date": "2024-03-13T18:46:12Z",
+      "start_date_local": "2024-03-13T12:46:12Z",
+      "distance": 424.7,
+      "start_index": 6511,
+      "end_index": 6564,
+      "device_watts": false,
+      "average_heartrate": 127.2,
+      "max_heartrate": 133.0,
+      "segment": {
+        "id": 30321603,
+        "resource_state": 2,
+        "name": "Dixie Rd Spint SE",
+        "activity_type": "Ride",
+        "distance": 424.7,
+        "average_grade": -0.2,
+        "maximum_grade": 1.3,
+        "elevation_high": 768.6,
+        "elevation_low": 766.8,
+        "start_latlng": [
+          37.089387,
+          -113.612095
+        ],
+        "end_latlng": [
+          37.086628,
+          -113.608822
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "St. George",
+        "state": "Utah",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 3,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 3
+        }
+      ],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3207819673541799628,
+      "resource_state": 2,
+      "name": "Chain Link Sprint SE",
+      "activity": {
+        "id": 11044683629,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 62,
+      "moving_time": 62,
+      "start_date": "2024-03-13T18:47:46Z",
+      "start_date_local": "2024-03-13T12:47:46Z",
+      "distance": 392.1,
+      "start_index": 6604,
+      "end_index": 6666,
+      "device_watts": false,
+      "average_heartrate": 111.3,
+      "max_heartrate": 120.0,
+      "segment": {
+        "id": 30321613,
+        "resource_state": 2,
+        "name": "Chain Link Sprint SE",
+        "activity_type": "Ride",
+        "distance": 392.1,
+        "average_grade": -0.7,
+        "maximum_grade": 1.4,
+        "elevation_high": 763.0,
+        "elevation_low": 760.0,
+        "start_latlng": [
+          37.086647,
+          -113.607281
+        ],
+        "end_latlng": [
+          37.083838,
+          -113.604653
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "St. George",
+        "state": "Utah",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3207819673539307212,
+      "resource_state": 2,
+      "name": "I hate Golf!",
+      "activity": {
+        "id": 11044683629,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 126,
+      "moving_time": 126,
+      "start_date": "2024-03-13T18:52:32Z",
+      "start_date_local": "2024-03-13T12:52:32Z",
+      "distance": 1123.3,
+      "start_index": 6889,
+      "end_index": 7015,
+      "device_watts": false,
+      "average_heartrate": 151.9,
+      "max_heartrate": 163.0,
+      "segment": {
+        "id": 35003442,
+        "resource_state": 2,
+        "name": "I hate Golf!",
+        "activity_type": "Ride",
+        "distance": 1123.3,
+        "average_grade": -0.9,
+        "maximum_grade": 1.7,
+        "elevation_high": 784.4,
+        "elevation_low": 773.6,
+        "start_latlng": [
+          37.076204,
+          -113.596967
+        ],
+        "end_latlng": [
+          37.074458,
+          -113.584886
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "St. George",
+        "state": "Utah",
+        "country": "USA",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 2,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 2
+        }
+      ],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3207819673540307660,
+      "resource_state": 2,
+      "name": "Bridge to Rio Virgin Road",
+      "activity": {
+        "id": 11044683629,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 235,
+      "moving_time": 235,
+      "start_date": "2024-03-13T18:55:19Z",
+      "start_date_local": "2024-03-13T12:55:19Z",
+      "distance": 1916.4,
+      "start_index": 7056,
+      "end_index": 7291,
+      "device_watts": false,
+      "average_heartrate": 133.5,
+      "max_heartrate": 148.0,
+      "segment": {
+        "id": 7192035,
+        "resource_state": 2,
+        "name": "Bridge to Rio Virgin Road",
+        "activity_type": "Ride",
+        "distance": 1916.4,
+        "average_grade": -0.0,
+        "maximum_grade": 15.1,
+        "elevation_high": 783.3,
+        "elevation_low": 771.0,
+        "start_latlng": [
+          37.073611,
+          -113.582965
+        ],
+        "end_latlng": [
+          37.062082,
+          -113.59567
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "St. George",
+        "state": "UT",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 2,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 2
+        }
+      ],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3207819673540583116,
+      "resource_state": 2,
+      "name": "Confluence Bridge to Driving range on trail",
+      "activity": {
+        "id": 11044683629,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 265,
+      "moving_time": 265,
+      "start_date": "2024-03-13T18:56:04Z",
+      "start_date_local": "2024-03-13T12:56:04Z",
+      "distance": 2289.4,
+      "start_index": 7101,
+      "end_index": 7366,
+      "device_watts": false,
+      "average_heartrate": 137.8,
+      "max_heartrate": 148.0,
+      "segment": {
+        "id": 5107322,
+        "resource_state": 2,
+        "name": "Confluence Bridge to Driving range on trail",
+        "activity_type": "Ride",
+        "distance": 2289.4,
+        "average_grade": -0.2,
+        "maximum_grade": 12.0,
+        "elevation_high": 779.6,
+        "elevation_low": 769.1,
+        "start_latlng": [
+          37.071587,
+          -113.582068
+        ],
+        "end_latlng": [
+          37.058319,
+          -113.600552
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "St. George",
+        "state": "UT",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 2,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 2
+        }
+      ],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3207819673540953804,
+      "resource_state": 2,
+      "name": "Going South on the Virgin",
+      "activity": {
+        "id": 11044683629,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 141,
+      "moving_time": 141,
+      "start_date": "2024-03-13T19:03:39Z",
+      "start_date_local": "2024-03-13T13:03:39Z",
+      "distance": 1163.6,
+      "start_index": 7555,
+      "end_index": 7695,
+      "device_watts": false,
+      "average_heartrate": 127.8,
+      "max_heartrate": 144.0,
+      "segment": {
+        "id": 8577945,
+        "resource_state": 2,
+        "name": "Going South on the Virgin",
+        "activity_type": "Ride",
+        "distance": 1163.6,
+        "average_grade": -0.4,
+        "maximum_grade": 2.1,
+        "elevation_high": 761.4,
+        "elevation_low": 756.8,
+        "start_latlng": [
+          37.052161,
+          -113.600422
+        ],
+        "end_latlng": [
+          37.041841,
+          -113.601187
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "St. George",
+        "state": "Utah",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 1,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 1
+        }
+      ],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3207819673539204812,
+      "resource_state": 2,
+      "name": "VRT Man-o-War to Chef Hog's ",
+      "activity": {
+        "id": 11044683629,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 389,
+      "moving_time": 389,
+      "start_date": "2024-03-13T19:03:39Z",
+      "start_date_local": "2024-03-13T13:03:39Z",
+      "distance": 2938.1,
+      "start_index": 7555,
+      "end_index": 7943,
+      "device_watts": false,
+      "average_heartrate": 131.4,
+      "max_heartrate": 146.0,
+      "segment": {
+        "id": 23296449,
+        "resource_state": 2,
+        "name": "VRT Man-o-War to Chef Hog's ",
+        "activity_type": "Ride",
+        "distance": 2938.1,
+        "average_grade": -0.2,
+        "maximum_grade": 13.7,
+        "elevation_high": 763.0,
+        "elevation_low": 753.8,
+        "start_latlng": [
+          37.052183,
+          -113.600398
+        ],
+        "end_latlng": [
+          37.037645,
+          -113.618328
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "St. George",
+        "state": "Utah",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 2,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 2
+        }
+      ],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3207819673542000332,
+      "resource_state": 2,
+      "name": "Rock Wall sprint S",
+      "activity": {
+        "id": 11044683629,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 43,
+      "moving_time": 43,
+      "start_date": "2024-03-13T19:03:44Z",
+      "start_date_local": "2024-03-13T13:03:44Z",
+      "distance": 328.8,
+      "start_index": 7560,
+      "end_index": 7602,
+      "device_watts": false,
+      "average_heartrate": 116.3,
+      "max_heartrate": 125.0,
+      "segment": {
+        "id": 30360707,
+        "resource_state": 2,
+        "name": "Rock Wall sprint S",
+        "activity_type": "Ride",
+        "distance": 328.8,
+        "average_grade": -0.5,
+        "maximum_grade": 0.0,
+        "elevation_high": 760.6,
+        "elevation_low": 759.0,
+        "start_latlng": [
+          37.051803,
+          -113.600363
+        ],
+        "end_latlng": [
+          37.048844,
+          -113.600244
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "St. George",
+        "state": "Utah",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 2,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 2
+        }
+      ],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3207819673541341900,
+      "resource_state": 2,
+      "name": "Man O' War TT",
+      "activity": {
+        "id": 11044683629,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 770,
+      "moving_time": 757,
+      "start_date": "2024-03-13T19:04:03Z",
+      "start_date_local": "2024-03-13T13:04:03Z",
+      "distance": 5703.0,
+      "start_index": 7578,
+      "end_index": 8347,
+      "device_watts": false,
+      "average_heartrate": 134.3,
+      "max_heartrate": 151.0,
+      "segment": {
+        "id": 23459541,
+        "resource_state": 2,
+        "name": "Man O' War TT",
+        "activity_type": "Ride",
+        "distance": 5703.0,
+        "average_grade": 0.0,
+        "maximum_grade": 4.3,
+        "elevation_high": 780.4,
+        "elevation_low": 773.0,
+        "start_latlng": [
+          37.050559,
+          -113.600318
+        ],
+        "end_latlng": [
+          37.050618,
+          -113.600281
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "St. George",
+        "state": "Utah",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 1,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 1
+        }
+      ],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3207819673538246348,
+      "resource_state": 2,
+      "name": "Stop Sign out and back",
+      "activity": {
+        "id": 11044683629,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 456,
+      "moving_time": 443,
+      "start_date": "2024-03-13T19:06:39Z",
+      "start_date_local": "2024-03-13T13:06:39Z",
+      "distance": 3201.1,
+      "start_index": 7734,
+      "end_index": 8190,
+      "device_watts": false,
+      "average_heartrate": 132.8,
+      "max_heartrate": 151.0,
+      "segment": {
+        "id": 30360965,
+        "resource_state": 2,
+        "name": "Stop Sign out and back",
+        "activity_type": "Ride",
+        "distance": 3201.1,
+        "average_grade": -0.1,
+        "maximum_grade": 5.8,
+        "elevation_high": 763.0,
+        "elevation_low": 756.4,
+        "start_latlng": [
+          37.040653,
+          -113.60243
+        ],
+        "end_latlng": [
+          37.040695,
+          -113.602421
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "St. George",
+        "state": "Utah",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 1,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 1
+        }
+      ],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3207819673540621004,
+      "resource_state": 2,
+      "name": "VRT sprint to Man-O-War 4-1-20",
+      "activity": {
+        "id": 11044683629,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 376,
+      "moving_time": 376,
+      "start_date": "2024-03-13T19:11:05Z",
+      "start_date_local": "2024-03-13T13:11:05Z",
+      "distance": 2971.4,
+      "start_index": 8000,
+      "end_index": 8375,
+      "device_watts": false,
+      "average_heartrate": 138.1,
+      "max_heartrate": 151.0,
+      "segment": {
+        "id": 23256636,
+        "resource_state": 2,
+        "name": "VRT sprint to Man-O-War 4-1-20",
+        "activity_type": "Ride",
+        "distance": 2971.4,
+        "average_grade": 0.1,
+        "maximum_grade": 7.1,
+        "elevation_high": 762.2,
+        "elevation_low": 752.4,
+        "start_latlng": [
+          37.037609,
+          -113.618566
+        ],
+        "end_latlng": [
+          37.052338,
+          -113.60042
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "St. George",
+        "state": "Utah",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 2,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 2
+        }
+      ],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3207819673539493580,
+      "resource_state": 2,
+      "name": "Sun River Sprint E",
+      "activity": {
+        "id": 11044683629,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 38,
+      "moving_time": 38,
+      "start_date": "2024-03-13T19:11:10Z",
+      "start_date_local": "2024-03-13T13:11:10Z",
+      "distance": 306.3,
+      "start_index": 8005,
+      "end_index": 8043,
+      "device_watts": false,
+      "average_heartrate": 123.2,
+      "max_heartrate": 134.0,
+      "segment": {
+        "id": 30360735,
+        "resource_state": 2,
+        "name": "Sun River Sprint E",
+        "activity_type": "Ride",
+        "distance": 306.3,
+        "average_grade": 0.0,
+        "maximum_grade": 0.6,
+        "elevation_high": 756.8,
+        "elevation_low": 756.4,
+        "start_latlng": [
+          37.037673,
+          -113.618261
+        ],
+        "end_latlng": [
+          37.037758,
+          -113.614842
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "St. George",
+        "state": "Utah",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 3,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 3
+        }
+      ],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3207819673542059724,
+      "resource_state": 2,
+      "name": "Stop Sign Sprint N",
+      "activity": {
+        "id": 11044683629,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 39,
+      "moving_time": 39,
+      "start_date": "2024-03-13T19:14:25Z",
+      "start_date_local": "2024-03-13T13:14:25Z",
+      "distance": 319.4,
+      "start_index": 8200,
+      "end_index": 8239,
+      "device_watts": false,
+      "average_heartrate": 127.6,
+      "max_heartrate": 132.0,
+      "segment": {
+        "id": 30360969,
+        "resource_state": 2,
+        "name": "Stop Sign Sprint N",
+        "activity_type": "Ride",
+        "distance": 319.4,
+        "average_grade": -1.4,
+        "maximum_grade": 0.0,
+        "elevation_high": 760.8,
+        "elevation_low": 756.2,
+        "start_latlng": [
+          37.040698,
+          -113.601603
+        ],
+        "end_latlng": [
+          37.043141,
+          -113.600737
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "St. George",
+        "state": "Utah",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 3,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 3
+        }
+      ],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3207819673539114700,
+      "resource_state": 2,
+      "name": "Shifty Sand",
+      "activity": {
+        "id": 11044683629,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 150,
+      "moving_time": 150,
+      "start_date": "2024-03-13T19:14:48Z",
+      "start_date_local": "2024-03-13T13:14:48Z",
+      "distance": 1165.4,
+      "start_index": 8223,
+      "end_index": 8372,
+      "device_watts": false,
+      "average_heartrate": 141.8,
+      "max_heartrate": 149.0,
+      "segment": {
+        "id": 8577942,
+        "resource_state": 2,
+        "name": "Shifty Sand",
+        "activity_type": "Ride",
+        "distance": 1165.4,
+        "average_grade": -0.3,
+        "maximum_grade": 1.2,
+        "elevation_high": 793.4,
+        "elevation_low": 788.8,
+        "start_latlng": [
+          37.041847,
+          -113.60127
+        ],
+        "end_latlng": [
+          37.052161,
+          -113.600424
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "St. George",
+        "state": "Utah",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 2,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 2
+        }
+      ],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3207819673541616332,
+      "resource_state": 2,
+      "name": "Bloomington Park to Virgin River Bridge ",
+      "activity": {
+        "id": 11044683629,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 358,
+      "moving_time": 358,
+      "start_date": "2024-03-13T19:18:47Z",
+      "start_date_local": "2024-03-13T13:18:47Z",
+      "distance": 2762.9,
+      "start_index": 8461,
+      "end_index": 8819,
+      "device_watts": false,
+      "average_heartrate": 139.7,
+      "max_heartrate": 156.0,
+      "segment": {
+        "id": 27912555,
+        "resource_state": 2,
+        "name": "Bloomington Park to Virgin River Bridge ",
+        "activity_type": "Ride",
+        "distance": 2762.9,
+        "average_grade": 0.1,
+        "maximum_grade": 3.2,
+        "elevation_high": 751.2,
+        "elevation_low": 745.0,
+        "start_latlng": [
+          37.052634,
+          -113.602181
+        ],
+        "end_latlng": [
+          37.07006,
+          -113.584117
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": null,
+        "country": null,
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 2,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 2
+        }
+      ],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3207819673539522252,
+      "resource_state": 2,
+      "name": "Bloomington Park Sprnt N",
+      "activity": {
+        "id": 11044683629,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 71,
+      "moving_time": 71,
+      "start_date": "2024-03-13T19:18:49Z",
+      "start_date_local": "2024-03-13T13:18:49Z",
+      "distance": 423.8,
+      "start_index": 8463,
+      "end_index": 8534,
+      "device_watts": false,
+      "average_heartrate": 126.3,
+      "max_heartrate": 136.0,
+      "segment": {
+        "id": 30321648,
+        "resource_state": 2,
+        "name": "Bloomington Park Sprnt N",
+        "activity_type": "Ride",
+        "distance": 423.8,
+        "average_grade": -0.1,
+        "maximum_grade": 2.1,
+        "elevation_high": 742.2,
+        "elevation_low": 739.8,
+        "start_latlng": [
+          37.052654,
+          -113.601993
+        ],
+        "end_latlng": [
+          37.056287,
+          -113.600812
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "St. George",
+        "state": "Utah",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3207819673541629644,
+      "resource_state": 2,
+      "name": "Mayor's South Side",
+      "activity": {
+        "id": 11044683629,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 635,
+      "moving_time": 635,
+      "start_date": "2024-03-13T19:24:54Z",
+      "start_date_local": "2024-03-13T13:24:54Z",
+      "distance": 4376.4,
+      "start_index": 8828,
+      "end_index": 9462,
+      "device_watts": false,
+      "average_heartrate": 131.8,
+      "max_heartrate": 163.0,
+      "segment": {
+        "id": 4703442,
+        "resource_state": 2,
+        "name": "Mayor's South Side",
+        "activity_type": "Ride",
+        "distance": 4376.4,
+        "average_grade": 0.2,
+        "maximum_grade": 32.4,
+        "elevation_high": 784.2,
+        "elevation_low": 769.4,
+        "start_latlng": [
+          37.070017,
+          -113.583898
+        ],
+        "end_latlng": [
+          37.085881,
+          -113.556233
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "St. George",
+        "state": "UT",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 1,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 1
+        }
+      ],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3207819673538225868,
+      "resource_state": 2,
+      "name": "Up up and away",
+      "activity": {
+        "id": 11044683629,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 94,
+      "moving_time": 94,
+      "start_date": "2024-03-13T19:24:56Z",
+      "start_date_local": "2024-03-13T13:24:56Z",
+      "distance": 490.8,
+      "start_index": 8830,
+      "end_index": 8924,
+      "device_watts": false,
+      "average_heartrate": 140.0,
+      "max_heartrate": 163.0,
+      "segment": {
+        "id": 19271766,
+        "resource_state": 2,
+        "name": "Up up and away",
+        "activity_type": "Ride",
+        "distance": 490.8,
+        "average_grade": 2.2,
+        "maximum_grade": 10.2,
+        "elevation_high": 794.4,
+        "elevation_low": 783.0,
+        "start_latlng": [
+          37.069958,
+          -113.583827
+        ],
+        "end_latlng": [
+          37.069882,
+          -113.58199
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "St. George",
+        "state": "Utah",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 1,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 1
+        }
+      ],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3207819673538511564,
+      "resource_state": 2,
+      "name": "virgin river trail climb",
+      "activity": {
+        "id": 11044683629,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 22,
+      "moving_time": 22,
+      "start_date": "2024-03-13T19:27:21Z",
+      "start_date_local": "2024-03-13T13:27:21Z",
+      "distance": 97.6,
+      "start_index": 8975,
+      "end_index": 8997,
+      "device_watts": false,
+      "average_heartrate": 115.3,
+      "max_heartrate": 121.0,
+      "segment": {
+        "id": 7146891,
+        "resource_state": 2,
+        "name": "virgin river trail climb",
+        "activity_type": "Ride",
+        "distance": 97.6,
+        "average_grade": 8.8,
+        "maximum_grade": 16.7,
+        "elevation_high": 777.8,
+        "elevation_low": 769.2,
+        "start_latlng": [
+          37.072159,
+          -113.578958
+        ],
+        "end_latlng": [
+          37.072143,
+          -113.57792
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "St. George",
+        "state": "UT",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3207819673541421772,
+      "resource_state": 2,
+      "name": "Webb Hill Trail Sprint",
+      "activity": {
+        "id": 11044683629,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 130,
+      "moving_time": 130,
+      "start_date": "2024-03-13T19:27:43Z",
+      "start_date_local": "2024-03-13T13:27:43Z",
+      "distance": 1110.9,
+      "start_index": 8997,
+      "end_index": 9126,
+      "device_watts": false,
+      "average_heartrate": 130.9,
+      "max_heartrate": 153.0,
+      "segment": {
+        "id": 27912590,
+        "resource_state": 2,
+        "name": "Webb Hill Trail Sprint",
+        "activity_type": "Ride",
+        "distance": 1110.9,
+        "average_grade": -1.0,
+        "maximum_grade": 1.6,
+        "elevation_high": 763.0,
+        "elevation_low": 749.6,
+        "start_latlng": [
+          37.072147,
+          -113.577952
+        ],
+        "end_latlng": [
+          37.076162,
+          -113.570083
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "St. George",
+        "state": "Utah",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 1,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 1
+        }
+      ],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3207819673541106380,
+      "resource_state": 2,
+      "name": "St James park to River road",
+      "activity": {
+        "id": 11044683629,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 225,
+      "moving_time": 225,
+      "start_date": "2024-03-13T19:31:26Z",
+      "start_date_local": "2024-03-13T13:31:26Z",
+      "distance": 1570.9,
+      "start_index": 9219,
+      "end_index": 9444,
+      "device_watts": false,
+      "average_heartrate": 131.1,
+      "max_heartrate": 142.0,
+      "segment": {
+        "id": 31724597,
+        "resource_state": 2,
+        "name": "St James park to River road",
+        "activity_type": "Ride",
+        "distance": 1570.9,
+        "average_grade": 0.1,
+        "maximum_grade": 1.9,
+        "elevation_high": 769.6,
+        "elevation_low": 765.8,
+        "start_latlng": [
+          37.079366,
+          -113.570417
+        ],
+        "end_latlng": [
+          37.086067,
+          -113.557091
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "St. George",
+        "state": "Utah",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 1,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 1
+        }
+      ],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3207819673540483788,
+      "resource_state": 2,
+      "name": "Springs ",
+      "activity": {
+        "id": 11044683629,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 121,
+      "moving_time": 121,
+      "start_date": "2024-03-13T19:39:05Z",
+      "start_date_local": "2024-03-13T13:39:05Z",
+      "distance": 639.766,
+      "start_index": 9678,
+      "end_index": 9799,
+      "device_watts": false,
+      "average_heartrate": 146.3,
+      "max_heartrate": 154.0,
+      "segment": {
+        "id": 1323356,
+        "resource_state": 2,
+        "name": "Springs ",
+        "activity_type": "Ride",
+        "distance": 639.766,
+        "average_grade": 2.2,
+        "maximum_grade": 4.3,
+        "elevation_high": 797.9,
+        "elevation_low": 783.4,
+        "start_latlng": [
+          37.0831925,
+          -113.5423887
+        ],
+        "end_latlng": [
+          37.0836608,
+          -113.5353394
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "St George",
+        "state": "UT",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3207819673538993868,
+      "resource_state": 2,
+      "name": "Temple steeple chase east",
+      "activity": {
+        "id": 11044683629,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 136,
+      "moving_time": 136,
+      "start_date": "2024-03-13T19:45:20Z",
+      "start_date_local": "2024-03-13T13:45:20Z",
+      "distance": 757.8,
+      "start_index": 10050,
+      "end_index": 10186,
+      "device_watts": false,
+      "average_heartrate": 136.2,
+      "max_heartrate": 145.0,
+      "segment": {
+        "id": 31792110,
+        "resource_state": 2,
+        "name": "Temple steeple chase east",
+        "activity_type": "Ride",
+        "distance": 757.8,
+        "average_grade": 0.3,
+        "maximum_grade": 2.4,
+        "elevation_high": 797.4,
+        "elevation_low": 791.6,
+        "start_latlng": [
+          37.084507,
+          -113.521116
+        ],
+        "end_latlng": [
+          37.081532,
+          -113.513945
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Utah",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3207819673539844812,
+      "resource_state": 2,
+      "name": "me treasure",
+      "activity": {
+        "id": 11044683629,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 109,
+      "moving_time": 109,
+      "start_date": "2024-03-13T19:49:31Z",
+      "start_date_local": "2024-03-13T13:49:31Z",
+      "distance": 735.6,
+      "start_index": 10301,
+      "end_index": 10410,
+      "device_watts": false,
+      "average_heartrate": 128.6,
+      "max_heartrate": 135.0,
+      "segment": {
+        "id": 21803036,
+        "resource_state": 2,
+        "name": "me treasure",
+        "activity_type": "Ride",
+        "distance": 735.6,
+        "average_grade": 0.4,
+        "maximum_grade": 2.3,
+        "elevation_high": 815.4,
+        "elevation_low": 812.6,
+        "start_latlng": [
+          37.081004,
+          -113.508746
+        ],
+        "end_latlng": [
+          37.074377,
+          -113.508707
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Washington",
+        "state": "Utah",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3207819673538272972,
+      "resource_state": 2,
+      "name": "crimson cliffs back",
+      "activity": {
+        "id": 11044683629,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 104,
+      "moving_time": 104,
+      "start_date": "2024-03-13T19:53:08Z",
+      "start_date_local": "2024-03-13T13:53:08Z",
+      "distance": 810.1,
+      "start_index": 10518,
+      "end_index": 10622,
+      "device_watts": false,
+      "average_heartrate": 129.0,
+      "max_heartrate": 138.0,
+      "segment": {
+        "id": 20583349,
+        "resource_state": 2,
+        "name": "crimson cliffs back",
+        "activity_type": "Ride",
+        "distance": 810.1,
+        "average_grade": -0.1,
+        "maximum_grade": 0.4,
+        "elevation_high": 806.6,
+        "elevation_low": 804.8,
+        "start_latlng": [
+          37.0742,
+          -113.506286
+        ],
+        "end_latlng": [
+          37.066945,
+          -113.506239
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Washington",
+        "state": "Utah",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3207819673542302412,
+      "resource_state": 2,
+      "name": "mayberry",
+      "activity": {
+        "id": 11044683629,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 107,
+      "moving_time": 107,
+      "start_date": "2024-03-13T19:59:31Z",
+      "start_date_local": "2024-03-13T13:59:31Z",
+      "distance": 1023.9,
+      "start_index": 10899,
+      "end_index": 11006,
+      "device_watts": false,
+      "average_heartrate": 122.7,
+      "max_heartrate": 132.0,
+      "segment": {
+        "id": 20583392,
+        "resource_state": 2,
+        "name": "mayberry",
+        "activity_type": "Ride",
+        "distance": 1023.9,
+        "average_grade": -0.7,
+        "maximum_grade": 0.2,
+        "elevation_high": 806.0,
+        "elevation_low": 799.2,
+        "start_latlng": [
+          37.067073,
+          -113.506146
+        ],
+        "end_latlng": [
+          37.066923,
+          -113.517556
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "St. George",
+        "state": "Utah",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3207819673539328716,
+      "resource_state": 2,
+      "name": "2450 Hill by GW",
+      "activity": {
+        "id": 11044683629,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 83,
+      "moving_time": 83,
+      "start_date": "2024-03-13T20:03:32Z",
+      "start_date_local": "2024-03-13T14:03:32Z",
+      "distance": 476.74,
+      "start_index": 11140,
+      "end_index": 11222,
+      "device_watts": false,
+      "average_heartrate": 134.9,
+      "max_heartrate": 142.0,
+      "segment": {
+        "id": 859584,
+        "resource_state": 2,
+        "name": "2450 Hill by GW",
+        "activity_type": "Ride",
+        "distance": 476.74,
+        "average_grade": 1.3,
+        "maximum_grade": 3.4,
+        "elevation_high": 714.8,
+        "elevation_low": 708.8,
+        "start_latlng": [
+          37.06697607412934,
+          -113.52752116508782
+        ],
+        "end_latlng": [
+          37.06691295839846,
+          -113.53287837468088
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "St George",
+        "state": "UT",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3207819673541700300,
+      "resource_state": 2,
+      "name": "Little Valley to River Road",
+      "activity": {
+        "id": 11044683629,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 382,
+      "moving_time": 382,
+      "start_date": "2024-03-13T20:05:07Z",
+      "start_date_local": "2024-03-13T14:05:07Z",
+      "distance": 2953.2,
+      "start_index": 11234,
+      "end_index": 11616,
+      "device_watts": false,
+      "average_heartrate": 122.0,
+      "max_heartrate": 145.0,
+      "segment": {
+        "id": 5524178,
+        "resource_state": 2,
+        "name": "Little Valley to River Road",
+        "activity_type": "Ride",
+        "distance": 2953.2,
+        "average_grade": -0.4,
+        "maximum_grade": 3.1,
+        "elevation_high": 851.6,
+        "elevation_low": 834.4,
+        "start_latlng": [
+          37.06668,
+          -113.533396
+        ],
+        "end_latlng": [
+          37.058859,
+          -113.544642
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "St. George",
+        "state": "UT",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3207819673541977804,
+      "resource_state": 2,
+      "name": "School Zone",
+      "activity": {
+        "id": 11044683629,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 196,
+      "moving_time": 196,
+      "start_date": "2024-03-13T20:08:13Z",
+      "start_date_local": "2024-03-13T14:08:13Z",
+      "distance": 1665.5,
+      "start_index": 11420,
+      "end_index": 11616,
+      "device_watts": false,
+      "average_heartrate": 113.5,
+      "max_heartrate": 127.0,
+      "segment": {
+        "id": 5524196,
+        "resource_state": 2,
+        "name": "School Zone",
+        "activity_type": "Ride",
+        "distance": 1665.5,
+        "average_grade": -0.9,
+        "maximum_grade": 0.0,
+        "elevation_high": 849.0,
+        "elevation_low": 834.4,
+        "start_latlng": [
+          37.055868,
+          -113.530745
+        ],
+        "end_latlng": [
+          37.058859,
+          -113.544642
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "St. George",
+        "state": "UT",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    }
+  ],
+  "splits_metric": [
+    {
+      "distance": 1001.6,
+      "elapsed_time": 137,
+      "elevation_difference": -11.0,
+      "moving_time": 137,
+      "split": 1,
+      "average_speed": 7.31,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 111.31343283582089,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.0,
+      "elapsed_time": 116,
+      "elevation_difference": -16.2,
+      "moving_time": 116,
+      "split": 2,
+      "average_speed": 8.62,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 125.03448275862068,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1008.0,
+      "elapsed_time": 124,
+      "elevation_difference": -8.6,
+      "moving_time": 124,
+      "split": 3,
+      "average_speed": 8.13,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 126.81451612903226,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.0,
+      "elapsed_time": 132,
+      "elevation_difference": -4.4,
+      "moving_time": 132,
+      "split": 4,
+      "average_speed": 7.55,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 126.49242424242425,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.2,
+      "elapsed_time": 115,
+      "elevation_difference": -1.0,
+      "moving_time": 115,
+      "split": 5,
+      "average_speed": 8.67,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 142.3217391304348,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.8,
+      "elapsed_time": 160,
+      "elevation_difference": 7.2,
+      "moving_time": 160,
+      "split": 6,
+      "average_speed": 6.24,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 131.0566037735849,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.5,
+      "elapsed_time": 191,
+      "elevation_difference": 13.6,
+      "moving_time": 191,
+      "split": 7,
+      "average_speed": 5.25,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 147.7883597883598,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.5,
+      "elapsed_time": 146,
+      "elevation_difference": -11.6,
+      "moving_time": 146,
+      "split": 8,
+      "average_speed": 6.83,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 120.65753424657534,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.4,
+      "elapsed_time": 153,
+      "elevation_difference": -9.0,
+      "moving_time": 153,
+      "split": 9,
+      "average_speed": 6.53,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 125.47058823529412,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.1,
+      "elapsed_time": 139,
+      "elevation_difference": 5.6,
+      "moving_time": 139,
+      "split": 10,
+      "average_speed": 7.22,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 141.9928057553957,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.5,
+      "elapsed_time": 168,
+      "elevation_difference": 4.2,
+      "moving_time": 168,
+      "split": 11,
+      "average_speed": 5.93,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 132.63095238095238,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.7,
+      "elapsed_time": 147,
+      "elevation_difference": 5.4,
+      "moving_time": 147,
+      "split": 12,
+      "average_speed": 6.82,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 133.21768707482994,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.4,
+      "elapsed_time": 142,
+      "elevation_difference": 6.4,
+      "moving_time": 142,
+      "split": 13,
+      "average_speed": 7.03,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 143.06338028169014,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.4,
+      "elapsed_time": 162,
+      "elevation_difference": 9.4,
+      "moving_time": 162,
+      "split": 14,
+      "average_speed": 6.19,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 129.17283950617283,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.9,
+      "elapsed_time": 145,
+      "elevation_difference": 6.2,
+      "moving_time": 145,
+      "split": 15,
+      "average_speed": 6.9,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 140.41379310344828,
+      "pace_zone": 0
+    },
+    {
+      "distance": 995.4,
+      "elapsed_time": 158,
+      "elevation_difference": 10.6,
+      "moving_time": 158,
+      "split": 16,
+      "average_speed": 6.3,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 138.2594936708861,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1005.6,
+      "elapsed_time": 160,
+      "elevation_difference": 14.2,
+      "moving_time": 160,
+      "split": 17,
+      "average_speed": 6.29,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 148.93125,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.5,
+      "elapsed_time": 157,
+      "elevation_difference": -0.4,
+      "moving_time": 157,
+      "split": 18,
+      "average_speed": 6.37,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 148.61146496815286,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.5,
+      "elapsed_time": 115,
+      "elevation_difference": 8.2,
+      "moving_time": 115,
+      "split": 19,
+      "average_speed": 8.68,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 148.4608695652174,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.5,
+      "elapsed_time": 148,
+      "elevation_difference": 10.4,
+      "moving_time": 148,
+      "split": 20,
+      "average_speed": 6.77,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 146.49324324324326,
+      "pace_zone": 0
+    },
+    {
+      "distance": 994.0,
+      "elapsed_time": 154,
+      "elevation_difference": 14.2,
+      "moving_time": 154,
+      "split": 21,
+      "average_speed": 6.45,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 146.23376623376623,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.2,
+      "elapsed_time": 173,
+      "elevation_difference": 11.8,
+      "moving_time": 173,
+      "split": 22,
+      "average_speed": 5.78,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 138.364161849711,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1004.5,
+      "elapsed_time": 161,
+      "elevation_difference": -6.4,
+      "moving_time": 161,
+      "split": 23,
+      "average_speed": 6.24,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 139.68944099378882,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.0,
+      "elapsed_time": 171,
+      "elevation_difference": 8.2,
+      "moving_time": 171,
+      "split": 24,
+      "average_speed": 5.84,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 131.10119047619048,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.9,
+      "elapsed_time": 180,
+      "elevation_difference": 7.0,
+      "moving_time": 180,
+      "split": 25,
+      "average_speed": 5.54,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 143.24444444444444,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.7,
+      "elapsed_time": 163,
+      "elevation_difference": 6.2,
+      "moving_time": 163,
+      "split": 26,
+      "average_speed": 6.15,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 135.69938650306747,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.4,
+      "elapsed_time": 150,
+      "elevation_difference": 16.2,
+      "moving_time": 150,
+      "split": 27,
+      "average_speed": 6.66,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 154.24,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.2,
+      "elapsed_time": 214,
+      "elevation_difference": 22.6,
+      "moving_time": 214,
+      "split": 28,
+      "average_speed": 4.68,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 146.05,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.0,
+      "elapsed_time": 149,
+      "elevation_difference": 1.0,
+      "moving_time": 149,
+      "split": 29,
+      "average_speed": 6.72,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 129.6510067114094,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.5,
+      "elapsed_time": 133,
+      "elevation_difference": -0.4,
+      "moving_time": 133,
+      "split": 30,
+      "average_speed": 7.49,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 135.31578947368422,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1004.3,
+      "elapsed_time": 1251,
+      "elevation_difference": -2.0,
+      "moving_time": 159,
+      "split": 31,
+      "average_speed": 6.32,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 116.46153846153847,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.3,
+      "elapsed_time": 133,
+      "elevation_difference": -9.0,
+      "moving_time": 133,
+      "split": 32,
+      "average_speed": 7.53,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 116.98496240601504,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.1,
+      "elapsed_time": 152,
+      "elevation_difference": -2.2,
+      "moving_time": 152,
+      "split": 33,
+      "average_speed": 6.58,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 122.6510067114094,
+      "pace_zone": 0
+    },
+    {
+      "distance": 993.5,
+      "elapsed_time": 116,
+      "elevation_difference": -24.0,
+      "moving_time": 116,
+      "split": 34,
+      "average_speed": 8.56,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 101.24137931034483,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1005.0,
+      "elapsed_time": 119,
+      "elevation_difference": -7.0,
+      "moving_time": 119,
+      "split": 35,
+      "average_speed": 8.45,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 123.65546218487395,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.7,
+      "elapsed_time": 111,
+      "elevation_difference": 3.0,
+      "moving_time": 111,
+      "split": 36,
+      "average_speed": 8.99,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 128.84684684684686,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.0,
+      "elapsed_time": 120,
+      "elevation_difference": -6.8,
+      "moving_time": 120,
+      "split": 37,
+      "average_speed": 8.34,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 139.70833333333334,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.1,
+      "elapsed_time": 120,
+      "elevation_difference": -3.2,
+      "moving_time": 120,
+      "split": 38,
+      "average_speed": 8.33,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 136.775,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.7,
+      "elapsed_time": 135,
+      "elevation_difference": -18.0,
+      "moving_time": 135,
+      "split": 39,
+      "average_speed": 7.41,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 113.78518518518518,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.2,
+      "elapsed_time": 139,
+      "elevation_difference": -19.6,
+      "moving_time": 139,
+      "split": 40,
+      "average_speed": 7.2,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 113.32374100719424,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.4,
+      "elapsed_time": 141,
+      "elevation_difference": -22.2,
+      "moving_time": 141,
+      "split": 41,
+      "average_speed": 7.09,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 109.23404255319149,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.7,
+      "elapsed_time": 124,
+      "elevation_difference": -13.8,
+      "moving_time": 124,
+      "split": 42,
+      "average_speed": 8.06,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 121.45161290322581,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.3,
+      "elapsed_time": 139,
+      "elevation_difference": -5.6,
+      "moving_time": 139,
+      "split": 43,
+      "average_speed": 7.2,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 122.07913669064749,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.5,
+      "elapsed_time": 155,
+      "elevation_difference": -10.6,
+      "moving_time": 155,
+      "split": 44,
+      "average_speed": 6.43,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 116.05806451612904,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.4,
+      "elapsed_time": 144,
+      "elevation_difference": 0.0,
+      "moving_time": 144,
+      "split": 45,
+      "average_speed": 6.97,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 119.32638888888889,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.3,
+      "elapsed_time": 162,
+      "elevation_difference": -9.0,
+      "moving_time": 162,
+      "split": 46,
+      "average_speed": 6.16,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 111.57407407407408,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.3,
+      "elapsed_time": 141,
+      "elevation_difference": -4.2,
+      "moving_time": 141,
+      "split": 47,
+      "average_speed": 7.08,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 133.79432624113474,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.8,
+      "elapsed_time": 123,
+      "elevation_difference": -5.4,
+      "moving_time": 123,
+      "split": 48,
+      "average_speed": 8.14,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 149.65853658536585,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.4,
+      "elapsed_time": 150,
+      "elevation_difference": -6.0,
+      "moving_time": 150,
+      "split": 49,
+      "average_speed": 6.68,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 129.84666666666666,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1004.6,
+      "elapsed_time": 113,
+      "elevation_difference": -2.6,
+      "moving_time": 113,
+      "split": 50,
+      "average_speed": 8.89,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 137.32743362831857,
+      "pace_zone": 0
+    },
+    {
+      "distance": 993.8,
+      "elapsed_time": 112,
+      "elevation_difference": -3.4,
+      "moving_time": 112,
+      "split": 51,
+      "average_speed": 8.87,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 142.98214285714286,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.2,
+      "elapsed_time": 164,
+      "elevation_difference": 0.6,
+      "moving_time": 164,
+      "split": 52,
+      "average_speed": 6.08,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 129.20731707317074,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.7,
+      "elapsed_time": 138,
+      "elevation_difference": -6.8,
+      "moving_time": 138,
+      "split": 53,
+      "average_speed": 7.27,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 118.02173913043478,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.5,
+      "elapsed_time": 152,
+      "elevation_difference": 4.4,
+      "moving_time": 152,
+      "split": 54,
+      "average_speed": 6.56,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 135.65131578947367,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1005.2,
+      "elapsed_time": 123,
+      "elevation_difference": -5.0,
+      "moving_time": 123,
+      "split": 55,
+      "average_speed": 8.17,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 132.6341463414634,
+      "pace_zone": 0
+    },
+    {
+      "distance": 995.3,
+      "elapsed_time": 162,
+      "elevation_difference": 2.0,
+      "moving_time": 162,
+      "split": 56,
+      "average_speed": 6.14,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 129.73825503355704,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.5,
+      "elapsed_time": 121,
+      "elevation_difference": 3.2,
+      "moving_time": 121,
+      "split": 57,
+      "average_speed": 8.28,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 138.87603305785123,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.5,
+      "elapsed_time": 126,
+      "elevation_difference": -2.0,
+      "moving_time": 126,
+      "split": 58,
+      "average_speed": 7.92,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 140.63492063492063,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1005.2,
+      "elapsed_time": 183,
+      "elevation_difference": 4.6,
+      "moving_time": 183,
+      "split": 59,
+      "average_speed": 5.49,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 131.97267759562843,
+      "pace_zone": 0
+    },
+    {
+      "distance": 994.6,
+      "elapsed_time": 131,
+      "elevation_difference": 2.6,
+      "moving_time": 131,
+      "split": 60,
+      "average_speed": 7.59,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 136.3206106870229,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1006.7,
+      "elapsed_time": 117,
+      "elevation_difference": 4.0,
+      "moving_time": 117,
+      "split": 61,
+      "average_speed": 8.6,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 148.85470085470087,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.4,
+      "elapsed_time": 176,
+      "elevation_difference": 11.0,
+      "moving_time": 176,
+      "split": 62,
+      "average_speed": 5.67,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 139.39204545454547,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.0,
+      "elapsed_time": 133,
+      "elevation_difference": -8.2,
+      "moving_time": 133,
+      "split": 63,
+      "average_speed": 7.53,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 119.73684210526316,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.6,
+      "elapsed_time": 143,
+      "elevation_difference": 1.6,
+      "moving_time": 143,
+      "split": 64,
+      "average_speed": 6.98,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 139.5174825174825,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.5,
+      "elapsed_time": 132,
+      "elevation_difference": 0.6,
+      "moving_time": 132,
+      "split": 65,
+      "average_speed": 7.57,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 130.24242424242425,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.5,
+      "elapsed_time": 175,
+      "elevation_difference": 2.0,
+      "moving_time": 175,
+      "split": 66,
+      "average_speed": 5.73,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 128.3542857142857,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.7,
+      "elapsed_time": 150,
+      "elevation_difference": 6.2,
+      "moving_time": 150,
+      "split": 67,
+      "average_speed": 6.64,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 138.3,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.6,
+      "elapsed_time": 187,
+      "elevation_difference": 12.4,
+      "moving_time": 187,
+      "split": 68,
+      "average_speed": 5.35,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 142.68449197860963,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.5,
+      "elapsed_time": 201,
+      "elevation_difference": 0.8,
+      "moving_time": 201,
+      "split": 69,
+      "average_speed": 4.97,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 129.05789473684212,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.7,
+      "elapsed_time": 194,
+      "elevation_difference": 6.4,
+      "moving_time": 194,
+      "split": 70,
+      "average_speed": 5.16,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 136.95876288659792,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.8,
+      "elapsed_time": 168,
+      "elevation_difference": 6.6,
+      "moving_time": 168,
+      "split": 71,
+      "average_speed": 5.98,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 129.1904761904762,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.0,
+      "elapsed_time": 149,
+      "elevation_difference": 1.0,
+      "moving_time": 149,
+      "split": 72,
+      "average_speed": 6.7,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 129.48993288590603,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.7,
+      "elapsed_time": 175,
+      "elevation_difference": -4.6,
+      "moving_time": 175,
+      "split": 73,
+      "average_speed": 5.71,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 109.04571428571428,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.8,
+      "elapsed_time": 180,
+      "elevation_difference": 2.6,
+      "moving_time": 180,
+      "split": 74,
+      "average_speed": 5.57,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 124.26666666666667,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.5,
+      "elapsed_time": 101,
+      "elevation_difference": -7.8,
+      "moving_time": 101,
+      "split": 75,
+      "average_speed": 9.91,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 122.14851485148515,
+      "pace_zone": 0
+    },
+    {
+      "distance": 992.2,
+      "elapsed_time": 156,
+      "elevation_difference": 5.4,
+      "moving_time": 156,
+      "split": 76,
+      "average_speed": 6.36,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 120.60645161290323,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.1,
+      "elapsed_time": 167,
+      "elevation_difference": 6.0,
+      "moving_time": 167,
+      "split": 77,
+      "average_speed": 5.99,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 133.61676646706587,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1004.0,
+      "elapsed_time": 131,
+      "elevation_difference": -13.2,
+      "moving_time": 131,
+      "split": 78,
+      "average_speed": 7.66,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 117.2442748091603,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.5,
+      "elapsed_time": 114,
+      "elevation_difference": -5.2,
+      "moving_time": 114,
+      "split": 79,
+      "average_speed": 8.74,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 116.9298245614035,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.9,
+      "elapsed_time": 165,
+      "elevation_difference": 6.8,
+      "moving_time": 165,
+      "split": 80,
+      "average_speed": 6.06,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 132.43636363636364,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.6,
+      "elapsed_time": 194,
+      "elevation_difference": 13.4,
+      "moving_time": 194,
+      "split": 81,
+      "average_speed": 5.16,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 137.98453608247422,
+      "pace_zone": 0
+    },
+    {
+      "distance": 157.6,
+      "elapsed_time": 35,
+      "elevation_difference": 3.2,
+      "moving_time": 35,
+      "split": 82,
+      "average_speed": 4.5,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 130.63636363636363,
+      "pace_zone": 0
+    }
+  ],
+  "splits_standard": [
+    {
+      "distance": 1611.7,
+      "elapsed_time": 217,
+      "elevation_difference": -16.8,
+      "moving_time": 217,
+      "split": 1,
+      "average_speed": 7.43,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 115.85514018691589,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1613.3,
+      "elapsed_time": 181,
+      "elevation_difference": -18.4,
+      "moving_time": 181,
+      "split": 2,
+      "average_speed": 8.91,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 125.33701657458563,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1603.1,
+      "elapsed_time": 203,
+      "elevation_difference": -5.8,
+      "moving_time": 203,
+      "split": 3,
+      "average_speed": 7.9,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 134.86206896551724,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.7,
+      "elapsed_time": 274,
+      "elevation_difference": 15.2,
+      "moving_time": 274,
+      "split": 4,
+      "average_speed": 5.87,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 137.57933579335793,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1614.8,
+      "elapsed_time": 253,
+      "elevation_difference": -6.4,
+      "moving_time": 253,
+      "split": 5,
+      "average_speed": 6.38,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 131.62450592885375,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.7,
+      "elapsed_time": 239,
+      "elevation_difference": -5.8,
+      "moving_time": 239,
+      "split": 6,
+      "average_speed": 6.74,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 131.1213389121339,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1604.4,
+      "elapsed_time": 261,
+      "elevation_difference": 9.6,
+      "moving_time": 261,
+      "split": 7,
+      "average_speed": 6.15,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 134.90038314176246,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.8,
+      "elapsed_time": 226,
+      "elevation_difference": 9.4,
+      "moving_time": 226,
+      "split": 8,
+      "average_speed": 7.12,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 139.99557522123894,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.4,
+      "elapsed_time": 253,
+      "elevation_difference": 11.4,
+      "moving_time": 253,
+      "split": 9,
+      "average_speed": 6.36,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 131.65217391304347,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.0,
+      "elapsed_time": 242,
+      "elevation_difference": 15.4,
+      "moving_time": 242,
+      "split": 10,
+      "average_speed": 6.65,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 140.61570247933884,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.0,
+      "elapsed_time": 274,
+      "elevation_difference": 25.0,
+      "moving_time": 274,
+      "split": 11,
+      "average_speed": 5.87,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 149.02554744525548,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.2,
+      "elapsed_time": 195,
+      "elevation_difference": -1.0,
+      "moving_time": 195,
+      "split": 12,
+      "average_speed": 8.26,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 146.4820512820513,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.1,
+      "elapsed_time": 233,
+      "elevation_difference": 20.6,
+      "moving_time": 233,
+      "split": 13,
+      "average_speed": 6.91,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 145.87124463519314,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1611.2,
+      "elapsed_time": 283,
+      "elevation_difference": 4.0,
+      "moving_time": 283,
+      "split": 14,
+      "average_speed": 5.69,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 143.5017667844523,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1604.8,
+      "elapsed_time": 266,
+      "elevation_difference": 13.4,
+      "moving_time": 266,
+      "split": 15,
+      "average_speed": 6.03,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 132.74144486692015,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.4,
+      "elapsed_time": 287,
+      "elevation_difference": 9.4,
+      "moving_time": 287,
+      "split": 16,
+      "average_speed": 5.61,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 138.82578397212544,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.3,
+      "elapsed_time": 246,
+      "elevation_difference": 26.6,
+      "moving_time": 246,
+      "split": 17,
+      "average_speed": 6.54,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 150.6991869918699,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.4,
+      "elapsed_time": 292,
+      "elevation_difference": 14.2,
+      "moving_time": 292,
+      "split": 18,
+      "average_speed": 5.51,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 135.9820143884892,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1612.7,
+      "elapsed_time": 1321,
+      "elevation_difference": -1.4,
+      "moving_time": 229,
+      "split": 19,
+      "average_speed": 7.04,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 128.2920353982301,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1606.6,
+      "elapsed_time": 226,
+      "elevation_difference": -11.0,
+      "moving_time": 226,
+      "split": 20,
+      "average_speed": 7.11,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 117.35398230088495,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1613.5,
+      "elapsed_time": 217,
+      "elevation_difference": -19.6,
+      "moving_time": 217,
+      "split": 21,
+      "average_speed": 7.44,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 113.36915887850468,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1611.9,
+      "elapsed_time": 183,
+      "elevation_difference": -18.8,
+      "moving_time": 183,
+      "split": 22,
+      "average_speed": 8.81,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 119.80874316939891,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.6,
+      "elapsed_time": 195,
+      "elevation_difference": 2.4,
+      "moving_time": 195,
+      "split": 23,
+      "average_speed": 8.24,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 137.27179487179487,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.0,
+      "elapsed_time": 203,
+      "elevation_difference": -8.4,
+      "moving_time": 203,
+      "split": 24,
+      "average_speed": 7.93,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 129.00985221674875,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1604.0,
+      "elapsed_time": 219,
+      "elevation_difference": -36.0,
+      "moving_time": 219,
+      "split": 25,
+      "average_speed": 7.32,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 110.94977168949772,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1613.1,
+      "elapsed_time": 218,
+      "elevation_difference": -30.0,
+      "moving_time": 218,
+      "split": 26,
+      "average_speed": 7.4,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 116.13761467889908,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.4,
+      "elapsed_time": 231,
+      "elevation_difference": -9.2,
+      "moving_time": 231,
+      "split": 27,
+      "average_speed": 6.96,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 118.93939393939394,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.7,
+      "elapsed_time": 232,
+      "elevation_difference": -9.4,
+      "moving_time": 232,
+      "split": 28,
+      "average_speed": 6.93,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 118.99568965517241,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1611.7,
+      "elapsed_time": 244,
+      "elevation_difference": -12.8,
+      "moving_time": 244,
+      "split": 29,
+      "average_speed": 6.61,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 119.94262295081967,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.8,
+      "elapsed_time": 206,
+      "elevation_difference": -9.4,
+      "moving_time": 206,
+      "split": 30,
+      "average_speed": 7.82,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 144.1893203883495,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.0,
+      "elapsed_time": 219,
+      "elevation_difference": -4.4,
+      "moving_time": 219,
+      "split": 31,
+      "average_speed": 7.35,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 130.59817351598173,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.8,
+      "elapsed_time": 186,
+      "elevation_difference": -1.8,
+      "moving_time": 186,
+      "split": 32,
+      "average_speed": 8.64,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 141.43548387096774,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1613.0,
+      "elapsed_time": 253,
+      "elevation_difference": -9.0,
+      "moving_time": 253,
+      "split": 33,
+      "average_speed": 6.38,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 121.6403162055336,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1605.7,
+      "elapsed_time": 229,
+      "elevation_difference": 0.2,
+      "moving_time": 229,
+      "split": 34,
+      "average_speed": 7.01,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 133.75545851528383,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.8,
+      "elapsed_time": 236,
+      "elevation_difference": 5.2,
+      "moving_time": 236,
+      "split": 35,
+      "average_speed": 6.82,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 131.86547085201795,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.9,
+      "elapsed_time": 197,
+      "elevation_difference": -2.8,
+      "moving_time": 197,
+      "split": 36,
+      "average_speed": 8.16,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 140.3451776649746,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1611.5,
+      "elapsed_time": 269,
+      "elevation_difference": 6.8,
+      "moving_time": 269,
+      "split": 37,
+      "average_speed": 5.99,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 132.20446096654274,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.6,
+      "elapsed_time": 194,
+      "elevation_difference": 6.2,
+      "moving_time": 194,
+      "split": 38,
+      "average_speed": 8.29,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 147.3041237113402,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1612.5,
+      "elapsed_time": 260,
+      "elevation_difference": 0.4,
+      "moving_time": 260,
+      "split": 39,
+      "average_speed": 6.2,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 128.53846153846155,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.8,
+      "elapsed_time": 220,
+      "elevation_difference": 0.8,
+      "moving_time": 220,
+      "split": 40,
+      "average_speed": 7.31,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 137.54090909090908,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1605.9,
+      "elapsed_time": 253,
+      "elevation_difference": 4.6,
+      "moving_time": 253,
+      "split": 41,
+      "average_speed": 6.35,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 128.73517786561266,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1612.0,
+      "elapsed_time": 265,
+      "elevation_difference": 17.6,
+      "moving_time": 265,
+      "split": 42,
+      "average_speed": 6.08,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 141.51698113207547,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.5,
+      "elapsed_time": 310,
+      "elevation_difference": 2.4,
+      "moving_time": 310,
+      "split": 43,
+      "average_speed": 5.19,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 131.6020066889632,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.7,
+      "elapsed_time": 291,
+      "elevation_difference": 10.2,
+      "moving_time": 291,
+      "split": 44,
+      "average_speed": 5.53,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 135.75601374570448,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.3,
+      "elapsed_time": 259,
+      "elevation_difference": 1.6,
+      "moving_time": 259,
+      "split": 45,
+      "average_speed": 6.22,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 125.36293436293437,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.4,
+      "elapsed_time": 285,
+      "elevation_difference": -0.4,
+      "moving_time": 285,
+      "split": 46,
+      "average_speed": 5.65,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 115.46315789473684,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.9,
+      "elapsed_time": 205,
+      "elevation_difference": -7.8,
+      "moving_time": 205,
+      "split": 47,
+      "average_speed": 7.86,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 118.38235294117646,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1604.0,
+      "elapsed_time": 252,
+      "elevation_difference": 8.6,
+      "moving_time": 252,
+      "split": 48,
+      "average_speed": 6.37,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 133.96428571428572,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1615.9,
+      "elapsed_time": 193,
+      "elevation_difference": -13.4,
+      "moving_time": 193,
+      "split": 49,
+      "average_speed": 8.37,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 112.88082901554404,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1605.0,
+      "elapsed_time": 269,
+      "elevation_difference": 10.0,
+      "moving_time": 269,
+      "split": 50,
+      "average_speed": 5.97,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 134.22304832713755,
+      "pace_zone": 0
+    },
+    {
+      "distance": 689.4,
+      "elapsed_time": 141,
+      "elevation_difference": 11.2,
+      "moving_time": 141,
+      "split": 51,
+      "average_speed": 4.89,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 135.15827338129498,
+      "pace_zone": 0
+    }
+  ],
+  "laps": [
+    {
+      "id": 38416800323,
+      "resource_state": 2,
+      "name": "Lap 1",
+      "activity": {
+        "id": 11044683629,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 13106,
+      "moving_time": 12014,
+      "start_date": "2024-03-13T16:39:18Z",
+      "start_date_local": "2024-03-13T10:39:18Z",
+      "distance": 81159.8,
+      "average_speed": 6.76,
+      "max_speed": 14.636,
+      "lap_index": 1,
+      "split": 1,
+      "start_index": 0,
+      "end_index": 11907,
+      "total_elevation_gain": 422.4,
+      "device_watts": false,
+      "average_heartrate": 131.5,
+      "max_heartrate": 171.0
+    }
+  ],
+  "photos": {
+    "primary": null,
+    "count": 0
+  },
+  "stats_visibility": [
+    {
+      "type": "heart_rate",
+      "visibility": "everyone"
+    },
+    {
+      "type": "pace",
+      "visibility": "everyone"
+    },
+    {
+      "type": "power",
+      "visibility": "everyone"
+    },
+    {
+      "type": "speed",
+      "visibility": "everyone"
+    },
+    {
+      "type": "calories",
+      "visibility": "everyone"
+    }
+  ],
+  "hide_from_home": false,
+  "embed_token": "f92d4594f0b82e94319d4861438ee6181d079c5b",
+  "available_zones": []
+}

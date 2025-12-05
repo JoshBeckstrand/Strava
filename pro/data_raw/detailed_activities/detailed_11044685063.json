@@ -1,0 +1,226 @@
+{
+  "resource_state": 3,
+  "athlete": {
+    "id": 57014865,
+    "resource_state": 1
+  },
+  "name": "Course \u00e0 pied le matin",
+  "distance": 933.8,
+  "moving_time": 387,
+  "elapsed_time": 397,
+  "total_elevation_gain": 4.8,
+  "type": "Run",
+  "sport_type": "Run",
+  "workout_type": null,
+  "device_name": "Apple Watch Ultra",
+  "id": 11044685063,
+  "start_date": "2024-03-09T17:22:14Z",
+  "start_date_local": "2024-03-09T10:22:14Z",
+  "timezone": "(GMT-07:00) America/Denver",
+  "utc_offset": -25200.0,
+  "location_city": null,
+  "location_state": null,
+  "location_country": null,
+  "achievement_count": 0,
+  "kudos_count": 0,
+  "comment_count": 0,
+  "athlete_count": 1,
+  "photo_count": 0,
+  "map": {
+    "id": "a11044685063",
+    "polyline": "mssaFbssrTkC@eCAwHBwFCsGDg@AQCOOESCiACqM@_@HK@E",
+    "resource_state": 3,
+    "summary_polyline": "}_taFbssrT}BByDCkKDu@CKEIKCIC]CwB?cE"
+  },
+  "trainer": false,
+  "commute": false,
+  "manual": false,
+  "private": false,
+  "visibility": "everyone",
+  "flagged": false,
+  "gear_id": null,
+  "start_latlng": [
+    37.1335197519511,
+    -113.31906029954553
+  ],
+  "end_latlng": [
+    37.13943528011441,
+    -113.31592102535069
+  ],
+  "average_speed": 2.413,
+  "max_speed": 3.153,
+  "has_heartrate": true,
+  "average_heartrate": 165.1,
+  "max_heartrate": 174.0,
+  "heartrate_opt_out": false,
+  "display_hide_heartrate_option": true,
+  "elev_high": 1012.8,
+  "elev_low": 1008.0,
+  "upload_id": 11806269300,
+  "upload_id_str": "11806269300",
+  "external_id": "913C5770-2C1A-4F80-A375-2C6F32569824.fit",
+  "from_accepted_tag": false,
+  "pr_count": 0,
+  "total_photo_count": 0,
+  "has_kudoed": false,
+  "description": null,
+  "calories": 91.0,
+  "perceived_exertion": null,
+  "prefer_perceived_exertion": null,
+  "segment_efforts": [],
+  "splits_metric": [
+    {
+      "distance": 930.4,
+      "elapsed_time": 397,
+      "elevation_difference": 4.8,
+      "moving_time": 387,
+      "split": 1,
+      "average_speed": 2.4,
+      "average_grade_adjusted_speed": 2.45,
+      "average_heartrate": 165.09660574412533,
+      "pace_zone": 0
+    }
+  ],
+  "splits_standard": [
+    {
+      "distance": 930.4,
+      "elapsed_time": 397,
+      "elevation_difference": 4.8,
+      "moving_time": 387,
+      "split": 1,
+      "average_speed": 2.4,
+      "average_grade_adjusted_speed": 2.45,
+      "average_heartrate": 165.09660574412533,
+      "pace_zone": 0
+    }
+  ],
+  "laps": [
+    {
+      "id": 38416806399,
+      "resource_state": 2,
+      "name": "Lap 1",
+      "activity": {
+        "id": 11044685063,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 396,
+      "moving_time": 396,
+      "start_date": "2024-03-09T17:22:14Z",
+      "start_date_local": "2024-03-09T10:22:14Z",
+      "distance": 930.37,
+      "average_speed": 2.35,
+      "max_speed": 3.153,
+      "lap_index": 1,
+      "split": 1,
+      "start_index": 0,
+      "end_index": 251,
+      "total_elevation_gain": 4.8,
+      "device_watts": false,
+      "average_heartrate": 165.1,
+      "max_heartrate": 174.0,
+      "pace_zone": 0
+    }
+  ],
+  "best_efforts": [
+    {
+      "id": 47422597181,
+      "resource_state": 2,
+      "name": "400m",
+      "activity": {
+        "id": 11044685063,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 164,
+      "moving_time": 164,
+      "start_date": "2024-03-09T17:22:14Z",
+      "start_date_local": "2024-03-09T10:22:14Z",
+      "distance": 400,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 155,
+      "end_index": 319
+    },
+    {
+      "id": 47422597182,
+      "resource_state": 2,
+      "name": "1/2 mile",
+      "activity": {
+        "id": 11044685063,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 335,
+      "moving_time": 335,
+      "start_date": "2024-03-09T17:22:14Z",
+      "start_date_local": "2024-03-09T10:22:14Z",
+      "distance": 805,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 48,
+      "end_index": 382
+    }
+  ],
+  "photos": {
+    "primary": null,
+    "count": 0
+  },
+  "stats_visibility": [
+    {
+      "type": "heart_rate",
+      "visibility": "everyone"
+    },
+    {
+      "type": "pace",
+      "visibility": "everyone"
+    },
+    {
+      "type": "power",
+      "visibility": "everyone"
+    },
+    {
+      "type": "speed",
+      "visibility": "everyone"
+    },
+    {
+      "type": "calories",
+      "visibility": "everyone"
+    }
+  ],
+  "hide_from_home": false,
+  "embed_token": "ef0247eb41bbfb5a0a5a446f45a33d27b775a731",
+  "similar_activities": {
+    "effort_count": 1,
+    "average_speed": 2.412919896640827,
+    "min_average_speed": 2.412919896640827,
+    "mid_average_speed": 2.412919896640827,
+    "max_average_speed": 2.412919896640827,
+    "pr_rank": null,
+    "frequency_milestone": null,
+    "trend": {
+      "speeds": [
+        2.412919896640827
+      ],
+      "current_activity_index": 0,
+      "min_speed": 2.412919896640827,
+      "mid_speed": 2.412919896640827,
+      "max_speed": 2.412919896640827,
+      "direction": 0
+    },
+    "resource_state": 2
+  },
+  "available_zones": []
+}

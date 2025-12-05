@@ -1,0 +1,423 @@
+{
+  "resource_state": 3,
+  "athlete": {
+    "id": 57014865,
+    "resource_state": 1
+  },
+  "name": "Course \u00e0 pied matinale",
+  "distance": 1611.6,
+  "moving_time": 515,
+  "elapsed_time": 515,
+  "total_elevation_gain": 8.0,
+  "type": "Run",
+  "sport_type": "Run",
+  "workout_type": 0,
+  "device_name": "Strava App",
+  "id": 4289616958,
+  "start_date": "2020-11-05T13:52:50Z",
+  "start_date_local": "2020-11-05T06:52:50Z",
+  "timezone": "(GMT-07:00) America/Denver",
+  "utc_offset": -25200.0,
+  "location_city": null,
+  "location_state": null,
+  "location_country": null,
+  "achievement_count": 6,
+  "kudos_count": 0,
+  "comment_count": 0,
+  "athlete_count": 1,
+  "photo_count": 0,
+  "map": {
+    "id": "a4289616958",
+    "polyline": "yhtaFpnwsTJV?|@B~@?x@EvA@~B?FFJZX`@DZE^?HERYXMn@CZFNELa@DeAJa@BYNO@WDj@FHbACH@DG@GAgAB[Am@@c@Ii@Ba@AMICE?KHG@kAKODEDALBd@Xz@@NAd@Jb@CpADJHD\\IVMX?FG@QCo@?s@Ce@DcAIy@OCe@HQAa@DQCEF@FHt@Rt@BPBxCJBz@S`@?DI?GIa@CW?i@Bi@Ac@AQ?U?MKa@y@@UDg@?ABHdAT~@?h@",
+    "resource_state": 3,
+    "summary_polyline": "yhtaFpnwsTJV?|@B~@?x@EvA@~B?FFJZX`@DZE^?HERYXMn@CZFNELa@DeAJa@BYNO@WDj@FHbACH@DG@GAgAB[Am@@c@Ii@Ba@AMICE?KHG@kAKODEDALBd@Xz@@NAd@Jb@CpADJHD\\IVMX?FG@QCo@?s@Ce@DcAIy@OCe@HQAa@DQCEF@FHt@Rt@BPBxCJBz@S`@?DI?GIa@CW?i@Bi@Ac@AQ?U?MKa@y@@UDg@?ABHdAT~@?h@"
+  },
+  "trainer": false,
+  "commute": false,
+  "manual": false,
+  "private": false,
+  "visibility": "everyone",
+  "flagged": false,
+  "gear_id": null,
+  "start_latlng": [
+    37.136932,
+    -113.502644
+  ],
+  "end_latlng": [
+    37.135237,
+    -113.503486
+  ],
+  "average_speed": 3.129,
+  "max_speed": 4.5,
+  "has_heartrate": false,
+  "heartrate_opt_out": false,
+  "display_hide_heartrate_option": false,
+  "elev_high": 883.0,
+  "elev_low": 876.8,
+  "upload_id": 4588531592,
+  "upload_id_str": "4588531592",
+  "external_id": "C3F24B49-247E-426B-98DA-3D3DE6AA48A3-activity.fit",
+  "from_accepted_tag": false,
+  "pr_count": 1,
+  "total_photo_count": 0,
+  "has_kudoed": false,
+  "description": null,
+  "calories": 166.7,
+  "perceived_exertion": null,
+  "prefer_perceived_exertion": null,
+  "segment_efforts": [
+    {
+      "id": 2759432984902417988,
+      "resource_state": 2,
+      "name": "Washington Elementary Lap",
+      "activity": {
+        "id": 4289616958,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 126,
+      "moving_time": 126,
+      "start_date": "2020-11-05T13:55:52Z",
+      "start_date_local": "2020-11-05T06:55:52Z",
+      "distance": 387.8,
+      "start_index": 182,
+      "end_index": 308,
+      "device_watts": false,
+      "segment": {
+        "id": 16471690,
+        "resource_state": 2,
+        "name": "Washington Elementary Lap",
+        "activity_type": "Run",
+        "distance": 387.8,
+        "average_grade": 0.0,
+        "maximum_grade": 4.9,
+        "elevation_high": 880.6,
+        "elevation_low": 879.0,
+        "start_latlng": [
+          37.134682,
+          -113.503127
+        ],
+        "end_latlng": [
+          37.13474,
+          -113.503107
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": null,
+        "country": null,
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 1,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 1
+        }
+      ],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 2759432984904585796,
+      "resource_state": 2,
+      "name": "Washington Elementary Lap",
+      "activity": {
+        "id": 4289616958,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 134,
+      "moving_time": 133,
+      "start_date": "2020-11-05T13:57:57Z",
+      "start_date_local": "2020-11-05T06:57:57Z",
+      "distance": 387.8,
+      "start_index": 307,
+      "end_index": 441,
+      "device_watts": false,
+      "segment": {
+        "id": 16471690,
+        "resource_state": 2,
+        "name": "Washington Elementary Lap",
+        "activity_type": "Run",
+        "distance": 387.8,
+        "average_grade": 0.0,
+        "maximum_grade": 4.9,
+        "elevation_high": 880.6,
+        "elevation_low": 879.0,
+        "start_latlng": [
+          37.134682,
+          -113.503127
+        ],
+        "end_latlng": [
+          37.13474,
+          -113.503107
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": null,
+        "country": null,
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 2,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 2
+        }
+      ],
+      "visibility": "everyone",
+      "hidden": false
+    }
+  ],
+  "splits_metric": [
+    {
+      "distance": 1002.7,
+      "elapsed_time": 305,
+      "elevation_difference": -3.9,
+      "moving_time": 305,
+      "split": 1,
+      "average_speed": 3.29,
+      "average_grade_adjusted_speed": 3.29,
+      "pace_zone": 0
+    },
+    {
+      "distance": 608.9,
+      "elapsed_time": 210,
+      "elevation_difference": 1.6,
+      "moving_time": 210,
+      "split": 2,
+      "average_speed": 2.9,
+      "average_grade_adjusted_speed": 2.93,
+      "pace_zone": 0
+    }
+  ],
+  "splits_standard": [
+    {
+      "distance": 1611.6,
+      "elapsed_time": 515,
+      "elevation_difference": -2.3,
+      "moving_time": 515,
+      "split": 1,
+      "average_speed": 3.13,
+      "average_grade_adjusted_speed": 3.14,
+      "pace_zone": 0
+    }
+  ],
+  "laps": [
+    {
+      "id": 14039790722,
+      "resource_state": 2,
+      "name": "Lap 1",
+      "activity": {
+        "id": 4289616958,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 517,
+      "moving_time": 517,
+      "start_date": "2020-11-05T13:52:50Z",
+      "start_date_local": "2020-11-05T06:52:50Z",
+      "distance": 1611.6,
+      "average_speed": 3.12,
+      "max_speed": 4.5,
+      "lap_index": 1,
+      "split": 1,
+      "start_index": 0,
+      "end_index": 515,
+      "total_elevation_gain": 8.5,
+      "device_watts": false,
+      "pace_zone": 0
+    }
+  ],
+  "best_efforts": [
+    {
+      "id": 27842355301,
+      "resource_state": 2,
+      "name": "400m",
+      "activity": {
+        "id": 4289616958,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 110,
+      "moving_time": 110,
+      "start_date": "2020-11-05T13:52:54Z",
+      "start_date_local": "2020-11-05T06:52:54Z",
+      "distance": 400,
+      "pr_rank": 3,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 3
+        }
+      ],
+      "start_index": 4,
+      "end_index": 114
+    },
+    {
+      "id": 27842355315,
+      "resource_state": 2,
+      "name": "1/2 mile",
+      "activity": {
+        "id": 4289616958,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 241,
+      "moving_time": 241,
+      "start_date": "2020-11-05T13:52:57Z",
+      "start_date_local": "2020-11-05T06:52:57Z",
+      "distance": 805,
+      "pr_rank": 2,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 2
+        }
+      ],
+      "start_index": 7,
+      "end_index": 248
+    },
+    {
+      "id": 27842355329,
+      "resource_state": 2,
+      "name": "1K",
+      "activity": {
+        "id": 4289616958,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 301,
+      "moving_time": 301,
+      "start_date": "2020-11-05T13:52:58Z",
+      "start_date_local": "2020-11-05T06:52:58Z",
+      "distance": 1000,
+      "pr_rank": 2,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 2
+        }
+      ],
+      "start_index": 8,
+      "end_index": 309
+    },
+    {
+      "id": 27842355343,
+      "resource_state": 2,
+      "name": "1 mile",
+      "activity": {
+        "id": 4289616958,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 514,
+      "moving_time": 514,
+      "start_date": "2020-11-05T13:52:51Z",
+      "start_date_local": "2020-11-05T06:52:51Z",
+      "distance": 1609,
+      "pr_rank": 2,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 2
+        }
+      ],
+      "start_index": 1,
+      "end_index": 515
+    }
+  ],
+  "photos": {
+    "primary": null,
+    "count": 0
+  },
+  "stats_visibility": [
+    {
+      "type": "heart_rate",
+      "visibility": "everyone"
+    },
+    {
+      "type": "pace",
+      "visibility": "everyone"
+    },
+    {
+      "type": "power",
+      "visibility": "everyone"
+    },
+    {
+      "type": "speed",
+      "visibility": "everyone"
+    },
+    {
+      "type": "calories",
+      "visibility": "everyone"
+    }
+  ],
+  "hide_from_home": false,
+  "embed_token": "ea2e9844de0b861451a3166cffae50ed235daa3b",
+  "similar_activities": {
+    "effort_count": 3,
+    "average_speed": 2.9154597233523187,
+    "min_average_speed": 2.4987179487179487,
+    "mid_average_speed": 3.23366693225809,
+    "max_average_speed": 4.581111111111111,
+    "pr_rank": 2,
+    "frequency_milestone": 3,
+    "trend": {
+      "speeds": [
+        2.4987179487179487,
+        3.23366693225809,
+        3.1981200474669262
+      ],
+      "current_activity_index": 2,
+      "min_speed": 2.4987179487179487,
+      "mid_speed": 3.23366693225809,
+      "max_speed": 4.581111111111111,
+      "direction": -1
+    },
+    "resource_state": 2
+  },
+  "available_zones": []
+}

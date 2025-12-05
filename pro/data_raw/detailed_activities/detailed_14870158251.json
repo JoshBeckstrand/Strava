@@ -1,0 +1,425 @@
+{
+  "resource_state": 3,
+  "athlete": {
+    "id": 57014865,
+    "resource_state": 1
+  },
+  "name": "Morning Run",
+  "distance": 2428.4,
+  "moving_time": 1364,
+  "elapsed_time": 1373,
+  "total_elevation_gain": 11.4,
+  "type": "Run",
+  "sport_type": "Run",
+  "workout_type": null,
+  "device_name": "Apple Watch Ultra",
+  "id": 14870158251,
+  "start_date": "2025-06-21T12:50:33Z",
+  "start_date_local": "2025-06-21T06:50:33Z",
+  "timezone": "(GMT-07:00) America/Denver",
+  "utc_offset": -21600.0,
+  "location_city": null,
+  "location_state": null,
+  "location_country": null,
+  "achievement_count": 1,
+  "kudos_count": 0,
+  "comment_count": 0,
+  "athlete_count": 2,
+  "photo_count": 0,
+  "map": {
+    "id": "a14870158251",
+    "polyline": "aesaF~ctsTJpAC`@@rAHtA?x@Fz@FlBPlDB`BT~FDPFBx@?b@Hx@CfC@xAExA@zCEfABHDGAE@[IoFBiAAiCBw@A_AB_@KY@]?G@AHAT@p@z@rTAm@Gm@M_DAq@YiHEsBaA}VKqDAgA@]AY",
+    "resource_state": 3,
+    "summary_polyline": "mdsaF|mtsTNbEPlDB`BT|FDRFBx@?b@Hx@CfC@xAExA@zCEfABHDGAE@[IoFBiAAiCBw@A_AB_@KY@]?G@AHAT@p@z@rTAm@Gm@M_DAq@YiHEsB_AmV"
+  },
+  "trainer": false,
+  "commute": false,
+  "manual": false,
+  "private": false,
+  "visibility": "everyone",
+  "flagged": false,
+  "gear_id": null,
+  "start_latlng": [
+    37.131213,
+    -113.485595
+  ],
+  "end_latlng": [
+    37.13117,
+    -113.485833
+  ],
+  "average_speed": 1.78,
+  "max_speed": 3.24,
+  "has_heartrate": true,
+  "average_heartrate": 135.5,
+  "max_heartrate": 153.0,
+  "heartrate_opt_out": false,
+  "display_hide_heartrate_option": true,
+  "elev_high": 868.6,
+  "elev_low": 863.8,
+  "upload_id": 15870769553,
+  "upload_id_str": "15870769553",
+  "external_id": "49DC1FF0-F3C1-49DA-AFBF-61A0117F2CF3.fit",
+  "from_accepted_tag": false,
+  "pr_count": 1,
+  "total_photo_count": 0,
+  "has_kudoed": false,
+  "description": null,
+  "calories": 201.0,
+  "perceived_exertion": null,
+  "prefer_perceived_exertion": null,
+  "segment_efforts": [
+    {
+      "id": 3371494466768290094,
+      "resource_state": 2,
+      "name": "Parkway to Turf Farm",
+      "activity": {
+        "id": 14870158251,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 241,
+      "moving_time": 210,
+      "start_date": "2025-06-21T12:50:33Z",
+      "start_date_local": "2025-06-21T06:50:33Z",
+      "distance": 480.0,
+      "start_index": 0,
+      "end_index": 240,
+      "device_watts": false,
+      "average_heartrate": 142.5,
+      "max_heartrate": 153.0,
+      "segment": {
+        "id": 27098408,
+        "resource_state": 2,
+        "name": "Parkway to Turf Farm",
+        "activity_type": "Run",
+        "distance": 480.0,
+        "average_grade": 0.6,
+        "maximum_grade": 12.5,
+        "elevation_high": 866.0,
+        "elevation_low": 863.0,
+        "start_latlng": [
+          37.131471,
+          -113.48552
+        ],
+        "end_latlng": [
+          37.131102,
+          -113.490858
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Washington",
+        "state": "Utah",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 1,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 1
+        }
+      ],
+      "visibility": "only_me",
+      "hidden": false
+    },
+    {
+      "id": 3371494466766790958,
+      "resource_state": 2,
+      "name": "Shoelace of the Boot",
+      "activity": {
+        "id": 14870158251,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 168,
+      "moving_time": 139,
+      "start_date": "2025-06-21T12:54:47Z",
+      "start_date_local": "2025-06-21T06:54:47Z",
+      "distance": 316.0,
+      "start_index": 253,
+      "end_index": 421,
+      "device_watts": false,
+      "average_heartrate": 138.0,
+      "max_heartrate": 149.0,
+      "segment": {
+        "id": 21310596,
+        "resource_state": 2,
+        "name": "Shoelace of the Boot",
+        "activity_type": "Run",
+        "distance": 316.0,
+        "average_grade": -0.6,
+        "maximum_grade": 14.3,
+        "elevation_high": 872.0,
+        "elevation_low": 870.0,
+        "start_latlng": [
+          37.130674,
+          -113.490999
+        ],
+        "end_latlng": [
+          37.127809,
+          -113.49096
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Washington",
+        "state": "Utah",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    }
+  ],
+  "splits_metric": [
+    {
+      "distance": 1001.2,
+      "elapsed_time": 561,
+      "elevation_difference": 1.8,
+      "moving_time": 552,
+      "split": 1,
+      "average_speed": 1.81,
+      "average_grade_adjusted_speed": 1.84,
+      "average_heartrate": 138.54502369668248,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.0,
+      "elapsed_time": 579,
+      "elevation_difference": 1.4,
+      "moving_time": 579,
+      "split": 2,
+      "average_speed": 1.73,
+      "average_grade_adjusted_speed": 1.75,
+      "average_heartrate": 133.03579952267305,
+      "pace_zone": 0
+    },
+    {
+      "distance": 433.2,
+      "elapsed_time": 233,
+      "elevation_difference": -2.4,
+      "moving_time": 233,
+      "split": 3,
+      "average_speed": 1.86,
+      "average_grade_adjusted_speed": 1.85,
+      "average_heartrate": 134.28497409326425,
+      "pace_zone": 0
+    }
+  ],
+  "splits_standard": [
+    {
+      "distance": 1611.8,
+      "elapsed_time": 889,
+      "elevation_difference": 1.6,
+      "moving_time": 880,
+      "split": 1,
+      "average_speed": 1.83,
+      "average_grade_adjusted_speed": 1.85,
+      "average_heartrate": 137.48546511627907,
+      "pace_zone": 0
+    },
+    {
+      "distance": 821.6,
+      "elapsed_time": 484,
+      "elevation_difference": -0.8,
+      "moving_time": 484,
+      "split": 2,
+      "average_speed": 1.7,
+      "average_grade_adjusted_speed": 1.71,
+      "average_heartrate": 131.60404624277456,
+      "pace_zone": 0
+    }
+  ],
+  "laps": [
+    {
+      "id": 52887589825,
+      "resource_state": 2,
+      "name": "Lap 1",
+      "activity": {
+        "id": 14870158251,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 1372,
+      "moving_time": 1372,
+      "start_date": "2025-06-21T12:50:33Z",
+      "start_date_local": "2025-06-21T06:50:33Z",
+      "distance": 2431.11,
+      "average_speed": 1.77,
+      "max_speed": 3.24,
+      "lap_index": 1,
+      "split": 1,
+      "start_index": 0,
+      "end_index": 1238,
+      "total_elevation_gain": 11.4,
+      "device_watts": false,
+      "average_heartrate": 135.5,
+      "max_heartrate": 153.0,
+      "pace_zone": 0
+    }
+  ],
+  "best_efforts": [
+    {
+      "id": 62511081706,
+      "resource_state": 2,
+      "name": "400m",
+      "activity": {
+        "id": 14870158251,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 190,
+      "moving_time": 190,
+      "start_date": "2025-06-21T12:50:33Z",
+      "start_date_local": "2025-06-21T06:50:33Z",
+      "distance": 400,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 0,
+      "end_index": 189
+    },
+    {
+      "id": 62511081707,
+      "resource_state": 2,
+      "name": "1/2 mile",
+      "activity": {
+        "id": 14870158251,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 413,
+      "moving_time": 413,
+      "start_date": "2025-06-21T12:50:33Z",
+      "start_date_local": "2025-06-21T06:50:33Z",
+      "distance": 805,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 0,
+      "end_index": 412
+    },
+    {
+      "id": 62511081708,
+      "resource_state": 2,
+      "name": "1K",
+      "activity": {
+        "id": 14870158251,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 559,
+      "moving_time": 559,
+      "start_date": "2025-06-21T12:50:33Z",
+      "start_date_local": "2025-06-21T06:50:33Z",
+      "distance": 1000,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 8,
+      "end_index": 567
+    },
+    {
+      "id": 62511081705,
+      "resource_state": 2,
+      "name": "1 mile",
+      "activity": {
+        "id": 14870158251,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 887,
+      "moving_time": 887,
+      "start_date": "2025-06-21T12:50:33Z",
+      "start_date_local": "2025-06-21T06:50:33Z",
+      "distance": 1609,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 6,
+      "end_index": 893
+    }
+  ],
+  "photos": {
+    "primary": null,
+    "count": 0
+  },
+  "stats_visibility": [
+    {
+      "type": "heart_rate",
+      "visibility": "everyone"
+    },
+    {
+      "type": "pace",
+      "visibility": "everyone"
+    },
+    {
+      "type": "power",
+      "visibility": "everyone"
+    },
+    {
+      "type": "speed",
+      "visibility": "everyone"
+    },
+    {
+      "type": "calories",
+      "visibility": "everyone"
+    }
+  ],
+  "hide_from_home": false,
+  "embed_token": "f92891da3a88c316929cd474dcda33cd17d437f1",
+  "similar_activities": {
+    "effort_count": 2,
+    "average_speed": 1.7654013961605586,
+    "min_average_speed": 1.743426724137931,
+    "mid_average_speed": 1.7616958482465184,
+    "max_average_speed": 1.780351906158358,
+    "pr_rank": 1,
+    "frequency_milestone": null,
+    "trend": {
+      "speeds": [
+        1.7434267241379313,
+        1.7616958482465184
+      ],
+      "current_activity_index": 1,
+      "min_speed": 1.743426724137931,
+      "mid_speed": 1.7616958482465184,
+      "max_speed": 1.780351906158358,
+      "direction": 1
+    },
+    "resource_state": 2
+  },
+  "available_zones": []
+}

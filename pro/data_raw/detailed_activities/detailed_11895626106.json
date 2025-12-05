@@ -1,0 +1,248 @@
+{
+  "resource_state": 3,
+  "athlete": {
+    "id": 57014865,
+    "resource_state": 1
+  },
+  "name": "Easy run",
+  "distance": 4830.0,
+  "moving_time": 1907,
+  "elapsed_time": 1907,
+  "total_elevation_gain": 0,
+  "type": "Run",
+  "sport_type": "Run",
+  "workout_type": 0,
+  "device_name": "Apple Watch Ultra",
+  "id": 11895626106,
+  "start_date": "2024-07-15T17:22:55Z",
+  "start_date_local": "2024-07-15T11:22:55Z",
+  "timezone": "(GMT-06:00) America/Bahia_Banderas",
+  "utc_offset": -21600.0,
+  "location_city": null,
+  "location_state": null,
+  "location_country": null,
+  "achievement_count": 0,
+  "kudos_count": 3,
+  "comment_count": 0,
+  "athlete_count": 1,
+  "photo_count": 0,
+  "map": {
+    "id": "a11895626106",
+    "polyline": "",
+    "resource_state": 3,
+    "summary_polyline": ""
+  },
+  "trainer": true,
+  "commute": false,
+  "manual": false,
+  "private": false,
+  "visibility": "everyone",
+  "flagged": false,
+  "gear_id": null,
+  "start_latlng": [],
+  "end_latlng": [],
+  "average_speed": 2.533,
+  "max_speed": 3.092,
+  "has_heartrate": true,
+  "average_heartrate": 149.5,
+  "max_heartrate": 167.0,
+  "heartrate_opt_out": false,
+  "display_hide_heartrate_option": true,
+  "elev_high": 0.0,
+  "elev_low": 0.0,
+  "upload_id": 12684770478,
+  "upload_id_str": "12684770478",
+  "external_id": "1FA15C6D-1A46-4538-A20F-2712AB1995F7.fit",
+  "from_accepted_tag": false,
+  "pr_count": 0,
+  "total_photo_count": 0,
+  "has_kudoed": false,
+  "description": "",
+  "calories": 412.0,
+  "perceived_exertion": null,
+  "prefer_perceived_exertion": false,
+  "segment_efforts": [],
+  "splits_metric": [
+    {
+      "distance": 1004.3,
+      "elapsed_time": 402,
+      "elevation_difference": 0.0,
+      "moving_time": 402,
+      "split": 1,
+      "average_speed": 2.5,
+      "average_grade_adjusted_speed": 2.5,
+      "average_heartrate": 130.6915422885572,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.1,
+      "elapsed_time": 394,
+      "elevation_difference": 0.0,
+      "moving_time": 394,
+      "split": 2,
+      "average_speed": 2.54,
+      "average_grade_adjusted_speed": 2.54,
+      "average_heartrate": 143.2258883248731,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.4,
+      "elapsed_time": 379,
+      "elevation_difference": 0.0,
+      "moving_time": 379,
+      "split": 3,
+      "average_speed": 2.64,
+      "average_grade_adjusted_speed": 2.64,
+      "average_heartrate": 154.87598944591028,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.5,
+      "elapsed_time": 382,
+      "elevation_difference": 0.0,
+      "moving_time": 382,
+      "split": 4,
+      "average_speed": 2.62,
+      "average_grade_adjusted_speed": 2.62,
+      "average_heartrate": 158.99214659685865,
+      "pace_zone": 0
+    },
+    {
+      "distance": 827.0,
+      "elapsed_time": 350,
+      "elevation_difference": 0.0,
+      "moving_time": 350,
+      "split": 5,
+      "average_speed": 2.36,
+      "average_grade_adjusted_speed": 2.36,
+      "average_heartrate": 162.03714285714287,
+      "pace_zone": 0
+    }
+  ],
+  "splits_standard": [
+    {
+      "distance": 1609.9,
+      "elapsed_time": 637,
+      "elevation_difference": 0.0,
+      "moving_time": 637,
+      "split": 1,
+      "average_speed": 2.53,
+      "average_grade_adjusted_speed": 2.53,
+      "average_heartrate": 134.58084772370486,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1613.8,
+      "elapsed_time": 623,
+      "elevation_difference": 0.0,
+      "moving_time": 623,
+      "split": 2,
+      "average_speed": 2.59,
+      "average_grade_adjusted_speed": 2.59,
+      "average_heartrate": 152.85232744783306,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1606.3,
+      "elapsed_time": 645,
+      "elevation_difference": 0.0,
+      "moving_time": 645,
+      "split": 3,
+      "average_speed": 2.49,
+      "average_grade_adjusted_speed": 2.49,
+      "average_heartrate": 161.02325581395348,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1.3,
+      "elapsed_time": 2,
+      "elevation_difference": 0.0,
+      "moving_time": 2,
+      "split": 4,
+      "average_speed": 0.65,
+      "average_grade_adjusted_speed": 0.65,
+      "average_heartrate": 150.0,
+      "pace_zone": 0
+    }
+  ],
+  "laps": [
+    {
+      "id": 41589841336,
+      "resource_state": 2,
+      "name": "Lap 1",
+      "activity": {
+        "id": 11895626106,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 1906,
+      "moving_time": 1906,
+      "start_date": "2024-07-15T17:22:55Z",
+      "start_date_local": "2024-07-15T11:22:55Z",
+      "distance": 4830.01,
+      "average_speed": 2.53,
+      "max_speed": 3.08,
+      "lap_index": 1,
+      "split": 1,
+      "start_index": 0,
+      "end_index": 984,
+      "total_elevation_gain": 0,
+      "device_watts": false,
+      "average_heartrate": 149.5,
+      "max_heartrate": 167.0,
+      "pace_zone": 0
+    }
+  ],
+  "best_efforts": [],
+  "photos": {
+    "primary": null,
+    "count": 0
+  },
+  "stats_visibility": [
+    {
+      "type": "heart_rate",
+      "visibility": "everyone"
+    },
+    {
+      "type": "pace",
+      "visibility": "everyone"
+    },
+    {
+      "type": "power",
+      "visibility": "everyone"
+    },
+    {
+      "type": "speed",
+      "visibility": "everyone"
+    },
+    {
+      "type": "calories",
+      "visibility": "everyone"
+    }
+  ],
+  "hide_from_home": false,
+  "embed_token": "8a72bee13636d4e3b99ec31196946042161b62c8",
+  "similar_activities": {
+    "effort_count": 0,
+    "average_speed": 0,
+    "min_average_speed": 0,
+    "mid_average_speed": 0,
+    "max_average_speed": 0,
+    "pr_rank": null,
+    "frequency_milestone": null,
+    "trend": {
+      "speeds": [],
+      "current_activity_index": null,
+      "min_speed": 0,
+      "mid_speed": 0,
+      "max_speed": 0,
+      "direction": 0
+    },
+    "resource_state": 2
+  },
+  "available_zones": []
+}

@@ -1,0 +1,179 @@
+{
+  "resource_state": 3,
+  "athlete": {
+    "id": 57014865,
+    "resource_state": 1
+  },
+  "name": "Natation le midi",
+  "distance": 45.7,
+  "moving_time": 120,
+  "elapsed_time": 120,
+  "total_elevation_gain": 0,
+  "type": "Swim",
+  "sport_type": "Swim",
+  "device_name": "Apple Watch Ultra",
+  "id": 11872179177,
+  "start_date": "2024-07-12T18:29:07Z",
+  "start_date_local": "2024-07-12T12:29:07Z",
+  "timezone": "(GMT-06:00) America/Bahia_Banderas",
+  "utc_offset": -21600.0,
+  "location_city": null,
+  "location_state": null,
+  "location_country": null,
+  "achievement_count": 0,
+  "kudos_count": 0,
+  "comment_count": 0,
+  "athlete_count": 1,
+  "photo_count": 0,
+  "map": {
+    "id": "a11872179177",
+    "polyline": "",
+    "resource_state": 3,
+    "summary_polyline": ""
+  },
+  "trainer": true,
+  "commute": false,
+  "manual": false,
+  "private": false,
+  "visibility": "everyone",
+  "flagged": false,
+  "gear_id": null,
+  "start_latlng": [],
+  "end_latlng": [],
+  "average_speed": 0.381,
+  "max_speed": 1.577,
+  "has_heartrate": true,
+  "average_heartrate": 97.1,
+  "max_heartrate": 118.0,
+  "heartrate_opt_out": false,
+  "display_hide_heartrate_option": true,
+  "elev_high": 0.0,
+  "elev_low": 0.0,
+  "upload_id": 12660433388,
+  "upload_id_str": "12660433388",
+  "external_id": "205116DD-DFF7-470C-BF2E-7520B340DFA8.fit",
+  "from_accepted_tag": false,
+  "pr_count": 0,
+  "total_photo_count": 0,
+  "has_kudoed": false,
+  "description": null,
+  "calories": 11.0,
+  "perceived_exertion": null,
+  "prefer_perceived_exertion": null,
+  "segment_efforts": [],
+  "splits_metric": [
+    {
+      "distance": 45.7,
+      "elapsed_time": 121,
+      "elevation_difference": 0.0,
+      "moving_time": 121,
+      "split": 1,
+      "average_speed": 0.38,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 97.08264462809917,
+      "pace_zone": 0
+    }
+  ],
+  "splits_standard": [
+    {
+      "distance": 45.7,
+      "elapsed_time": 121,
+      "elevation_difference": 0.0,
+      "moving_time": 121,
+      "split": 1,
+      "average_speed": 0.38,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 97.08264462809917,
+      "pace_zone": 0
+    }
+  ],
+  "laps": [
+    {
+      "id": 41501033205,
+      "resource_state": 2,
+      "name": "Lap 1",
+      "activity": {
+        "id": 11872179177,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 74,
+      "moving_time": 74,
+      "start_date": "2024-07-12T18:29:07Z",
+      "start_date_local": "2024-07-12T12:29:07Z",
+      "distance": 0.0,
+      "average_speed": 0.0,
+      "max_speed": 1.52333,
+      "lap_index": 1,
+      "split": 1,
+      "start_index": 0,
+      "end_index": 11,
+      "total_elevation_gain": 0,
+      "device_watts": false,
+      "average_heartrate": 88.2,
+      "max_heartrate": 97.0
+    },
+    {
+      "id": 41501033210,
+      "resource_state": 2,
+      "name": "Lap 2",
+      "activity": {
+        "id": 11872179177,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 45,
+      "moving_time": 45,
+      "start_date": "2024-07-12T18:30:27Z",
+      "start_date_local": "2024-07-12T12:30:27Z",
+      "distance": 45.72,
+      "average_speed": 1.02,
+      "max_speed": 1.57586,
+      "lap_index": 2,
+      "split": 2,
+      "start_index": 12,
+      "end_index": 21,
+      "total_elevation_gain": 0,
+      "device_watts": false,
+      "average_heartrate": 112.0,
+      "max_heartrate": 118.0
+    }
+  ],
+  "photos": {
+    "primary": null,
+    "count": 0
+  },
+  "stats_visibility": [
+    {
+      "type": "heart_rate",
+      "visibility": "everyone"
+    },
+    {
+      "type": "pace",
+      "visibility": "everyone"
+    },
+    {
+      "type": "power",
+      "visibility": "everyone"
+    },
+    {
+      "type": "speed",
+      "visibility": "everyone"
+    },
+    {
+      "type": "calories",
+      "visibility": "everyone"
+    }
+  ],
+  "hide_from_home": false,
+  "embed_token": "b706e43075f021222291a9eaee6e1023db067a1a",
+  "available_zones": []
+}

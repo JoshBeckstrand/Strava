@@ -1,0 +1,125 @@
+{
+  "resource_state": 3,
+  "athlete": {
+    "id": 57014865,
+    "resource_state": 1
+  },
+  "name": "S\u00e9ance de musculation le matin",
+  "distance": 0.0,
+  "moving_time": 4552,
+  "elapsed_time": 4552,
+  "total_elevation_gain": 0,
+  "type": "WeightTraining",
+  "sport_type": "WeightTraining",
+  "workout_type": 30,
+  "device_name": "Apple Watch Ultra",
+  "id": 12736938916,
+  "start_date": "2024-10-23T11:12:00Z",
+  "start_date_local": "2024-10-23T05:12:00Z",
+  "timezone": "(GMT-06:00) America/Bahia_Banderas",
+  "utc_offset": -21600.0,
+  "location_city": null,
+  "location_state": null,
+  "location_country": null,
+  "achievement_count": 0,
+  "kudos_count": 0,
+  "comment_count": 0,
+  "athlete_count": 1,
+  "photo_count": 0,
+  "map": {
+    "id": "a12736938916",
+    "polyline": "",
+    "resource_state": 3,
+    "summary_polyline": ""
+  },
+  "trainer": true,
+  "commute": false,
+  "manual": false,
+  "private": false,
+  "visibility": "everyone",
+  "flagged": false,
+  "gear_id": null,
+  "start_latlng": [],
+  "end_latlng": [],
+  "average_speed": 0.0,
+  "max_speed": 0.0,
+  "has_heartrate": true,
+  "average_heartrate": 114.4,
+  "max_heartrate": 146.0,
+  "heartrate_opt_out": false,
+  "display_hide_heartrate_option": true,
+  "elev_high": 0.0,
+  "elev_low": 0.0,
+  "upload_id": 13580298778,
+  "upload_id_str": "13580298778",
+  "external_id": "5948FD1F-B1E0-4C9B-A9E4-D360C1B94213.fit",
+  "from_accepted_tag": false,
+  "pr_count": 0,
+  "total_photo_count": 0,
+  "has_kudoed": false,
+  "description": null,
+  "calories": 486.0,
+  "perceived_exertion": null,
+  "prefer_perceived_exertion": null,
+  "segment_efforts": [],
+  "laps": [
+    {
+      "id": 44714493149,
+      "resource_state": 2,
+      "name": "Lap 1",
+      "activity": {
+        "id": 12736938916,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 4551,
+      "moving_time": 4551,
+      "start_date": "2024-10-23T11:12:00Z",
+      "start_date_local": "2024-10-23T05:12:00Z",
+      "distance": 0.0,
+      "average_speed": 0.0,
+      "max_speed": 0.0,
+      "lap_index": 1,
+      "split": 1,
+      "start_index": 0,
+      "end_index": 890,
+      "total_elevation_gain": 0,
+      "device_watts": false,
+      "average_heartrate": 114.4,
+      "max_heartrate": 146.0
+    }
+  ],
+  "photos": {
+    "primary": null,
+    "count": 0
+  },
+  "stats_visibility": [
+    {
+      "type": "heart_rate",
+      "visibility": "everyone"
+    },
+    {
+      "type": "pace",
+      "visibility": "everyone"
+    },
+    {
+      "type": "power",
+      "visibility": "everyone"
+    },
+    {
+      "type": "speed",
+      "visibility": "everyone"
+    },
+    {
+      "type": "calories",
+      "visibility": "everyone"
+    }
+  ],
+  "hide_from_home": false,
+  "embed_token": "9294be64a63ef80d975045ca67211a9f3d997092",
+  "available_zones": []
+}

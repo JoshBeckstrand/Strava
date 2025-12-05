@@ -1,0 +1,134 @@
+{
+  "resource_state": 3,
+  "athlete": {
+    "id": 57014865,
+    "resource_state": 1
+  },
+  "name": "College 30min",
+  "distance": 0.0,
+  "moving_time": 1815,
+  "elapsed_time": 1815,
+  "total_elevation_gain": 0,
+  "type": "Ride",
+  "sport_type": "Ride",
+  "workout_type": 10,
+  "device_name": "Apple Watch Ultra",
+  "id": 11954956821,
+  "start_date": "2024-07-22T20:01:43Z",
+  "start_date_local": "2024-07-22T14:01:43Z",
+  "timezone": "(GMT-06:00) America/Bahia_Banderas",
+  "utc_offset": -21600.0,
+  "location_city": null,
+  "location_state": null,
+  "location_country": null,
+  "achievement_count": 0,
+  "kudos_count": 0,
+  "comment_count": 0,
+  "athlete_count": 1,
+  "photo_count": 0,
+  "map": {
+    "id": "a11954956821",
+    "polyline": "",
+    "resource_state": 3,
+    "summary_polyline": ""
+  },
+  "trainer": true,
+  "commute": false,
+  "manual": false,
+  "private": false,
+  "visibility": "everyone",
+  "flagged": false,
+  "gear_id": null,
+  "start_latlng": [],
+  "end_latlng": [],
+  "average_speed": 0.0,
+  "max_speed": 0.0,
+  "has_heartrate": true,
+  "average_heartrate": 138.5,
+  "max_heartrate": 153.0,
+  "heartrate_opt_out": false,
+  "display_hide_heartrate_option": true,
+  "elev_high": 0.0,
+  "elev_low": 0.0,
+  "upload_id": 12746325380,
+  "upload_id_str": "12746325380",
+  "external_id": "78CBFE66-2AC0-4A51-A2B1-D60E203ECE10.fit",
+  "from_accepted_tag": false,
+  "pr_count": 0,
+  "total_photo_count": 1,
+  "has_kudoed": false,
+  "description": "",
+  "calories": 357.0,
+  "perceived_exertion": null,
+  "prefer_perceived_exertion": false,
+  "segment_efforts": [],
+  "laps": [
+    {
+      "id": 41806722156,
+      "resource_state": 2,
+      "name": "Lap 1",
+      "activity": {
+        "id": 11954956821,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 1815,
+      "moving_time": 1815,
+      "start_date": "2024-07-22T20:01:43Z",
+      "start_date_local": "2024-07-22T14:01:43Z",
+      "distance": 0.0,
+      "average_speed": 0.0,
+      "max_speed": 0.0,
+      "lap_index": 1,
+      "split": 1,
+      "start_index": 0,
+      "end_index": 363,
+      "total_elevation_gain": 0,
+      "device_watts": false,
+      "average_heartrate": 138.5,
+      "max_heartrate": 153.0
+    }
+  ],
+  "photos": {
+    "primary": {
+      "unique_id": "159E4721-DC2C-4CF4-B5EB-047A45F81347",
+      "urls": {
+        "600": "https://dgtzuqphqg23d.cloudfront.net/gwGZwIPZ1jy_TBX40WSma6jvc5sEPp1Lizq9PZUzviY-576x768.jpg",
+        "100": "https://dgtzuqphqg23d.cloudfront.net/gwGZwIPZ1jy_TBX40WSma6jvc5sEPp1Lizq9PZUzviY-96x128.jpg"
+      },
+      "source": 1,
+      "media_type": 1
+    },
+    "use_primary_photo": true,
+    "count": 1
+  },
+  "stats_visibility": [
+    {
+      "type": "heart_rate",
+      "visibility": "everyone"
+    },
+    {
+      "type": "pace",
+      "visibility": "everyone"
+    },
+    {
+      "type": "power",
+      "visibility": "everyone"
+    },
+    {
+      "type": "speed",
+      "visibility": "everyone"
+    },
+    {
+      "type": "calories",
+      "visibility": "everyone"
+    }
+  ],
+  "hide_from_home": false,
+  "embed_token": "cb88b8f9e486ae7dfd8fb260ff4106bae790a4d9",
+  "available_zones": []
+}

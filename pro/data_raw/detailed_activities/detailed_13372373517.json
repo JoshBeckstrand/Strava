@@ -1,0 +1,237 @@
+{
+  "resource_state": 3,
+  "athlete": {
+    "id": 57014865,
+    "resource_state": 1
+  },
+  "name": "Easy 3",
+  "distance": 4829.4,
+  "moving_time": 1710,
+  "elapsed_time": 1710,
+  "total_elevation_gain": 0,
+  "type": "Run",
+  "sport_type": "Run",
+  "workout_type": 0,
+  "device_name": "Apple Watch Ultra",
+  "id": 13372373517,
+  "start_date": "2025-01-16T17:43:48Z",
+  "start_date_local": "2025-01-16T10:43:48Z",
+  "timezone": "(GMT-07:00) America/Boise",
+  "utc_offset": -25200.0,
+  "location_city": null,
+  "location_state": null,
+  "location_country": null,
+  "achievement_count": 0,
+  "kudos_count": 1,
+  "comment_count": 0,
+  "athlete_count": 1,
+  "photo_count": 0,
+  "map": {
+    "id": "a13372373517",
+    "polyline": "",
+    "resource_state": 3,
+    "summary_polyline": ""
+  },
+  "trainer": true,
+  "commute": false,
+  "manual": false,
+  "private": false,
+  "visibility": "everyone",
+  "flagged": false,
+  "gear_id": null,
+  "start_latlng": [],
+  "end_latlng": [],
+  "average_speed": 2.824,
+  "max_speed": 3.46,
+  "has_heartrate": true,
+  "average_heartrate": 149.6,
+  "max_heartrate": 164.0,
+  "heartrate_opt_out": false,
+  "display_hide_heartrate_option": true,
+  "elev_high": 0.0,
+  "elev_low": 0.0,
+  "upload_id": 14262685721,
+  "upload_id_str": "14262685721",
+  "external_id": "1B0846AC-4D7A-47A7-9AB9-D0EFC50B6DC5.fit",
+  "from_accepted_tag": false,
+  "pr_count": 0,
+  "total_photo_count": 0,
+  "has_kudoed": false,
+  "description": "",
+  "calories": 368.0,
+  "perceived_exertion": null,
+  "prefer_perceived_exertion": false,
+  "segment_efforts": [],
+  "splits_metric": [
+    {
+      "distance": 1004.9,
+      "elapsed_time": 361,
+      "elevation_difference": 0.0,
+      "moving_time": 361,
+      "split": 1,
+      "average_speed": 2.78,
+      "average_grade_adjusted_speed": 2.78,
+      "average_heartrate": 147.65650969529085,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.5,
+      "elapsed_time": 332,
+      "elevation_difference": 0.0,
+      "moving_time": 332,
+      "split": 2,
+      "average_speed": 3.01,
+      "average_grade_adjusted_speed": 3.01,
+      "average_heartrate": 147.67168674698794,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.8,
+      "elapsed_time": 361,
+      "elevation_difference": 0.0,
+      "moving_time": 361,
+      "split": 3,
+      "average_speed": 2.77,
+      "average_grade_adjusted_speed": 2.77,
+      "average_heartrate": 147.5207756232687,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.3,
+      "elapsed_time": 361,
+      "elevation_difference": 0.0,
+      "moving_time": 361,
+      "split": 4,
+      "average_speed": 2.77,
+      "average_grade_adjusted_speed": 2.77,
+      "average_heartrate": 151.86149584487535,
+      "pace_zone": 0
+    },
+    {
+      "distance": 823.5,
+      "elapsed_time": 295,
+      "elevation_difference": 0.0,
+      "moving_time": 295,
+      "split": 5,
+      "average_speed": 2.79,
+      "average_grade_adjusted_speed": 2.79,
+      "average_heartrate": 153.68474576271186,
+      "pace_zone": 0
+    }
+  ],
+  "splits_standard": [
+    {
+      "distance": 1612.0,
+      "elapsed_time": 563,
+      "elevation_difference": 0.0,
+      "moving_time": 563,
+      "split": 1,
+      "average_speed": 2.86,
+      "average_grade_adjusted_speed": 2.86,
+      "average_heartrate": 148.18827708703375,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.4,
+      "elapsed_time": 566,
+      "elevation_difference": 0.0,
+      "moving_time": 566,
+      "split": 2,
+      "average_speed": 2.84,
+      "average_grade_adjusted_speed": 2.84,
+      "average_heartrate": 147.15371024734984,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.6,
+      "elapsed_time": 581,
+      "elevation_difference": 0.0,
+      "moving_time": 581,
+      "split": 3,
+      "average_speed": 2.77,
+      "average_grade_adjusted_speed": 2.77,
+      "average_heartrate": 153.2289156626506,
+      "pace_zone": 0
+    }
+  ],
+  "laps": [
+    {
+      "id": 47175696300,
+      "resource_state": 2,
+      "name": "Lap 1",
+      "activity": {
+        "id": 13372373517,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 1709,
+      "moving_time": 1709,
+      "start_date": "2025-01-16T17:43:48Z",
+      "start_date_local": "2025-01-16T10:43:48Z",
+      "distance": 4824.43,
+      "average_speed": 2.82,
+      "max_speed": 3.46,
+      "lap_index": 1,
+      "split": 1,
+      "start_index": 0,
+      "end_index": 817,
+      "total_elevation_gain": 0,
+      "device_watts": false,
+      "average_heartrate": 149.6,
+      "max_heartrate": 164.0,
+      "pace_zone": 0
+    }
+  ],
+  "best_efforts": [],
+  "photos": {
+    "primary": null,
+    "count": 0
+  },
+  "stats_visibility": [
+    {
+      "type": "heart_rate",
+      "visibility": "everyone"
+    },
+    {
+      "type": "pace",
+      "visibility": "everyone"
+    },
+    {
+      "type": "power",
+      "visibility": "everyone"
+    },
+    {
+      "type": "speed",
+      "visibility": "everyone"
+    },
+    {
+      "type": "calories",
+      "visibility": "everyone"
+    }
+  ],
+  "hide_from_home": false,
+  "embed_token": "8944b239b41800289804e8115c5fe5c3641f81e0",
+  "similar_activities": {
+    "effort_count": 0,
+    "average_speed": 0,
+    "min_average_speed": 0,
+    "mid_average_speed": 0,
+    "max_average_speed": 0,
+    "pr_rank": null,
+    "frequency_milestone": null,
+    "trend": {
+      "speeds": [],
+      "current_activity_index": null,
+      "min_speed": 0,
+      "mid_speed": 0,
+      "max_speed": 0,
+      "direction": 0
+    },
+    "resource_state": 2
+  },
+  "available_zones": []
+}

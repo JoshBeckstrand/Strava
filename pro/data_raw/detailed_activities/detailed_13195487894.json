@@ -1,0 +1,125 @@
+{
+  "resource_state": 3,
+  "athlete": {
+    "id": 57014865,
+    "resource_state": 1
+  },
+  "name": "Weights",
+  "distance": 0.0,
+  "moving_time": 5408,
+  "elapsed_time": 5408,
+  "total_elevation_gain": 0,
+  "type": "WeightTraining",
+  "sport_type": "WeightTraining",
+  "workout_type": 30,
+  "device_name": "Apple Watch Ultra",
+  "id": 13195487894,
+  "start_date": "2024-12-26T16:30:11Z",
+  "start_date_local": "2024-12-26T09:30:11Z",
+  "timezone": "(GMT-07:00) America/Boise",
+  "utc_offset": -25200.0,
+  "location_city": null,
+  "location_state": null,
+  "location_country": null,
+  "achievement_count": 0,
+  "kudos_count": 0,
+  "comment_count": 0,
+  "athlete_count": 1,
+  "photo_count": 0,
+  "map": {
+    "id": "a13195487894",
+    "polyline": "",
+    "resource_state": 3,
+    "summary_polyline": ""
+  },
+  "trainer": true,
+  "commute": false,
+  "manual": false,
+  "private": false,
+  "visibility": "everyone",
+  "flagged": false,
+  "gear_id": null,
+  "start_latlng": [],
+  "end_latlng": [],
+  "average_speed": 0.0,
+  "max_speed": 0.0,
+  "has_heartrate": true,
+  "average_heartrate": 95.7,
+  "max_heartrate": 157.0,
+  "heartrate_opt_out": false,
+  "display_hide_heartrate_option": true,
+  "elev_high": 0.0,
+  "elev_low": 0.0,
+  "upload_id": 14072320073,
+  "upload_id_str": "14072320073",
+  "external_id": "1B62614B-47F4-4D7C-BEA4-60FC408BE721.fit",
+  "from_accepted_tag": false,
+  "pr_count": 0,
+  "total_photo_count": 0,
+  "has_kudoed": false,
+  "description": "",
+  "calories": 453.0,
+  "perceived_exertion": null,
+  "prefer_perceived_exertion": false,
+  "segment_efforts": [],
+  "laps": [
+    {
+      "id": 46482528481,
+      "resource_state": 2,
+      "name": "Lap 1",
+      "activity": {
+        "id": 13195487894,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 5407,
+      "moving_time": 5407,
+      "start_date": "2024-12-26T16:30:11Z",
+      "start_date_local": "2024-12-26T09:30:11Z",
+      "distance": 0.0,
+      "average_speed": 0.0,
+      "max_speed": 0.0,
+      "lap_index": 1,
+      "split": 1,
+      "start_index": 0,
+      "end_index": 903,
+      "total_elevation_gain": 0,
+      "device_watts": false,
+      "average_heartrate": 95.7,
+      "max_heartrate": 157.0
+    }
+  ],
+  "photos": {
+    "primary": null,
+    "count": 0
+  },
+  "stats_visibility": [
+    {
+      "type": "heart_rate",
+      "visibility": "everyone"
+    },
+    {
+      "type": "pace",
+      "visibility": "everyone"
+    },
+    {
+      "type": "power",
+      "visibility": "everyone"
+    },
+    {
+      "type": "speed",
+      "visibility": "everyone"
+    },
+    {
+      "type": "calories",
+      "visibility": "everyone"
+    }
+  ],
+  "hide_from_home": false,
+  "embed_token": "486058c9d77a1afa8e89ddc259e03c27597b7738",
+  "available_zones": []
+}

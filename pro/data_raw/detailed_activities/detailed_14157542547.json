@@ -1,0 +1,5746 @@
+{
+  "resource_state": 3,
+  "athlete": {
+    "id": 57014865,
+    "resource_state": 1
+  },
+  "name": "Murdock trail",
+  "distance": 72141.9,
+  "moving_time": 10410,
+  "elapsed_time": 10590,
+  "total_elevation_gain": 273.6,
+  "type": "Ride",
+  "sport_type": "Ride",
+  "workout_type": 10,
+  "device_name": "Apple Watch Ultra",
+  "id": 14157542547,
+  "start_date": "2025-04-12T12:22:56Z",
+  "start_date_local": "2025-04-12T06:22:56Z",
+  "timezone": "(GMT-07:00) America/Denver",
+  "utc_offset": -21600.0,
+  "location_city": null,
+  "location_state": null,
+  "location_country": null,
+  "achievement_count": 0,
+  "kudos_count": 0,
+  "comment_count": 0,
+  "athlete_count": 2,
+  "photo_count": 0,
+  "map": {
+    "id": "a14157542547",
+    "polyline": "_sruF~`wiTO@K\\E~@A~@@r@D`@L^LDNCPGp@_@jBgAv@o@nEyElAyAxDeE\\[`Am@h@c@bHmHbCaCNIF?DBDFBXCtAArECnAK`b@@nHB`@H\\HJVLf@BdN?bIBpPC^BNLDJ@^A`B@zt@Khl@KhUIn@g@xAIZE|@D|NDb^AtFA\\G\\Uh@oAdBsAzAeArAe@p@MXI\\Ch@D`@Ld@AHKBwCOKCIEQ_C?k@DuA?k@GaBKmAKk@K]g@gAq@yBUg@[c@SSUOwB}@_@WSOyCoDg@e@UK{@Qm@EU?_@FSJa@ZMBKMWoAk@iBUg@UYi@a@e@SWIw@Iq@@uDfAs@\\q@b@[V[`@y@nB_DlJoAxC_@|AYbBCp@@f@\\nDBf@EdB@NLj@D^@vBGp@OXe@n@a@r@SVWNYFY?YEKEUQgAaBsAoCiBcDOu@]yGGUCIOG{@Ee@IWKUQQWo@kA_BcCeAgBg@m@kAcAk@]oAi@}C{@a@UQY_@iBWs@_CiEa@k@i@]YI[GoA?sCi@]CkAA[EYKgAs@u@]_@GmAAMCg@Hm@VSPkAhBg@b@sA`A{BjC_A~@q@h@e@p@qArBcAfAa@X}Ap@kDlBe@`@eA~AO`@AXHv@Lj@Xl@pAhBz@fAXn@Fh@AZIVQNSHSBoADeCCeCQqD?sADUDWHkB|@c@ZSX}@~AaBjDq@|@uC`Co@\\YHIG?UDWLWPQtAaAj@s@l@a@Va@DQBUASES]q@MK]IKG[]O[Mo@IqBOgA[qAq@qBKBu@f@{AxAmIdJ[^yAxBUROAKMwAyCeDcGUm@Ga@Ca@S{M@iBOiKBQFOp@]P_@^mBRaC`@}ABUEEC@U`@G@GAMOMa@KOQCQBGAEECICWKuDBm@F]FQNW~@u@LEF@JHDRCRCH[\\OFG@GAMKs@eBC_@De@A[_@sAGe@CuFEqAAmAHgFN}CHyJJgDAkAIq@BwACy@]kJB}@PuA@iA[sHg@uHKY]]KMEQCUAk@Bi@HaAJq@@_@CSS{@G]WwFDeCE}B?kAD}AJiA@_@MeBCaAL}DNgIAw@IiBa@}HA_BLoCx@mIH{A@kAGkB[wCc@uDI}@E}@NiSJ}DGkBI{FBy@XsDRyPJo@\\y@Ja@LwBLyDHiEAkHDa@n@uCHs@@c@Cu@a@kEEgABeA^qEFaB?g@Iy@{@_DKs@Ea@Cu@DwA?}CB_@Nm@n@yAVg@p@_AZo@Xw@T}@Fi@@e@MoCKgEFo@Ti@dJ{LxBmC^[HEV?j@D|@BZBTPPX\\v@PJF?HELYBe@Ki@}CgIMk@?UTs@@QCO[g@EQ@GHOXYDSBa@BI`@]DK@MI[[s@I[Ei@?KFWFGFAPJLTn@`BP\\LLF@FAJML_@f@y@RSdBaD~AcCvG_L~AiEhBkFPc@R]NKRA|@HnDTp@EXIFG@SOy@AYBgAXcBXoAT_BHUl@o@J[Bi@R{Ap@uKFi@HWb@y@pCaE~BsDvDuFl@gAXs@Rw@nAiFtAsGNa@NU\\Y`@OxAc@d@U^]hDyFbByCdAaB^u@pAkEv@cDtByHzCuKn@gCNq@Hy@FuBHeBBwADwFCcCCSCEE?CBEPD~@ClADPDDRBh@?fAP~@H|@@HC@G?g@IuBe@uEI}A@{HC{DKkA]{BIaAA_AJcDDWJUn@k@Na@?yBZyFR_FN{Bf@yDjB{K`B{KNuAB{AFi@^uBR}Ar@aEb@qA|AwCVy@Hm@ZuCJ}ARy@He@xAoLHeAHmBRiKFyAFe@Nu@p@gCHc@Fu@F}HIuIDaBNkBRgAZkAvAoEnAqDtAaF|AaF\\o@n@w@jEmEr@o@XUj@UzA]l@SzAo@hEoBhDeB^Kl@Mj@Uf@e@nBeCpBkBx@mARUn@c@rBmAn@g@t@}@jAgBjBaD`@{@bAeC`@u@L]Ha@VyB^qAd@kAf@q@j@m@pBcBnBiCrAaAtC_BvAsAhBsAhC{AXMfBk@b@Wx@i@l@e@vCwChHoG`@OX?h@JZB\\EJIRY\\y@Ja@XoBLk@rAuBnAiCRYTSf@SZEN@ZJt@d@j@VZDZEJETSr@yAPYVUJEZGhAAx@Iv@MlDy@d@Ob@Sz@u@jCwAVEt@GtB]`Cg@r@U|BmAbAq@xAkAnBgBd@]XOfA[d@Uf@[pAeAhBeA\\Ql@Ql@Ub@UVSr@y@z@wApCcEl@kAn@aBj@aDt@wCxCuIVg@jA_BtAmATKVIXCZBb@TbAbAVHV?VKHIx@kA^a@VOXCLBTJRVl@fATVVPJDXDxA@NALGf@o@b@UvDy@zAc@j@W~@k@hMmJxC_DNWZ{@P[nA_BdAyAbFcJz@kBTq@^sA`AmE~AsGN}AJcDFa@J]PSLCZ?j@RdAp@ZLN@\\AZKJITYTq@^uEJa@N[LIZI^@x@LZALCVSFMr@kCN]TWXOhDyApBaApBy@XOTSL[@O?a@E]Y{ACq@D_@PWHGVIpCQZEhA]xByA\\Qn@OvAI^Kd@_@`BuBVSLEZEl@BxB\\rBTZ?^Ej@UXWHMFe@Ag@YuBCe@@e@Dg@Ja@P_@TWVSZIvAIZGVKxA{@f@STEnAEd@Hn@^dAhA^PVDp@Br@EnBYpAW`AIh@@`AFj@Jl@^`@JPNNh@PxBJ`@PXf@ZhAZZDNAXMJKP_@j@eBVeAFu@CiBHs@hBkFrA_DP[TWfBuAp@]dAWf@Sf@[pAgAPYL[~@oDb@iA`EwGPUn@o@FO?CA?Hi@FGXENGR]Tu@j@iCJm@Ds@A_Ai@_FAc@@a@F_@L_@z@uBf@_BReAj@_ENm@V]d@WTSN_@Po@Pc@pAeBzAcCx@iA`C_F`AiBpAyCjCiFRi@J]d@eEP_ANe@ZYTGdA?nAHN??E}@AoBDWFKDOTM\\I`@m@fFKd@Yr@uClFSf@i@xAeBxCuBlEwE|GWj@Mj@IPUXk@`@QXSr@g@rDOx@[fAgA|CMb@Gd@Cd@Bf@f@nDBlAEx@Mx@}@pDQ\\YRGf@CBWBC@Q`@i@b@OR}DzG_@~@cAlDO`@SZWTkBjAg@RaAVe@TiBzAg@j@g@fAc@hAeBfFMh@Ih@Aj@@tAEh@Mf@c@lAUd@U\\YR]BMC_@MiAm@W[Ma@UaCKi@EIOKe@Ig@Wg@GyAEk@@{@JuAXaBR]@]?k@Gg@OUSaAaAc@UYGYAeAF[F[LkBdA[L]Fw@F]H[PYZYv@ETCl@BhAN|A@l@Id@IPMLMHq@NQBa@?yB_@kBUm@C[B[LIHmAhBg@d@]R]HmAFm@J]N_C|AYL_AVo@@sAL]FULOVI`@@b@ZlBBd@Cd@EPGLKJ[NwCdA_F|By@d@WXINw@pCQZIFIDWB{ASWBULQVI^Ix@MtBEb@Un@[f@YLOBO?_@Ek@Wu@g@[MMA[BWRGLI`@S`FMbA}DzO]nA_@t@aA`BkDjGe@r@cC`D]p@Wt@SZaAx@gAfAg@`@{B~AaI`Gs@`@s@VoA\\cBZkA\\[RUZ[XG@Q?o@Km@Ec@Ma@]{@sAWSKE[@[LYXgAxAUPWFWEKG}@cA[S_@GM?O@YLc@Zi@n@u@r@y@hA]p@w@fCaBvEi@vBm@bDMd@c@bAS^}C`F}AvBq@n@YRc@RgAXYLwBpAeBpAo@XmAb@YL}CnC{AjAeAp@uAn@gA^mAZwF~@sCxAcAt@}@^qE`AuARcAD_@HMHYZaA`B[T]D]G[M{@g@_@M_@AOB_@P[XW`@cA|BuAfCOd@YdBKf@Q^_@f@[POB]A{@K_@FMFuIdIgC|Bk@^}@f@wBt@{@b@gCbB_DhCeCxA_BpA_BrBs@t@eAv@WVu@dA[n@g@lB[vBKf@Qd@k@fAeAlC_A`BeBlCc@l@o@t@q@j@_CxAq@f@oA`Bk@f@cAv@kAr@]XMNg@`AURWLeAZaClAyFjCyBz@cBd@g@Ra@ZkFpFw@dAe@`AmDxL{AjEyAjFMh@EVQdCEjBF`EB`DMfHKbAq@bCOt@Kt@Et@W~MOpBw@hGSnBUxAWrAKrAg@vDI`@O^{@~Am@tAUt@Qx@qAjJQhCQxAuCdRi@tCe@dDQnBKdBWjGQzCEpCCLOTk@d@GLKd@C`BBnBFx@b@hDJjBBjBGjG@dAHhAf@pFF~AAh@CHGDG@k@KaBMy@Ok@CKEEECODgA?aABMDADBBF@XEnLWtFKfAU`AeE`O}E|Q]`Ae@`AcEdH{AfCm@|@[XYRgBh@e@TYPSVOb@SlAiAfFo@jCg@jB_@bAS^k@~@mErGmExGc@t@Wh@K^Gb@k@pJO`BWrAOX_@d@O^U|Ae@fCIdA@j@DhAAVCFGDS@eBK{@IoBGS?QHMNSd@wEpMg@v@sFfJkBrCyAlCiAdBKFE?MKu@uBWc@OKG?GDGHE^Dd@Lf@\\hABTGP[NEHEJEh@CJU^CL?LDLNXFX?JOx@?b@L`@lAzCdAxCLf@@PANENGHKFI?KCQQg@oAOMMEi@Dg@?aAIQDq@|@[j@{A`B}BbDcCxC_ApAOXO\\Kr@?b@VxH?v@Gd@Qt@Up@a@r@y@hAWh@i@vAMl@A`@@lGRdBt@tCFh@Bj@A`Ac@nGC~@D`AZjDBpAIpAo@|CGf@?f@B`CApBS`JIlBI|@Id@_@bAIb@QlPQfDCbGHfEKzCCrFIjH?~BJdBd@rDVjCJjA@z@Cz@I`Bk@vFUjCC~@AvA@h@d@rIFvBArA[bM@z@L~A@`@OrACt@B~E?lCBz@VhEXnBAd@Ox@Eh@A|@Jx@FNh@v@Hb@b@jHRxF?tAQhCAv@^pIHvFOpGGtHOdDI~EFnBFdGDv@^dB@jABLJXd@x@NLH@PIPSHY@MAKGIIEM?KDYTa@h@Q^ERE|@RvEBHFDH@RCPB\\j@LFFADEN[B@?DCT_@zAYlCOr@[`AONc@RIXFnADrDDfA@x@CnAT`NFfAH`@J^Xj@z@pAP`@b@p@l@`A`@jAb@v@PPJFN?FEZ]~@wAp@}@fa@yc@~QyStC{CjCyCvAiB|@wAl@u@p@k@dAg@hCaBh@W\\KNA^@lDd@`BBHDBDBl@CbB_@`GKxC@j@HNXAPD~B~@^PTHH??xAOf@MFE?PCHIHg@@SGqECa@Ku@AWAkIHy@@aACoAG_@FEFAJ@f@At@Bf@Ex@C~@MnDCfFAlUURBBF",
+    "resource_state": 3,
+    "summary_polyline": "{eruFb_wiTtZmZHpz@zm@z@IffBKhUaAbFHvu@_@dB}G`JBxCyDU_@}McDwIaEyBkFqFcFZ{BiGqEgA{GhCqBhDiHhUh@|SkBtCeBPgHmLy@oJ_Du@{IaM{HyCkFmL}UqEiBr@qRrTkHxDkB`CAlCbErGEtBaUXoCxAqElIaFxDO}@hEsD`@sAiCgDuBmLwRxSyGmLc@aC_@_]nA_BxAcJo@\\}AsAGoGzAiBf@Xk@~@i@QwAwHEy|@V}EcAiR_AcCXsEu@_IAwI^a\\q@qOtAwSwAcQJme@n@iWbAcGToT`A}Fk@{Ij@aLwAoHDkItEuKOgL\\yA~NeRfDFvAnB^_@sDcMV{Ac@qAzAaDm@yDvB`Dj@]~O_XnFwNdJEKoDhAsGbAaBzA}QzOmVbFkSnFwClKgR`M}d@d@eRYqCJnDnGTy@qMAwNi@mNpA{B~@oUpGme@fBuKxCcHhDqXn@wSzA}HRaZbKg]bJcKjWgKvI{JrEyCnGcKrByEnCkJlG{GtWaPnNmMjDOdBqGlEmHhGp@jCiDdK{ApGqDxJiBr]_TnHaLjHqVxDuEbBUvCbBlDwCrCxCnCJxKcEhOyKlJiM~GoMvEgRn@aIz@WbF|@fB_JlDIxBcFvMiGSyF`@_AnQqElDoD~KTj@kA_@cEd@oClJiDtBBlD`C`Og@`Bz@~@~EvDl@`BwELsE|DkKhLwHbCoHxIoMrAaHk@eJhEiQnJqN`LmUfBsJvE]aFf@kB`KoLvU{I|MeEpQj@jIqAdH}IxMgCjHeLjHqDxJ]~F}AxDoDg@gAiFcBw@}Mn@oEcCyBAiJpDc@zBTtEo@nAuKa@yDzDiQvEIvHyMdGuB~EkDFkBbJyGk@s@tI{EjRaO|VoRdOuLzE{C]aCkCgE|C}BeBwAF{EzFcHdVaIhLk\\|RmKzBuGnDkKdBeC|CcGq@mE`IgBzFsDV}MbMkUhNqIjIeH~RyFrIyQbP_VxJmGlG}AfCiGdS_CrLGvVyArHm@fSmDrXkDfJ{Ipn@mAnWsA|BlBdl@sGa@CgDNfLc@bJyL`d@qKnRqFvCeFtSwOlVoAvOsCxKGzEsIKyFfOyOlWi@\\uAaDg@Bn@lEsAzCLxDhDpLs@DeAkBmD?kOrSBnNuEdLBtHrAzHi@pKd@~HaAvGQ|RgAxHe@dWQve@vAlPuAlSn@`P[le@t@tJWzEdApCv@dPSvGh@hQ_@ti@|@lGv@z@n@eAa@[gAdA[fCTjEdC^mArHyA~B`@jZb@tE~EhJ~Ax@pgAmoAnG}DbKRe@~QtFnB]hC`@iAS_[hf@i@"
+  },
+  "trainer": false,
+  "commute": false,
+  "manual": false,
+  "private": false,
+  "visibility": "everyone",
+  "flagged": false,
+  "gear_id": null,
+  "start_latlng": [
+    40.405124,
+    -111.862071
+  ],
+  "end_latlng": [
+    40.406261,
+    -111.886777
+  ],
+  "average_speed": 6.93,
+  "max_speed": 13.86,
+  "has_heartrate": true,
+  "average_heartrate": 141.8,
+  "max_heartrate": 181.0,
+  "heartrate_opt_out": false,
+  "display_hide_heartrate_option": true,
+  "elev_high": 1483.2,
+  "elev_low": 1368.2,
+  "upload_id": 15110610086,
+  "upload_id_str": "15110610086",
+  "external_id": "C6FFA5DD-A2AE-489C-ACD4-DE25832CC86A.fit",
+  "from_accepted_tag": false,
+  "pr_count": 0,
+  "total_photo_count": 0,
+  "has_kudoed": false,
+  "description": "Ride with Jake",
+  "calories": 2096.0,
+  "perceived_exertion": null,
+  "prefer_perceived_exertion": false,
+  "segment_efforts": [
+    {
+      "id": 3346181490052633984,
+      "resource_state": 2,
+      "name": "Bridge x Bridge (Northbound)",
+      "activity": {
+        "id": 14157542547,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 780,
+      "moving_time": 750,
+      "start_date": "2025-04-12T12:39:02Z",
+      "start_date_local": "2025-04-12T06:39:02Z",
+      "distance": 4047.2,
+      "start_index": 964,
+      "end_index": 1742,
+      "device_watts": false,
+      "average_heartrate": 126.7,
+      "max_heartrate": 152.0,
+      "segment": {
+        "id": 38241291,
+        "resource_state": 2,
+        "name": "Bridge x Bridge (Northbound)",
+        "activity_type": "Ride",
+        "distance": 4047.2,
+        "average_grade": 0.0,
+        "maximum_grade": 6.3,
+        "elevation_high": 1376.9,
+        "elevation_low": 1368.3,
+        "start_latlng": [
+          40.394008,
+          -111.899601
+        ],
+        "end_latlng": [
+          40.417548,
+          -111.893933
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Lehi",
+        "state": "Utah",
+        "country": "USA",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3346181490054114688,
+      "resource_state": 2,
+      "name": "2100 North JRT to MCT (Outlets)",
+      "activity": {
+        "id": 14157542547,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 1116,
+      "moving_time": 1031,
+      "start_date": "2025-04-12T12:47:01Z",
+      "start_date_local": "2025-04-12T06:47:01Z",
+      "distance": 5138.2,
+      "start_index": 1442,
+      "end_index": 2555,
+      "device_watts": false,
+      "average_heartrate": 127.5,
+      "max_heartrate": 158.0,
+      "segment": {
+        "id": 34166084,
+        "resource_state": 2,
+        "name": "2100 North JRT to MCT (Outlets)",
+        "activity_type": "Ride",
+        "distance": 5138.2,
+        "average_grade": 1.1,
+        "maximum_grade": 7.7,
+        "elevation_high": 1433.8,
+        "elevation_low": 1371.6,
+        "start_latlng": [
+          40.410963,
+          -111.893018
+        ],
+        "end_latlng": [
+          40.431266,
+          -111.884192
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Lehi",
+        "state": "Utah",
+        "country": "USA",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3346181490052796800,
+      "resource_state": 2,
+      "name": "2100 N. JRT to Murdock connector",
+      "activity": {
+        "id": 14157542547,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 519,
+      "moving_time": 489,
+      "start_date": "2025-04-12T12:47:09Z",
+      "start_date_local": "2025-04-12T06:47:09Z",
+      "distance": 2301.5,
+      "start_index": 1449,
+      "end_index": 1967,
+      "device_watts": false,
+      "average_heartrate": 122.0,
+      "max_heartrate": 150.0,
+      "segment": {
+        "id": 33011472,
+        "resource_state": 2,
+        "name": "2100 N. JRT to Murdock connector",
+        "activity_type": "Ride",
+        "distance": 2301.5,
+        "average_grade": -0.1,
+        "maximum_grade": 5.2,
+        "elevation_high": 1382.8,
+        "elevation_low": 1376.0,
+        "start_latlng": [
+          40.411232,
+          -111.892624
+        ],
+        "end_latlng": [
+          40.42604,
+          -111.902612
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Lehi",
+        "state": "Utah",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3346181490055045504,
+      "resource_state": 2,
+      "name": "Step Up",
+      "activity": {
+        "id": 14157542547,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 814,
+      "moving_time": 759,
+      "start_date": "2025-04-12T12:55:50Z",
+      "start_date_local": "2025-04-12T06:55:50Z",
+      "distance": 3998.1,
+      "start_index": 1969,
+      "end_index": 2781,
+      "device_watts": false,
+      "average_heartrate": 138.4,
+      "max_heartrate": 166.0,
+      "segment": {
+        "id": 31736298,
+        "resource_state": 2,
+        "name": "Step Up",
+        "activity_type": "Ride",
+        "distance": 3998.1,
+        "average_grade": 2.3,
+        "maximum_grade": 18.9,
+        "elevation_high": 1905.8,
+        "elevation_low": 1811.8,
+        "start_latlng": [
+          40.426132,
+          -111.902675
+        ],
+        "end_latlng": [
+          40.432032,
+          -111.870589
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Lehi",
+        "state": "Utah",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3346181490052649344,
+      "resource_state": 2,
+      "name": "JRT up to Garden Drive",
+      "activity": {
+        "id": 14157542547,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 98,
+      "moving_time": 98,
+      "start_date": "2025-04-12T12:55:56Z",
+      "start_date_local": "2025-04-12T06:55:56Z",
+      "distance": 495.9,
+      "start_index": 1975,
+      "end_index": 2073,
+      "device_watts": false,
+      "average_heartrate": 138.9,
+      "max_heartrate": 153.0,
+      "segment": {
+        "id": 24141118,
+        "resource_state": 2,
+        "name": "JRT up to Garden Drive",
+        "activity_type": "Ride",
+        "distance": 495.9,
+        "average_grade": 2.7,
+        "maximum_grade": 6.2,
+        "elevation_high": 1386.7,
+        "elevation_low": 1372.7,
+        "start_latlng": [
+          40.426237,
+          -111.902589
+        ],
+        "end_latlng": [
+          40.426225,
+          -111.898227
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Lehi",
+        "state": "Utah",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3346181490054667648,
+      "resource_state": 2,
+      "name": "straight lane of BBQ",
+      "activity": {
+        "id": 14157542547,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 78,
+      "moving_time": 78,
+      "start_date": "2025-04-12T13:00:38Z",
+      "start_date_local": "2025-04-12T07:00:38Z",
+      "distance": 406.3,
+      "start_index": 2257,
+      "end_index": 2334,
+      "device_watts": false,
+      "average_heartrate": 136.7,
+      "max_heartrate": 143.0,
+      "segment": {
+        "id": 10010310,
+        "resource_state": 2,
+        "name": "straight lane of BBQ",
+        "activity_type": "Ride",
+        "distance": 406.3,
+        "average_grade": 2.5,
+        "maximum_grade": 4.9,
+        "elevation_high": 1401.9,
+        "elevation_low": 1391.8,
+        "start_latlng": [
+          40.430997,
+          -111.898742
+        ],
+        "end_latlng": [
+          40.43119,
+          -111.893964
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Lehi",
+        "state": "Utah",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3346181490050231680,
+      "resource_state": 2,
+      "name": "I-15 to Alpine Hwy",
+      "activity": {
+        "id": 14157542547,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 1528,
+      "moving_time": 1528,
+      "start_date": "2025-04-12T13:05:01Z",
+      "start_date_local": "2025-04-12T07:05:01Z",
+      "distance": 9715.0,
+      "start_index": 2519,
+      "end_index": 4044,
+      "device_watts": false,
+      "average_heartrate": 141.5,
+      "max_heartrate": 178.0,
+      "segment": {
+        "id": 13282223,
+        "resource_state": 2,
+        "name": "I-15 to Alpine Hwy",
+        "activity_type": "Ride",
+        "distance": 9715.0,
+        "average_grade": 0.4,
+        "maximum_grade": 12.2,
+        "elevation_high": 1425.8,
+        "elevation_low": 1383.4,
+        "start_latlng": [
+          40.43139,
+          -111.886329
+        ],
+        "end_latlng": [
+          40.409965,
+          -111.789795
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Lehi",
+        "state": "Utah",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3346181490052382080,
+      "resource_state": 2,
+      "name": "MCT Timp hwy climb (rail trail - rest stop)",
+      "activity": {
+        "id": 14157542547,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 166,
+      "moving_time": 166,
+      "start_date": "2025-04-12T13:05:45Z",
+      "start_date_local": "2025-04-12T07:05:45Z",
+      "distance": 883.4,
+      "start_index": 2563,
+      "end_index": 2728,
+      "device_watts": false,
+      "average_heartrate": 152.4,
+      "max_heartrate": 165.0,
+      "segment": {
+        "id": 12748372,
+        "resource_state": 2,
+        "name": "MCT Timp hwy climb (rail trail - rest stop)",
+        "activity_type": "Ride",
+        "distance": 883.4,
+        "average_grade": 3.5,
+        "maximum_grade": 6.0,
+        "elevation_high": 1463.3,
+        "elevation_low": 1432.1,
+        "start_latlng": [
+          40.431258,
+          -111.883659
+        ],
+        "end_latlng": [
+          40.431863,
+          -111.873485
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Lehi",
+        "state": "Utah",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3346181490055490944,
+      "resource_state": 2,
+      "name": "Rail trail to Center St",
+      "activity": {
+        "id": 14157542547,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 466,
+      "moving_time": 466,
+      "start_date": "2025-04-12T13:06:16Z",
+      "start_date_local": "2025-04-12T07:06:16Z",
+      "distance": 2776.6,
+      "start_index": 2594,
+      "end_index": 3059,
+      "device_watts": false,
+      "average_heartrate": 147.6,
+      "max_heartrate": 166.0,
+      "segment": {
+        "id": 21902476,
+        "resource_state": 2,
+        "name": "Rail trail to Center St",
+        "activity_type": "Ride",
+        "distance": 2776.6,
+        "average_grade": 1.1,
+        "maximum_grade": 8.8,
+        "elevation_high": 1450.0,
+        "elevation_low": 1417.6,
+        "start_latlng": [
+          40.431146,
+          -111.881352
+        ],
+        "end_latlng": [
+          40.432046,
+          -111.84884
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Lehi",
+        "state": "Utah",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3346181490054991232,
+      "resource_state": 2,
+      "name": "Timp Highway Climb",
+      "activity": {
+        "id": 14157542547,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 168,
+      "moving_time": 168,
+      "start_date": "2025-04-12T13:06:32Z",
+      "start_date_local": "2025-04-12T07:06:32Z",
+      "distance": 838.132,
+      "start_index": 2610,
+      "end_index": 2777,
+      "device_watts": false,
+      "average_heartrate": 156.9,
+      "max_heartrate": 166.0,
+      "segment": {
+        "id": 2800141,
+        "resource_state": 2,
+        "name": "Timp Highway Climb",
+        "activity_type": "Ride",
+        "distance": 838.132,
+        "average_grade": 3.7,
+        "maximum_grade": 6.9,
+        "elevation_high": 1342.4,
+        "elevation_low": 1311.8,
+        "start_latlng": [
+          40.43121485039592,
+          -111.88038951717317
+        ],
+        "end_latlng": [
+          40.43205144815147,
+          -111.87083666212857
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Lehi",
+        "state": "UT",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3346181490051257728,
+      "resource_state": 2,
+      "name": "MCT: Bull River TH - Wade Springs TH",
+      "activity": {
+        "id": 14157542547,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 2314,
+      "moving_time": 2314,
+      "start_date": "2025-04-12T13:08:37Z",
+      "start_date_local": "2025-04-12T07:08:37Z",
+      "distance": 16073.8,
+      "start_index": 2734,
+      "end_index": 5043,
+      "device_watts": false,
+      "average_heartrate": 142.0,
+      "max_heartrate": 178.0,
+      "segment": {
+        "id": 37985163,
+        "resource_state": 2,
+        "name": "MCT: Bull River TH - Wade Springs TH",
+        "activity_type": "Ride",
+        "distance": 16073.8,
+        "average_grade": 0.1,
+        "maximum_grade": 11.2,
+        "elevation_high": 1462.6,
+        "elevation_low": 1433.0,
+        "start_latlng": [
+          40.431873,
+          -111.8732
+        ],
+        "end_latlng": [
+          40.376554,
+          -111.727502
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Lehi",
+        "state": "Utah",
+        "country": "USA",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3346181490053541248,
+      "resource_state": 2,
+      "name": "Meet my JAG ",
+      "activity": {
+        "id": 14157542547,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 559,
+      "moving_time": 559,
+      "start_date": "2025-04-12T13:08:41Z",
+      "start_date_local": "2025-04-12T07:08:41Z",
+      "distance": 3996.6,
+      "start_index": 2738,
+      "end_index": 3296,
+      "device_watts": false,
+      "average_heartrate": 143.9,
+      "max_heartrate": 166.0,
+      "segment": {
+        "id": 25073014,
+        "resource_state": 2,
+        "name": "Meet my JAG ",
+        "activity_type": "Ride",
+        "distance": 3996.6,
+        "average_grade": 0.1,
+        "maximum_grade": 4.3,
+        "elevation_high": 1462.8,
+        "elevation_low": 1457.2,
+        "start_latlng": [
+          40.43185,
+          -111.872948
+        ],
+        "end_latlng": [
+          40.430473,
+          -111.828712
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Lehi",
+        "state": "Utah",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3346181490051578240,
+      "resource_state": 2,
+      "name": "Step on the gas",
+      "activity": {
+        "id": 14157542547,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 253,
+      "moving_time": 253,
+      "start_date": "2025-04-12T13:10:09Z",
+      "start_date_local": "2025-04-12T07:10:09Z",
+      "distance": 1727.2,
+      "start_index": 2826,
+      "end_index": 3079,
+      "device_watts": false,
+      "average_heartrate": 141.3,
+      "max_heartrate": 152.0,
+      "segment": {
+        "id": 32697241,
+        "resource_state": 2,
+        "name": "Step on the gas",
+        "activity_type": "Ride",
+        "distance": 1727.2,
+        "average_grade": 0.0,
+        "maximum_grade": 2.6,
+        "elevation_high": 1477.2,
+        "elevation_low": 1474.4,
+        "start_latlng": [
+          40.432041,
+          -111.867236
+        ],
+        "end_latlng": [
+          40.431904,
+          -111.847045
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Lehi",
+        "state": "Utah",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3346181490052318592,
+      "resource_state": 2,
+      "name": "Trail from N center street to N 7200 West",
+      "activity": {
+        "id": 14157542547,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 201,
+      "moving_time": 201,
+      "start_date": "2025-04-12T13:14:17Z",
+      "start_date_local": "2025-04-12T07:14:17Z",
+      "distance": 1501.4,
+      "start_index": 3074,
+      "end_index": 3274,
+      "device_watts": false,
+      "average_heartrate": 143.1,
+      "max_heartrate": 158.0,
+      "segment": {
+        "id": 1954061,
+        "resource_state": 2,
+        "name": "Trail from N center street to N 7200 West",
+        "activity_type": "Ride",
+        "distance": 1501.4,
+        "average_grade": -0.1,
+        "maximum_grade": 0.4,
+        "elevation_high": 1413.3,
+        "elevation_low": 1410.0,
+        "start_latlng": [
+          40.431923,
+          -111.847525
+        ],
+        "end_latlng": [
+          40.430401,
+          -111.830672
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Lehi",
+        "state": "UT",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3346181490048860544,
+      "resource_state": 2,
+      "name": "timp highway to alpine highway",
+      "activity": {
+        "id": 14157542547,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 903,
+      "moving_time": 903,
+      "start_date": "2025-04-12T13:15:38Z",
+      "start_date_local": "2025-04-12T07:15:38Z",
+      "distance": 5882.0,
+      "start_index": 3155,
+      "end_index": 4055,
+      "device_watts": false,
+      "average_heartrate": 136.7,
+      "max_heartrate": 178.0,
+      "segment": {
+        "id": 10070882,
+        "resource_state": 2,
+        "name": "timp highway to alpine highway",
+        "activity_type": "Ride",
+        "distance": 5882.0,
+        "average_grade": 0.0,
+        "maximum_grade": 45.1,
+        "elevation_high": 1470.1,
+        "elevation_low": 1444.0,
+        "start_latlng": [
+          40.431405,
+          -111.840723
+        ],
+        "end_latlng": [
+          40.409958,
+          -111.788692
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Lehi",
+        "state": "Utah",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3346181490049975680,
+      "resource_state": 2,
+      "name": "Approaching the Gully Man",
+      "activity": {
+        "id": 14157542547,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 56,
+      "moving_time": 56,
+      "start_date": "2025-04-12T13:18:02Z",
+      "start_date_local": "2025-04-12T07:18:02Z",
+      "distance": 402.9,
+      "start_index": 3298,
+      "end_index": 3354,
+      "device_watts": false,
+      "average_heartrate": 137.7,
+      "max_heartrate": 140.0,
+      "segment": {
+        "id": 17732348,
+        "resource_state": 2,
+        "name": "Approaching the Gully Man",
+        "activity_type": "Ride",
+        "distance": 402.9,
+        "average_grade": 0.2,
+        "maximum_grade": 0.9,
+        "elevation_high": 1446.2,
+        "elevation_low": 1444.8,
+        "start_latlng": [
+          40.43051,
+          -111.828526
+        ],
+        "end_latlng": [
+          40.428148,
+          -111.825063
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Lehi",
+        "state": "Utah",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3346181490049190272,
+      "resource_state": 2,
+      "name": "Dry Creek Gully Symmetric (NW -> SE)",
+      "activity": {
+        "id": 14157542547,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 158,
+      "moving_time": 158,
+      "start_date": "2025-04-12T13:18:48Z",
+      "start_date_local": "2025-04-12T07:18:48Z",
+      "distance": 968.7,
+      "start_index": 3344,
+      "end_index": 3502,
+      "device_watts": false,
+      "average_heartrate": 136.8,
+      "max_heartrate": 178.0,
+      "segment": {
+        "id": 17823196,
+        "resource_state": 2,
+        "name": "Dry Creek Gully Symmetric (NW -> SE)",
+        "activity_type": "Ride",
+        "distance": 968.7,
+        "average_grade": 0.2,
+        "maximum_grade": 12.9,
+        "elevation_high": 1469.0,
+        "elevation_low": 1443.6,
+        "start_latlng": [
+          40.428595,
+          -111.825685
+        ],
+        "end_latlng": [
+          40.426074,
+          -111.820784
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Lehi",
+        "state": "Utah",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3346181490047214976,
+      "resource_state": 2,
+      "name": "Enter the gully",
+      "activity": {
+        "id": 14157542547,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 73,
+      "moving_time": 73,
+      "start_date": "2025-04-12T13:18:58Z",
+      "start_date_local": "2025-04-12T07:18:58Z",
+      "distance": 516.1,
+      "start_index": 3354,
+      "end_index": 3427,
+      "device_watts": false,
+      "average_heartrate": 129.5,
+      "max_heartrate": 137.0,
+      "segment": {
+        "id": 13617237,
+        "resource_state": 2,
+        "name": "Enter the gully",
+        "activity_type": "Ride",
+        "distance": 516.1,
+        "average_grade": -5.1,
+        "maximum_grade": 2.5,
+        "elevation_high": 1481.0,
+        "elevation_low": 1453.8,
+        "start_latlng": [
+          40.427957,
+          -111.825261
+        ],
+        "end_latlng": [
+          40.427187,
+          -111.822175
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Lehi",
+        "state": "Utah",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3346181490051092864,
+      "resource_state": 2,
+      "name": "Outta the Gulley Variant",
+      "activity": {
+        "id": 14157542547,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 75,
+      "moving_time": 75,
+      "start_date": "2025-04-12T13:20:04Z",
+      "start_date_local": "2025-04-12T07:20:04Z",
+      "distance": 371.1,
+      "start_index": 3420,
+      "end_index": 3495,
+      "device_watts": false,
+      "average_heartrate": 139.4,
+      "max_heartrate": 156.0,
+      "segment": {
+        "id": 13446788,
+        "resource_state": 2,
+        "name": "Outta the Gulley Variant",
+        "activity_type": "Ride",
+        "distance": 371.1,
+        "average_grade": 4.7,
+        "maximum_grade": 11.4,
+        "elevation_high": 1453.6,
+        "elevation_low": 1434.6,
+        "start_latlng": [
+          40.427138,
+          -111.822505
+        ],
+        "end_latlng": [
+          40.42616,
+          -111.820875
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Lehi",
+        "state": "Utah",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3346181490049607040,
+      "resource_state": 2,
+      "name": "Take a Breather",
+      "activity": {
+        "id": 14157542547,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 126,
+      "moving_time": 126,
+      "start_date": "2025-04-12T13:21:34Z",
+      "start_date_local": "2025-04-12T07:21:34Z",
+      "distance": 654.1,
+      "start_index": 3510,
+      "end_index": 3635,
+      "device_watts": false,
+      "average_heartrate": 144.5,
+      "max_heartrate": 171.0,
+      "segment": {
+        "id": 38896276,
+        "resource_state": 2,
+        "name": "Take a Breather",
+        "activity_type": "Ride",
+        "distance": 654.1,
+        "average_grade": 0.0,
+        "maximum_grade": 2.8,
+        "elevation_high": 1468.7,
+        "elevation_low": 1467.1,
+        "start_latlng": [
+          40.425972,
+          -111.820634
+        ],
+        "end_latlng": [
+          40.422388,
+          -111.814565
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Highland",
+        "state": "Utah",
+        "country": "USA",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3346181490051121536,
+      "resource_state": 2,
+      "name": "Mitchell Hollow to Highland Glen",
+      "activity": {
+        "id": 14157542547,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 410,
+      "moving_time": 410,
+      "start_date": "2025-04-12T13:24:05Z",
+      "start_date_local": "2025-04-12T07:24:05Z",
+      "distance": 2728.4,
+      "start_index": 3660,
+      "end_index": 4069,
+      "device_watts": false,
+      "average_heartrate": 133.2,
+      "max_heartrate": 146.0,
+      "segment": {
+        "id": 12914980,
+        "resource_state": 2,
+        "name": "Mitchell Hollow to Highland Glen",
+        "activity_type": "Ride",
+        "distance": 2728.4,
+        "average_grade": 0.2,
+        "maximum_grade": 4.2,
+        "elevation_high": 1470.0,
+        "elevation_low": 1462.4,
+        "start_latlng": [
+          40.42072,
+          -111.814539
+        ],
+        "end_latlng": [
+          40.410124,
+          -111.787886
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Highland",
+        "state": "Utah",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3346181490049443200,
+      "resource_state": 2,
+      "name": "104000 to 6000",
+      "activity": {
+        "id": 14157542547,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 186,
+      "moving_time": 186,
+      "start_date": "2025-04-12T13:24:15Z",
+      "start_date_local": "2025-04-12T07:24:15Z",
+      "distance": 1138.2,
+      "start_index": 3670,
+      "end_index": 3856,
+      "device_watts": false,
+      "average_heartrate": 132.8,
+      "max_heartrate": 146.0,
+      "segment": {
+        "id": 30025767,
+        "resource_state": 2,
+        "name": "104000 to 6000",
+        "activity_type": "Ride",
+        "distance": 1138.2,
+        "average_grade": 0.6,
+        "maximum_grade": 4.3,
+        "elevation_high": 1469.6,
+        "elevation_low": 1462.9,
+        "start_latlng": [
+          40.420597,
+          -111.814066
+        ],
+        "end_latlng": [
+          40.415927,
+          -111.802636
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Highland",
+        "state": "Utah",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3346181490050063744,
+      "resource_state": 2,
+      "name": "MCT: MH Park to 6000 W (Safe)",
+      "activity": {
+        "id": 14157542547,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 118,
+      "moving_time": 118,
+      "start_date": "2025-04-12T13:25:15Z",
+      "start_date_local": "2025-04-12T07:25:15Z",
+      "distance": 754.9,
+      "start_index": 3730,
+      "end_index": 3848,
+      "device_watts": false,
+      "average_heartrate": 130.4,
+      "max_heartrate": 140.0,
+      "segment": {
+        "id": 14338399,
+        "resource_state": 2,
+        "name": "MCT: MH Park to 6000 W (Safe)",
+        "activity_type": "Ride",
+        "distance": 754.9,
+        "average_grade": 0.3,
+        "maximum_grade": 1.6,
+        "elevation_high": 1467.3,
+        "elevation_low": 1465.4,
+        "start_latlng": [
+          40.419712,
+          -111.81047
+        ],
+        "end_latlng": [
+          40.416106,
+          -111.803214
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "American Fork",
+        "state": "Utah",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3346181490050368896,
+      "resource_state": 2,
+      "name": "MCT: 6000 W to 5300 W (Safe)",
+      "activity": {
+        "id": 14157542547,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 140,
+      "moving_time": 140,
+      "start_date": "2025-04-12T13:27:44Z",
+      "start_date_local": "2025-04-12T07:27:44Z",
+      "distance": 1015.3,
+      "start_index": 3879,
+      "end_index": 4019,
+      "device_watts": false,
+      "average_heartrate": 132.9,
+      "max_heartrate": 139.0,
+      "segment": {
+        "id": 14338423,
+        "resource_state": 2,
+        "name": "MCT: 6000 W to 5300 W (Safe)",
+        "activity_type": "Ride",
+        "distance": 1015.3,
+        "average_grade": 0.5,
+        "maximum_grade": 1.8,
+        "elevation_high": 1472.7,
+        "elevation_low": 1467.3,
+        "start_latlng": [
+          40.415404,
+          -111.801433
+        ],
+        "end_latlng": [
+          40.410225,
+          -111.791981
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Highland",
+        "state": "Utah",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3346181490048700800,
+      "resource_state": 2,
+      "name": "Murdoch gap",
+      "activity": {
+        "id": 14157542547,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 43,
+      "moving_time": 43,
+      "start_date": "2025-04-12T13:29:34Z",
+      "start_date_local": "2025-04-12T07:29:34Z",
+      "distance": 308.3,
+      "start_index": 3989,
+      "end_index": 4032,
+      "device_watts": false,
+      "average_heartrate": 137.8,
+      "max_heartrate": 141.0,
+      "segment": {
+        "id": 27573066,
+        "resource_state": 2,
+        "name": "Murdoch gap",
+        "activity_type": "Ride",
+        "distance": 308.3,
+        "average_grade": 0.4,
+        "maximum_grade": 1.2,
+        "elevation_high": 1475.6,
+        "elevation_low": 1474.0,
+        "start_latlng": [
+          40.411149,
+          -111.794158
+        ],
+        "end_latlng": [
+          40.410199,
+          -111.790811
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Highland",
+        "state": "Utah",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3346181490051207552,
+      "resource_state": 2,
+      "name": "Canal Sprint To Tunnel",
+      "activity": {
+        "id": 14157542547,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 72,
+      "moving_time": 72,
+      "start_date": "2025-04-12T13:31:47Z",
+      "start_date_local": "2025-04-12T07:31:47Z",
+      "distance": 597.7,
+      "start_index": 4121,
+      "end_index": 4193,
+      "device_watts": false,
+      "average_heartrate": 121.5,
+      "max_heartrate": 139.0,
+      "segment": {
+        "id": 28485592,
+        "resource_state": 2,
+        "name": "Canal Sprint To Tunnel",
+        "activity_type": "Ride",
+        "distance": 597.7,
+        "average_grade": -0.9,
+        "maximum_grade": 4.8,
+        "elevation_high": 1477.8,
+        "elevation_low": 1468.0,
+        "start_latlng": [
+          40.408701,
+          -111.788454
+        ],
+        "end_latlng": [
+          40.409194,
+          -111.781653
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Highland",
+        "state": "Utah",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3346181490049512832,
+      "resource_state": 2,
+      "name": "A little more than 5 miles back home",
+      "activity": {
+        "id": 14157542547,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 1186,
+      "moving_time": 1186,
+      "start_date": "2025-04-12T13:35:15Z",
+      "start_date_local": "2025-04-12T07:35:15Z",
+      "distance": 9241.2,
+      "start_index": 4329,
+      "end_index": 5512,
+      "device_watts": false,
+      "average_heartrate": 146.5,
+      "max_heartrate": 173.0,
+      "segment": {
+        "id": 14695357,
+        "resource_state": 2,
+        "name": "A little more than 5 miles back home",
+        "activity_type": "Ride",
+        "distance": 9241.2,
+        "average_grade": 0.1,
+        "maximum_grade": 7.3,
+        "elevation_high": 1478.9,
+        "elevation_low": 1471.5,
+        "start_latlng": [
+          40.407119,
+          -111.771463
+        ],
+        "end_latlng": [
+          40.35251,
+          -111.706575
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "American Fork",
+        "state": "Utah",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3346181490047287680,
+      "resource_state": 2,
+      "name": "Behind Deerfield going East",
+      "activity": {
+        "id": 14157542547,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 197,
+      "moving_time": 197,
+      "start_date": "2025-04-12T13:35:19Z",
+      "start_date_local": "2025-04-12T07:35:19Z",
+      "distance": 1426.6,
+      "start_index": 4333,
+      "end_index": 4529,
+      "device_watts": false,
+      "average_heartrate": 138.3,
+      "max_heartrate": 154.0,
+      "segment": {
+        "id": 14695169,
+        "resource_state": 2,
+        "name": "Behind Deerfield going East",
+        "activity_type": "Ride",
+        "distance": 1426.6,
+        "average_grade": 0.2,
+        "maximum_grade": 7.0,
+        "elevation_high": 1478.3,
+        "elevation_low": 1471.7,
+        "start_latlng": [
+          40.407036,
+          -111.771148
+        ],
+        "end_latlng": [
+          40.404209,
+          -111.755053
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "American Fork",
+        "state": "Utah",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3346181490051355008,
+      "resource_state": 2,
+      "name": "Say Hi To The Kids",
+      "activity": {
+        "id": 14157542547,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 65,
+      "moving_time": 65,
+      "start_date": "2025-04-12T13:36:34Z",
+      "start_date_local": "2025-04-12T07:36:34Z",
+      "distance": 494.6,
+      "start_index": 4408,
+      "end_index": 4473,
+      "device_watts": false,
+      "average_heartrate": 130.9,
+      "max_heartrate": 141.0,
+      "segment": {
+        "id": 38427029,
+        "resource_state": 2,
+        "name": "Say Hi To The Kids",
+        "activity_type": "Ride",
+        "distance": 494.6,
+        "average_grade": 0.0,
+        "maximum_grade": 0.5,
+        "elevation_high": 1474.0,
+        "elevation_low": 1473.2,
+        "start_latlng": [
+          40.405439,
+          -111.766012
+        ],
+        "end_latlng": [
+          40.404698,
+          -111.760299
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Cedar Hills",
+        "state": "Utah",
+        "country": "USA",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3346181490047734144,
+      "resource_state": 2,
+      "name": "Murdock Canal - No Stops - South",
+      "activity": {
+        "id": 14157542547,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 502,
+      "moving_time": 502,
+      "start_date": "2025-04-12T13:38:54Z",
+      "start_date_local": "2025-04-12T07:38:54Z",
+      "distance": 4013.9,
+      "start_index": 4547,
+      "end_index": 5048,
+      "device_watts": false,
+      "average_heartrate": 150.9,
+      "max_heartrate": 173.0,
+      "segment": {
+        "id": 15939325,
+        "resource_state": 2,
+        "name": "Murdock Canal - No Stops - South",
+        "activity_type": "Ride",
+        "distance": 4013.9,
+        "average_grade": -0.1,
+        "maximum_grade": 1.2,
+        "elevation_high": 1478.8,
+        "elevation_low": 1472.1,
+        "start_latlng": [
+          40.403945,
+          -111.753734
+        ],
+        "end_latlng": [
+          40.376282,
+          -111.727223
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Pleasant Grove",
+        "state": "Utah",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3346181490050196864,
+      "resource_state": 2,
+      "name": "MCT Canyon Road TH LND200S",
+      "activity": {
+        "id": 14157542547,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 1213,
+      "moving_time": 1210,
+      "start_date": "2025-04-12T13:41:27Z",
+      "start_date_local": "2025-04-12T07:41:27Z",
+      "distance": 9179.2,
+      "start_index": 4700,
+      "end_index": 5910,
+      "device_watts": false,
+      "average_heartrate": 146.9,
+      "max_heartrate": 173.0,
+      "segment": {
+        "id": 12203943,
+        "resource_state": 2,
+        "name": "MCT Canyon Road TH LND200S",
+        "activity_type": "Ride",
+        "distance": 9179.2,
+        "average_grade": 0.0,
+        "maximum_grade": 7.8,
+        "elevation_high": 1480.7,
+        "elevation_low": 1469.4,
+        "start_latlng": [
+          40.394797,
+          -111.743824
+        ],
+        "end_latlng": [
+          40.333968,
+          -111.694243
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Pleasant Grove",
+        "state": "Utah",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3346181490048304512,
+      "resource_state": 2,
+      "name": "BYUB Stage #9",
+      "activity": {
+        "id": 14157542547,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 1283,
+      "moving_time": 1269,
+      "start_date": "2025-04-12T13:47:35Z",
+      "start_date_local": "2025-04-12T07:47:35Z",
+      "distance": 9205.6,
+      "start_index": 5067,
+      "end_index": 6347,
+      "device_watts": false,
+      "average_heartrate": 144.9,
+      "max_heartrate": 159.0,
+      "segment": {
+        "id": 19272881,
+        "resource_state": 2,
+        "name": "BYUB Stage #9",
+        "activity_type": "Ride",
+        "distance": 9205.6,
+        "average_grade": 0.0,
+        "maximum_grade": 4.0,
+        "elevation_high": 1481.2,
+        "elevation_low": 1471.9,
+        "start_latlng": [
+          40.375235,
+          -111.726859
+        ],
+        "end_latlng": [
+          40.319211,
+          -111.672132
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Pleasant Grove",
+        "state": "Utah",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3346181490049259904,
+      "resource_state": 2,
+      "name": "MCT: 1100 N to 500 N (Safe)",
+      "activity": {
+        "id": 14157542547,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 70,
+      "moving_time": 70,
+      "start_date": "2025-04-12T13:47:40Z",
+      "start_date_local": "2025-04-12T07:47:40Z",
+      "distance": 571.5,
+      "start_index": 5072,
+      "end_index": 5142,
+      "device_watts": false,
+      "average_heartrate": 145.0,
+      "max_heartrate": 149.0,
+      "segment": {
+        "id": 16067410,
+        "resource_state": 2,
+        "name": "MCT: 1100 N to 500 N (Safe)",
+        "activity_type": "Ride",
+        "distance": 571.5,
+        "average_grade": -0.0,
+        "maximum_grade": 0.2,
+        "elevation_high": 1474.7,
+        "elevation_low": 1473.7,
+        "start_latlng": [
+          40.374839,
+          -111.726642
+        ],
+        "end_latlng": [
+          40.370237,
+          -111.723799
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": null,
+        "country": null,
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3346181490051154304,
+      "resource_state": 2,
+      "name": "200 to 1500 safe",
+      "activity": {
+        "id": 14157542547,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 175,
+      "moving_time": 175,
+      "start_date": "2025-04-12T13:52:07Z",
+      "start_date_local": "2025-04-12T07:52:07Z",
+      "distance": 1304.5,
+      "start_index": 5339,
+      "end_index": 5513,
+      "device_watts": false,
+      "average_heartrate": 146.1,
+      "max_heartrate": 157.0,
+      "segment": {
+        "id": 10725384,
+        "resource_state": 2,
+        "name": "200 to 1500 safe",
+        "activity_type": "Ride",
+        "distance": 1304.5,
+        "average_grade": -0.0,
+        "maximum_grade": 5.1,
+        "elevation_high": 1467.4,
+        "elevation_low": 1465.4,
+        "start_latlng": [
+          40.360968,
+          -111.716191
+        ],
+        "end_latlng": [
+          40.352492,
+          -111.706458
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Lindon",
+        "state": "Utah",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3346181490049267072,
+      "resource_state": 2,
+      "name": "MCT: Nathanial Drive to Vending Machines (Safe)",
+      "activity": {
+        "id": 14157542547,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 75,
+      "moving_time": 75,
+      "start_date": "2025-04-12T13:53:42Z",
+      "start_date_local": "2025-04-12T07:53:42Z",
+      "distance": 595.4,
+      "start_index": 5433,
+      "end_index": 5508,
+      "device_watts": false,
+      "average_heartrate": 148.5,
+      "max_heartrate": 157.0,
+      "segment": {
+        "id": 12187246,
+        "resource_state": 2,
+        "name": "MCT: Nathanial Drive to Vending Machines (Safe)",
+        "activity_type": "Ride",
+        "distance": 595.4,
+        "average_grade": 0.6,
+        "maximum_grade": 5.5,
+        "elevation_high": 1477.6,
+        "elevation_low": 1473.1,
+        "start_latlng": [
+          40.35565,
+          -111.712496
+        ],
+        "end_latlng": [
+          40.352539,
+          -111.706962
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Lindon",
+        "state": "Utah",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3346181490048433536,
+      "resource_state": 2,
+      "name": "Murdoch Canal 400 E south to 400 N",
+      "activity": {
+        "id": 14157542547,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 142,
+      "moving_time": 142,
+      "start_date": "2025-04-12T13:55:20Z",
+      "start_date_local": "2025-04-12T07:55:20Z",
+      "distance": 1135.73,
+      "start_index": 5531,
+      "end_index": 5673,
+      "device_watts": false,
+      "average_heartrate": 147.7,
+      "max_heartrate": 153.0,
+      "segment": {
+        "id": 3601889,
+        "resource_state": 2,
+        "name": "Murdoch Canal 400 E south to 400 N",
+        "activity_type": "Ride",
+        "distance": 1135.73,
+        "average_grade": 0.1,
+        "maximum_grade": 8.1,
+        "elevation_high": 1480.2,
+        "elevation_low": 1476.6,
+        "start_latlng": [
+          40.3521111,
+          -111.70531791666667
+        ],
+        "end_latlng": [
+          40.345746883333334,
+          -111.6983953
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": null,
+        "country": null,
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3346181490050054528,
+      "resource_state": 2,
+      "name": "Murdoch Canal 400 N south to Center St Lindon",
+      "activity": {
+        "id": 14157542547,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 127,
+      "moving_time": 127,
+      "start_date": "2025-04-12T13:58:15Z",
+      "start_date_local": "2025-04-12T07:58:15Z",
+      "distance": 941.145,
+      "start_index": 5706,
+      "end_index": 5833,
+      "device_watts": false,
+      "average_heartrate": 141.6,
+      "max_heartrate": 159.0,
+      "segment": {
+        "id": 3601899,
+        "resource_state": 2,
+        "name": "Murdoch Canal 400 N south to Center St Lindon",
+        "activity_type": "Ride",
+        "distance": 941.145,
+        "average_grade": 0.1,
+        "maximum_grade": 5.7,
+        "elevation_high": 1480.2,
+        "elevation_low": 1476.8,
+        "start_latlng": [
+          40.34467741666667,
+          -111.69808676666666
+        ],
+        "end_latlng": [
+          40.338264933333335,
+          -111.69374485
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": null,
+        "country": null,
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3346181490048790912,
+      "resource_state": 2,
+      "name": "MCT Lindon Speedway",
+      "activity": {
+        "id": 14157542547,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 48,
+      "moving_time": 48,
+      "start_date": "2025-04-12T14:00:43Z",
+      "start_date_local": "2025-04-12T08:00:43Z",
+      "distance": 337.4,
+      "start_index": 5853,
+      "end_index": 5901,
+      "device_watts": false,
+      "average_heartrate": 143.0,
+      "max_heartrate": 148.0,
+      "segment": {
+        "id": 16555410,
+        "resource_state": 2,
+        "name": "MCT Lindon Speedway",
+        "activity_type": "Ride",
+        "distance": 337.4,
+        "average_grade": -0.5,
+        "maximum_grade": 1.8,
+        "elevation_high": 1481.2,
+        "elevation_low": 1479.0,
+        "start_latlng": [
+          40.337256,
+          -111.693831
+        ],
+        "end_latlng": [
+          40.334413,
+          -111.693999
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Orem",
+        "state": "Utah",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3346181490050974080,
+      "resource_state": 2,
+      "name": "Gate to Gate Past the Graves",
+      "activity": {
+        "id": 14157542547,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 111,
+      "moving_time": 111,
+      "start_date": "2025-04-12T14:09:03Z",
+      "start_date_local": "2025-04-12T08:09:03Z",
+      "distance": 865.5,
+      "start_index": 6352,
+      "end_index": 6463,
+      "device_watts": false,
+      "average_heartrate": 141.4,
+      "max_heartrate": 150.0,
+      "segment": {
+        "id": 13083061,
+        "resource_state": 2,
+        "name": "Gate to Gate Past the Graves",
+        "activity_type": "Ride",
+        "distance": 865.5,
+        "average_grade": 0.0,
+        "maximum_grade": 2.8,
+        "elevation_high": 1478.4,
+        "elevation_low": 1475.4,
+        "start_latlng": [
+          40.319633,
+          -111.672009
+        ],
+        "end_latlng": [
+          40.324483,
+          -111.679186
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Orem",
+        "state": "Utah",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3346181490048153984,
+      "resource_state": 2,
+      "name": "Murdock - 800 E Orem to 4800 W",
+      "activity": {
+        "id": 14157542547,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 1743,
+      "moving_time": 1742,
+      "start_date": "2025-04-12T14:10:25Z",
+      "start_date_local": "2025-04-12T08:10:25Z",
+      "distance": 14367.5,
+      "start_index": 6434,
+      "end_index": 8174,
+      "device_watts": false,
+      "average_heartrate": 151.0,
+      "max_heartrate": 164.0,
+      "segment": {
+        "id": 4950878,
+        "resource_state": 2,
+        "name": "Murdock - 800 E Orem to 4800 W",
+        "activity_type": "Ride",
+        "distance": 14367.5,
+        "average_grade": -0.0,
+        "maximum_grade": 8.1,
+        "elevation_high": 1484.3,
+        "elevation_low": 1470.4,
+        "start_latlng": [
+          40.322964,
+          -111.67709
+        ],
+        "end_latlng": [
+          40.40755,
+          -111.77313
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Orem",
+        "state": "UT",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3346181490048096640,
+      "resource_state": 2,
+      "name": "Murdock Sprints",
+      "activity": {
+        "id": 14157542547,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 63,
+      "moving_time": 63,
+      "start_date": "2025-04-12T14:11:11Z",
+      "start_date_local": "2025-04-12T08:11:11Z",
+      "distance": 551.9,
+      "start_index": 6480,
+      "end_index": 6543,
+      "device_watts": false,
+      "average_heartrate": 148.3,
+      "max_heartrate": 154.0,
+      "segment": {
+        "id": 18708150,
+        "resource_state": 2,
+        "name": "Murdock Sprints",
+        "activity_type": "Ride",
+        "distance": 551.9,
+        "average_grade": 0.2,
+        "maximum_grade": 2.6,
+        "elevation_high": 1476.7,
+        "elevation_low": 1475.0,
+        "start_latlng": [
+          40.32516,
+          -111.680092
+        ],
+        "end_latlng": [
+          40.32617,
+          -111.686088
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Orem",
+        "state": "Utah",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3346181490051372416,
+      "resource_state": 2,
+      "name": "Canyon Park to 1100 N",
+      "activity": {
+        "id": 14157542547,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 988,
+      "moving_time": 987,
+      "start_date": "2025-04-12T14:11:17Z",
+      "start_date_local": "2025-04-12T08:11:17Z",
+      "distance": 7947.9,
+      "start_index": 6486,
+      "end_index": 7473,
+      "device_watts": false,
+      "average_heartrate": 149.0,
+      "max_heartrate": 162.0,
+      "segment": {
+        "id": 24089884,
+        "resource_state": 2,
+        "name": "Canyon Park to 1100 N",
+        "activity_type": "Ride",
+        "distance": 7947.9,
+        "average_grade": -0.0,
+        "maximum_grade": 6.6,
+        "elevation_high": 1485.8,
+        "elevation_low": 1481.8,
+        "start_latlng": [
+          40.325336,
+          -111.680656
+        ],
+        "end_latlng": [
+          40.374443,
+          -111.726494
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Orem",
+        "state": "Utah",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3346181490051036544,
+      "resource_state": 2,
+      "name": "MCT: 1600 N to 2000 N (Safe)",
+      "activity": {
+        "id": 14157542547,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 134,
+      "moving_time": 134,
+      "start_date": "2025-04-12T14:12:47Z",
+      "start_date_local": "2025-04-12T08:12:47Z",
+      "distance": 1153.7,
+      "start_index": 6576,
+      "end_index": 6710,
+      "device_watts": false,
+      "average_heartrate": 142.1,
+      "max_heartrate": 149.0,
+      "segment": {
+        "id": 14338600,
+        "resource_state": 2,
+        "name": "MCT: 1600 N to 2000 N (Safe)",
+        "activity_type": "Ride",
+        "distance": 1153.7,
+        "average_grade": 0.3,
+        "maximum_grade": 1.6,
+        "elevation_high": 1480.1,
+        "elevation_low": 1476.0,
+        "start_latlng": [
+          40.327003,
+          -111.687079
+        ],
+        "end_latlng": [
+          40.333487,
+          -111.695051
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Orem",
+        "state": "Utah",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3346181490048166272,
+      "resource_state": 2,
+      "name": "MCT LND200S to Canyon Road TH",
+      "activity": {
+        "id": 14157542547,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 1067,
+      "moving_time": 1066,
+      "start_date": "2025-04-12T14:15:17Z",
+      "start_date_local": "2025-04-12T08:15:17Z",
+      "distance": 9173.6,
+      "start_index": 6726,
+      "end_index": 7791,
+      "device_watts": false,
+      "average_heartrate": 152.5,
+      "max_heartrate": 164.0,
+      "segment": {
+        "id": 12203925,
+        "resource_state": 2,
+        "name": "MCT LND200S to Canyon Road TH",
+        "activity_type": "Ride",
+        "distance": 9173.6,
+        "average_grade": -0.0,
+        "maximum_grade": 5.9,
+        "elevation_high": 1481.2,
+        "elevation_low": 1472.3,
+        "start_latlng": [
+          40.333953,
+          -111.694248
+        ],
+        "end_latlng": [
+          40.394848,
+          -111.74376
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Orem",
+        "state": "Utah",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3346181490050181504,
+      "resource_state": 2,
+      "name": "Murdock Canal: Cntr. St. to 400 N.",
+      "activity": {
+        "id": 14157542547,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 107,
+      "moving_time": 107,
+      "start_date": "2025-04-12T14:16:21Z",
+      "start_date_local": "2025-04-12T08:16:21Z",
+      "distance": 953.3,
+      "start_index": 6790,
+      "end_index": 6897,
+      "device_watts": false,
+      "average_heartrate": 153.5,
+      "max_heartrate": 160.0,
+      "segment": {
+        "id": 4115417,
+        "resource_state": 2,
+        "name": "Murdock Canal: Cntr. St. to 400 N.",
+        "activity_type": "Ride",
+        "distance": 953.3,
+        "average_grade": -0.1,
+        "maximum_grade": 1.9,
+        "elevation_high": 1480.2,
+        "elevation_low": 1476.8,
+        "start_latlng": [
+          40.338249,
+          -111.693711
+        ],
+        "end_latlng": [
+          40.344775,
+          -111.698126
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Lindon",
+        "state": "UT",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3346181490050847104,
+      "resource_state": 2,
+      "name": "Center Street to Lindon View Trailhead",
+      "activity": {
+        "id": 14157542547,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 60,
+      "moving_time": 60,
+      "start_date": "2025-04-12T14:16:45Z",
+      "start_date_local": "2025-04-12T08:16:45Z",
+      "distance": 566.9,
+      "start_index": 6814,
+      "end_index": 6874,
+      "device_watts": false,
+      "average_heartrate": 154.5,
+      "max_heartrate": 159.0,
+      "segment": {
+        "id": 10333134,
+        "resource_state": 2,
+        "name": "Center Street to Lindon View Trailhead",
+        "activity_type": "Ride",
+        "distance": 566.9,
+        "average_grade": -0.3,
+        "maximum_grade": 4.0,
+        "elevation_high": 1480.7,
+        "elevation_low": 1476.8,
+        "start_latlng": [
+          40.339885,
+          -111.694441
+        ],
+        "end_latlng": [
+          40.343093,
+          -111.697338
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Orem",
+        "state": "Utah",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3346181490047902080,
+      "resource_state": 2,
+      "name": "Jumpers ",
+      "activity": {
+        "id": 14157542547,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 36,
+      "moving_time": 36,
+      "start_date": "2025-04-12T14:17:01Z",
+      "start_date_local": "2025-04-12T08:17:01Z",
+      "distance": 326.7,
+      "start_index": 6830,
+      "end_index": 6866,
+      "device_watts": false,
+      "average_heartrate": 156.3,
+      "max_heartrate": 159.0,
+      "segment": {
+        "id": 23861642,
+        "resource_state": 2,
+        "name": "Jumpers ",
+        "activity_type": "Ride",
+        "distance": 326.7,
+        "average_grade": 0.3,
+        "maximum_grade": 0.6,
+        "elevation_high": 1477.8,
+        "elevation_low": 1476.7,
+        "start_latlng": [
+          40.339997,
+          -111.696298
+        ],
+        "end_latlng": [
+          40.342624,
+          -111.69677
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Lindon",
+        "state": "Utah",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3346181490051122560,
+      "resource_state": 2,
+      "name": "Murdock Canal Trail / 400n to 1500e NB",
+      "activity": {
+        "id": 14157542547,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 141,
+      "moving_time": 141,
+      "start_date": "2025-04-12T14:18:33Z",
+      "start_date_local": "2025-04-12T08:18:33Z",
+      "distance": 1143.2,
+      "start_index": 6922,
+      "end_index": 7063,
+      "device_watts": false,
+      "average_heartrate": 150.3,
+      "max_heartrate": 155.0,
+      "segment": {
+        "id": 12593513,
+        "resource_state": 2,
+        "name": "Murdock Canal Trail / 400n to 1500e NB",
+        "activity_type": "Ride",
+        "distance": 1143.2,
+        "average_grade": -0.2,
+        "maximum_grade": 2.1,
+        "elevation_high": 1471.8,
+        "elevation_low": 1467.8,
+        "start_latlng": [
+          40.345823,
+          -111.698376
+        ],
+        "end_latlng": [
+          40.352176,
+          -111.705433
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Lindon",
+        "state": "Utah",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3346181490049893760,
+      "resource_state": 2,
+      "name": "Nathanial Dr to 200 South (Safe)",
+      "activity": {
+        "id": 14157542547,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 63,
+      "moving_time": 63,
+      "start_date": "2025-04-12T14:22:26Z",
+      "start_date_local": "2025-04-12T08:22:26Z",
+      "distance": 522.5,
+      "start_index": 7155,
+      "end_index": 7217,
+      "device_watts": false,
+      "average_heartrate": 153.2,
+      "max_heartrate": 157.0,
+      "segment": {
+        "id": 18533233,
+        "resource_state": 2,
+        "name": "Nathanial Dr to 200 South (Safe)",
+        "activity_type": "Ride",
+        "distance": 522.5,
+        "average_grade": -0.9,
+        "maximum_grade": 0.4,
+        "elevation_high": 1461.6,
+        "elevation_low": 1456.2,
+        "start_latlng": [
+          40.35623,
+          -111.71306
+        ],
+        "end_latlng": [
+          40.360351,
+          -111.715911
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Lindon",
+        "state": "Utah",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3346181490050674048,
+      "resource_state": 2,
+      "name": "PG to Cedar Hills...the non-hazardous route",
+      "activity": {
+        "id": 14157542547,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 955,
+      "moving_time": 954,
+      "start_date": "2025-04-12T14:23:18Z",
+      "start_date_local": "2025-04-12T08:23:18Z",
+      "distance": 7942.7,
+      "start_index": 7206,
+      "end_index": 8159,
+      "device_watts": false,
+      "average_heartrate": 153.3,
+      "max_heartrate": 164.0,
+      "segment": {
+        "id": 14960488,
+        "resource_state": 2,
+        "name": "PG to Cedar Hills...the non-hazardous route",
+        "activity_type": "Ride",
+        "distance": 7942.7,
+        "average_grade": -0.0,
+        "maximum_grade": 6.7,
+        "elevation_high": 1478.9,
+        "elevation_low": 1471.4,
+        "start_latlng": [
+          40.359596,
+          -111.715593
+        ],
+        "end_latlng": [
+          40.407083,
+          -111.771537
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": null,
+        "country": null,
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3346181490050143616,
+      "resource_state": 2,
+      "name": "1100 N to Highland Glen park",
+      "activity": {
+        "id": 14157542547,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 773,
+      "moving_time": 773,
+      "start_date": "2025-04-12T14:28:03Z",
+      "start_date_local": "2025-04-12T08:28:03Z",
+      "distance": 6572.8,
+      "start_index": 7491,
+      "end_index": 8262,
+      "device_watts": false,
+      "average_heartrate": 154.4,
+      "max_heartrate": 164.0,
+      "segment": {
+        "id": 20602102,
+        "resource_state": 2,
+        "name": "1100 N to Highland Glen park",
+        "activity_type": "Ride",
+        "distance": 6572.8,
+        "average_grade": -0.1,
+        "maximum_grade": 6.7,
+        "elevation_high": 1474.2,
+        "elevation_low": 1464.6,
+        "start_latlng": [
+          40.375599,
+          -111.726833
+        ],
+        "end_latlng": [
+          40.409415,
+          -111.78147
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Pleasant Grove",
+        "state": "Utah",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3346181490050630016,
+      "resource_state": 2,
+      "name": "Murdoch PG 1100N to CH 900W - Safe",
+      "activity": {
+        "id": 14157542547,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 437,
+      "moving_time": 437,
+      "start_date": "2025-04-12T14:28:16Z",
+      "start_date_local": "2025-04-12T08:28:16Z",
+      "distance": 3914.7,
+      "start_index": 7504,
+      "end_index": 7940,
+      "device_watts": false,
+      "average_heartrate": 156.0,
+      "max_heartrate": 164.0,
+      "segment": {
+        "id": 8949008,
+        "resource_state": 2,
+        "name": "Murdoch PG 1100N to CH 900W - Safe",
+        "activity_type": "Ride",
+        "distance": 3914.7,
+        "average_grade": -0.0,
+        "maximum_grade": 6.2,
+        "elevation_high": 1444.6,
+        "elevation_low": 1439.8,
+        "start_latlng": [
+          40.37645,
+          -111.727386
+        ],
+        "end_latlng": [
+          40.403525,
+          -111.75274
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Lindon",
+        "state": "Utah",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3346181490050069888,
+      "resource_state": 2,
+      "name": "Foothill Path plus",
+      "activity": {
+        "id": 14157542547,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 233,
+      "moving_time": 233,
+      "start_date": "2025-04-12T14:28:20Z",
+      "start_date_local": "2025-04-12T08:28:20Z",
+      "distance": 2480.9,
+      "start_index": 7508,
+      "end_index": 7740,
+      "device_watts": false,
+      "average_heartrate": 155.3,
+      "max_heartrate": 164.0,
+      "segment": {
+        "id": 35999318,
+        "resource_state": 2,
+        "name": "Foothill Path plus",
+        "activity_type": "Ride",
+        "distance": 2480.9,
+        "average_grade": 0.0,
+        "maximum_grade": 12.6,
+        "elevation_high": 1505.8,
+        "elevation_low": 1484.6,
+        "start_latlng": [
+          40.376724,
+          -111.727584
+        ],
+        "end_latlng": [
+          40.391878,
+          -111.740128
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Pleasant Grove",
+        "state": "Utah",
+        "country": "USA",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3346181490048540032,
+      "resource_state": 2,
+      "name": "almost the first half mile",
+      "activity": {
+        "id": 14157542547,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 91,
+      "moving_time": 91,
+      "start_date": "2025-04-12T14:28:22Z",
+      "start_date_local": "2025-04-12T08:28:22Z",
+      "distance": 823.7,
+      "start_index": 7510,
+      "end_index": 7600,
+      "device_watts": false,
+      "average_heartrate": 158.0,
+      "max_heartrate": 164.0,
+      "segment": {
+        "id": 16302632,
+        "resource_state": 2,
+        "name": "almost the first half mile",
+        "activity_type": "Ride",
+        "distance": 823.7,
+        "average_grade": 0.0,
+        "maximum_grade": 0.3,
+        "elevation_high": 1470.2,
+        "elevation_low": 1469.6,
+        "start_latlng": [
+          40.376906,
+          -111.727708
+        ],
+        "end_latlng": [
+          40.382752,
+          -111.731782
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Lindon",
+        "state": "Utah",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3346181490050666880,
+      "resource_state": 2,
+      "name": "MCT: East Bench Goin' North",
+      "activity": {
+        "id": 14157542547,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 221,
+      "moving_time": 221,
+      "start_date": "2025-04-12T14:30:03Z",
+      "start_date_local": "2025-04-12T08:30:03Z",
+      "distance": 2014.3,
+      "start_index": 7610,
+      "end_index": 7831,
+      "device_watts": false,
+      "average_heartrate": 155.5,
+      "max_heartrate": 163.0,
+      "segment": {
+        "id": 20585641,
+        "resource_state": 2,
+        "name": "MCT: East Bench Goin' North",
+        "activity_type": "Ride",
+        "distance": 2014.3,
+        "average_grade": -0.0,
+        "maximum_grade": 8.6,
+        "elevation_high": 1477.0,
+        "elevation_low": 1469.4,
+        "start_latlng": [
+          40.383505,
+          -111.731867
+        ],
+        "end_latlng": [
+          40.397476,
+          -111.746104
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Pleasant Grove",
+        "state": "Utah",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3346181490047549824,
+      "resource_state": 2,
+      "name": "North end of the MCT",
+      "activity": {
+        "id": 14157542547,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 1448,
+      "moving_time": 1448,
+      "start_date": "2025-04-12T14:33:10Z",
+      "start_date_local": "2025-04-12T08:33:10Z",
+      "distance": 11307.8,
+      "start_index": 7797,
+      "end_index": 9243,
+      "device_watts": false,
+      "average_heartrate": 153.7,
+      "max_heartrate": 181.0,
+      "segment": {
+        "id": 31924087,
+        "resource_state": 2,
+        "name": "North end of the MCT",
+        "activity_type": "Ride",
+        "distance": 11307.8,
+        "average_grade": -0.0,
+        "maximum_grade": 10.1,
+        "elevation_high": 1515.6,
+        "elevation_low": 1489.6,
+        "start_latlng": [
+          40.395161,
+          -111.744238
+        ],
+        "end_latlng": [
+          40.431966,
+          -111.848959
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Pleasant Grove",
+        "state": "Utah",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3346181490047393152,
+      "resource_state": 2,
+      "name": "Jeff's 300 meter sprint",
+      "activity": {
+        "id": 14157542547,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 34,
+      "moving_time": 34,
+      "start_date": "2025-04-12T14:34:55Z",
+      "start_date_local": "2025-04-12T08:34:55Z",
+      "distance": 297.9,
+      "start_index": 7902,
+      "end_index": 7936,
+      "device_watts": false,
+      "average_heartrate": 152.3,
+      "max_heartrate": 154.0,
+      "segment": {
+        "id": 11947449,
+        "resource_state": 2,
+        "name": "Jeff's 300 meter sprint",
+        "activity_type": "Ride",
+        "distance": 297.9,
+        "average_grade": -0.7,
+        "maximum_grade": 1.5,
+        "elevation_high": 1496.4,
+        "elevation_low": 1494.2,
+        "start_latlng": [
+          40.402081,
+          -111.749336
+        ],
+        "end_latlng": [
+          40.40336,
+          -111.752412
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Pleasant Grove",
+        "state": "Utah",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3346181490049355136,
+      "resource_state": 2,
+      "name": "MCT: 4000 W to 4500 W (Safe)",
+      "activity": {
+        "id": 14157542547,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 120,
+      "moving_time": 120,
+      "start_date": "2025-04-12T14:36:02Z",
+      "start_date_local": "2025-04-12T08:36:02Z",
+      "distance": 926.7,
+      "start_index": 7969,
+      "end_index": 8088,
+      "device_watts": false,
+      "average_heartrate": 148.8,
+      "max_heartrate": 154.0,
+      "segment": {
+        "id": 14354970,
+        "resource_state": 2,
+        "name": "MCT: 4000 W to 4500 W (Safe)",
+        "activity_type": "Ride",
+        "distance": 926.7,
+        "average_grade": -0.0,
+        "maximum_grade": 1.1,
+        "elevation_high": 1473.7,
+        "elevation_low": 1471.7,
+        "start_latlng": [
+          40.404176,
+          -111.754785
+        ],
+        "end_latlng": [
+          40.405319,
+          -111.76547
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Pleasant Grove",
+        "state": "Utah",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3346181490048871808,
+      "resource_state": 2,
+      "name": "Ramping up",
+      "activity": {
+        "id": 14157542547,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 241,
+      "moving_time": 241,
+      "start_date": "2025-04-12T14:38:19Z",
+      "start_date_local": "2025-04-12T08:38:19Z",
+      "distance": 2176.7,
+      "start_index": 8105,
+      "end_index": 8346,
+      "device_watts": false,
+      "average_heartrate": 155.6,
+      "max_heartrate": 181.0,
+      "segment": {
+        "id": 35705350,
+        "resource_state": 2,
+        "name": "Ramping up",
+        "activity_type": "Ride",
+        "distance": 2176.7,
+        "average_grade": -0.1,
+        "maximum_grade": 5.4,
+        "elevation_high": 1485.6,
+        "elevation_low": 1471.2,
+        "start_latlng": [
+          40.405587,
+          -111.766592
+        ],
+        "end_latlng": [
+          40.409858,
+          -111.788931
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Cedar Hills",
+        "state": "Utah",
+        "country": "USA",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3346181490051120512,
+      "resource_state": 2,
+      "name": "MCT: N 4800 W West Sprint (Safe)",
+      "activity": {
+        "id": 14157542547,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 80,
+      "moving_time": 80,
+      "start_date": "2025-04-12T14:39:35Z",
+      "start_date_local": "2025-04-12T08:39:35Z",
+      "distance": 642.5,
+      "start_index": 8181,
+      "end_index": 8261,
+      "device_watts": false,
+      "average_heartrate": 157.1,
+      "max_heartrate": 164.0,
+      "segment": {
+        "id": 14537839,
+        "resource_state": 2,
+        "name": "MCT: N 4800 W West Sprint (Safe)",
+        "activity_type": "Ride",
+        "distance": 642.5,
+        "average_grade": -0.2,
+        "maximum_grade": 2.1,
+        "elevation_high": 1473.9,
+        "elevation_low": 1470.6,
+        "start_latlng": [
+          40.407676,
+          -111.774116
+        ],
+        "end_latlng": [
+          40.409325,
+          -111.781303
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Highland",
+        "state": "Utah",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3346181490049070464,
+      "resource_state": 2,
+      "name": "Final Sprint to Alpine Hwy",
+      "activity": {
+        "id": 14157542547,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 48,
+      "moving_time": 48,
+      "start_date": "2025-04-12T14:41:06Z",
+      "start_date_local": "2025-04-12T08:41:06Z",
+      "distance": 513.5,
+      "start_index": 8272,
+      "end_index": 8320,
+      "device_watts": false,
+      "average_heartrate": 146.7,
+      "max_heartrate": 159.0,
+      "segment": {
+        "id": 28485623,
+        "resource_state": 2,
+        "name": "Final Sprint to Alpine Hwy",
+        "activity_type": "Ride",
+        "distance": 513.5,
+        "average_grade": 1.4,
+        "maximum_grade": 5.8,
+        "elevation_high": 1472.6,
+        "elevation_low": 1463.8,
+        "start_latlng": [
+          40.409196,
+          -111.782946
+        ],
+        "end_latlng": [
+          40.408673,
+          -111.788835
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Highland",
+        "state": "Utah",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3346181490048699776,
+      "resource_state": 2,
+      "name": "Murdock - Alpine Hwy to I-15",
+      "activity": {
+        "id": 14157542547,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 1191,
+      "moving_time": 1191,
+      "start_date": "2025-04-12T14:42:58Z",
+      "start_date_local": "2025-04-12T08:42:58Z",
+      "distance": 9679.03,
+      "start_index": 8384,
+      "end_index": 9573,
+      "device_watts": false,
+      "average_heartrate": 153.4,
+      "max_heartrate": 178.0,
+      "segment": {
+        "id": 3707326,
+        "resource_state": 2,
+        "name": "Murdock - Alpine Hwy to I-15",
+        "activity_type": "Ride",
+        "distance": 9679.03,
+        "average_grade": -0.4,
+        "maximum_grade": 16.9,
+        "elevation_high": 1470.2,
+        "elevation_low": 1431.4,
+        "start_latlng": [
+          40.409866666666666,
+          -111.78916666666667
+        ],
+        "end_latlng": [
+          40.431185,
+          -111.88377833333334
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Highland",
+        "state": "UT",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3346181490049023360,
+      "resource_state": 2,
+      "name": "5300W to 6000W sprint",
+      "activity": {
+        "id": 14157542547,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 141,
+      "moving_time": 141,
+      "start_date": "2025-04-12T14:43:10Z",
+      "start_date_local": "2025-04-12T08:43:10Z",
+      "distance": 1169.7,
+      "start_index": 8396,
+      "end_index": 8537,
+      "device_watts": false,
+      "average_heartrate": 151.8,
+      "max_heartrate": 164.0,
+      "segment": {
+        "id": 13214104,
+        "resource_state": 2,
+        "name": "5300W to 6000W sprint",
+        "activity_type": "Ride",
+        "distance": 1169.7,
+        "average_grade": 0.0,
+        "maximum_grade": 0.5,
+        "elevation_high": 1469.7,
+        "elevation_low": 1469.1,
+        "start_latlng": [
+          40.410006,
+          -111.790353
+        ],
+        "end_latlng": [
+          40.415482,
+          -111.801521
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Highland",
+        "state": "Utah",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3346181490048506240,
+      "resource_state": 2,
+      "name": "MCT Highland to Smith's",
+      "activity": {
+        "id": 14157542547,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 413,
+      "moving_time": 413,
+      "start_date": "2025-04-12T14:45:49Z",
+      "start_date_local": "2025-04-12T08:45:49Z",
+      "distance": 3011.5,
+      "start_index": 8555,
+      "end_index": 8967,
+      "device_watts": false,
+      "average_heartrate": 151.5,
+      "max_heartrate": 178.0,
+      "segment": {
+        "id": 18289994,
+        "resource_state": 2,
+        "name": "MCT Highland to Smith's",
+        "activity_type": "Ride",
+        "distance": 3011.5,
+        "average_grade": -0.1,
+        "maximum_grade": 11.6,
+        "elevation_high": 1470.6,
+        "elevation_low": 1444.8,
+        "start_latlng": [
+          40.415826,
+          -111.802342
+        ],
+        "end_latlng": [
+          40.428081,
+          -111.825002
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "American Fork",
+        "state": "Utah",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3346181490049218944,
+      "resource_state": 2,
+      "name": "MCT: 6000 to MH Park (Safe)",
+      "activity": {
+        "id": 14157542547,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 97,
+      "moving_time": 97,
+      "start_date": "2025-04-12T14:45:54Z",
+      "start_date_local": "2025-04-12T08:45:54Z",
+      "distance": 829.5,
+      "start_index": 8560,
+      "end_index": 8657,
+      "device_watts": false,
+      "average_heartrate": 141.9,
+      "max_heartrate": 146.0,
+      "segment": {
+        "id": 13143087,
+        "resource_state": 2,
+        "name": "MCT: 6000 to MH Park (Safe)",
+        "activity_type": "Ride",
+        "distance": 829.5,
+        "average_grade": -0.3,
+        "maximum_grade": 0.3,
+        "elevation_high": 1468.8,
+        "elevation_low": 1466.6,
+        "start_latlng": [
+          40.415969,
+          -111.802768
+        ],
+        "end_latlng": [
+          40.419759,
+          -111.81083
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "American Fork",
+        "state": "Utah",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3346181490048192896,
+      "resource_state": 2,
+      "name": "Mitchell Hollow to Dry Creek",
+      "activity": {
+        "id": 14157542547,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 113,
+      "moving_time": 113,
+      "start_date": "2025-04-12T14:48:15Z",
+      "start_date_local": "2025-04-12T08:48:15Z",
+      "distance": 876.0,
+      "start_index": 8701,
+      "end_index": 8814,
+      "device_watts": false,
+      "average_heartrate": 156.0,
+      "max_heartrate": 165.0,
+      "segment": {
+        "id": 35727658,
+        "resource_state": 2,
+        "name": "Mitchell Hollow to Dry Creek",
+        "activity_type": "Ride",
+        "distance": 876.0,
+        "average_grade": 0.7,
+        "maximum_grade": 5.7,
+        "elevation_high": 1469.0,
+        "elevation_low": 1462.4,
+        "start_latlng": [
+          40.420662,
+          -111.814568
+        ],
+        "end_latlng": [
+          40.425968,
+          -111.820564
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Highland",
+        "state": "Utah",
+        "country": "USA",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3346181490049340800,
+      "resource_state": 2,
+      "name": "Canterbury Drive to The End",
+      "activity": {
+        "id": 14157542547,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 757,
+      "moving_time": 757,
+      "start_date": "2025-04-12T14:50:13Z",
+      "start_date_local": "2025-04-12T08:50:13Z",
+      "distance": 6080.0,
+      "start_index": 8819,
+      "end_index": 9574,
+      "device_watts": false,
+      "average_heartrate": 155.5,
+      "max_heartrate": 178.0,
+      "segment": {
+        "id": 4533286,
+        "resource_state": 2,
+        "name": "Canterbury Drive to The End",
+        "activity_type": "Ride",
+        "distance": 6080.0,
+        "average_grade": -0.6,
+        "maximum_grade": 7.7,
+        "elevation_high": 1477.2,
+        "elevation_low": 1439.7,
+        "start_latlng": [
+          40.426078,
+          -111.820762
+        ],
+        "end_latlng": [
+          40.431194,
+          -111.883863
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Lehi",
+        "state": "UT",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3346181490050489728,
+      "resource_state": 2,
+      "name": "Dry Creek Gully Symmetric (SE -> NW)",
+      "activity": {
+        "id": 14157542547,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 166,
+      "moving_time": 166,
+      "start_date": "2025-04-12T14:50:13Z",
+      "start_date_local": "2025-04-12T08:50:13Z",
+      "distance": 971.9,
+      "start_index": 8819,
+      "end_index": 8984,
+      "device_watts": false,
+      "average_heartrate": 157.7,
+      "max_heartrate": 178.0,
+      "segment": {
+        "id": 17815407,
+        "resource_state": 2,
+        "name": "Dry Creek Gully Symmetric (SE -> NW)",
+        "activity_type": "Ride",
+        "distance": 971.9,
+        "average_grade": -0.1,
+        "maximum_grade": 13.4,
+        "elevation_high": 1468.6,
+        "elevation_low": 1442.6,
+        "start_latlng": [
+          40.426094,
+          -111.820764
+        ],
+        "end_latlng": [
+          40.428605,
+          -111.825614
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Lehi",
+        "state": "Utah",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3346181490050743680,
+      "resource_state": 2,
+      "name": "MCT: Gully'n Down South Side",
+      "activity": {
+        "id": 14157542547,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 58,
+      "moving_time": 58,
+      "start_date": "2025-04-12T14:50:16Z",
+      "start_date_local": "2025-04-12T08:50:16Z",
+      "distance": 362.2,
+      "start_index": 8822,
+      "end_index": 8880,
+      "device_watts": false,
+      "average_heartrate": 141.9,
+      "max_heartrate": 159.0,
+      "segment": {
+        "id": 12722446,
+        "resource_state": 2,
+        "name": "MCT: Gully'n Down South Side",
+        "activity_type": "Ride",
+        "distance": 362.2,
+        "average_grade": -6.0,
+        "maximum_grade": 9.8,
+        "elevation_high": 1467.0,
+        "elevation_low": 1444.1,
+        "start_latlng": [
+          40.426213,
+          -111.820946
+        ],
+        "end_latlng": [
+          40.42713,
+          -111.822456
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Lehi",
+        "state": "Utah",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3346181490051128704,
+      "resource_state": 2,
+      "name": "Trail climb North",
+      "activity": {
+        "id": 14157542547,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 99,
+      "moving_time": 99,
+      "start_date": "2025-04-12T14:51:10Z",
+      "start_date_local": "2025-04-12T08:51:10Z",
+      "distance": 577.7,
+      "start_index": 8876,
+      "end_index": 8974,
+      "device_watts": false,
+      "average_heartrate": 164.5,
+      "max_heartrate": 178.0,
+      "segment": {
+        "id": 6696248,
+        "resource_state": 2,
+        "name": "Trail climb North",
+        "activity_type": "Ride",
+        "distance": 577.7,
+        "average_grade": 3.9,
+        "maximum_grade": 15.1,
+        "elevation_high": 1466.2,
+        "elevation_low": 1443.0,
+        "start_latlng": [
+          40.427309,
+          -111.822195
+        ],
+        "end_latlng": [
+          40.427996,
+          -111.825802
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Lehi",
+        "state": "UT",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3346181490050683264,
+      "resource_state": 2,
+      "name": "Murdoch Canal Trail: Dry Creek Canal to Morning Vista Rd",
+      "activity": {
+        "id": 14157542547,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 481,
+      "moving_time": 481,
+      "start_date": "2025-04-12T14:52:36Z",
+      "start_date_local": "2025-04-12T08:52:36Z",
+      "distance": 3983.5,
+      "start_index": 8961,
+      "end_index": 9441,
+      "device_watts": false,
+      "average_heartrate": 159.4,
+      "max_heartrate": 177.0,
+      "segment": {
+        "id": 12329812,
+        "resource_state": 2,
+        "name": "Murdoch Canal Trail: Dry Creek Canal to Morning Vista Rd",
+        "activity_type": "Ride",
+        "distance": 3983.5,
+        "average_grade": 0.1,
+        "maximum_grade": 3.4,
+        "elevation_high": 1471.0,
+        "elevation_low": 1464.6,
+        "start_latlng": [
+          40.427954,
+          -111.824842
+        ],
+        "end_latlng": [
+          40.431912,
+          -111.868689
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Lehi",
+        "state": "Utah",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3346181490048696704,
+      "resource_state": 2,
+      "name": "Trail from N7200 west to N center street",
+      "activity": {
+        "id": 14157542547,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 170,
+      "moving_time": 170,
+      "start_date": "2025-04-12T14:54:14Z",
+      "start_date_local": "2025-04-12T08:54:14Z",
+      "distance": 1504.64,
+      "start_index": 9059,
+      "end_index": 9229,
+      "device_watts": false,
+      "average_heartrate": 155.4,
+      "max_heartrate": 161.0,
+      "segment": {
+        "id": 1954087,
+        "resource_state": 2,
+        "name": "Trail from N7200 west to N center street",
+        "activity_type": "Ride",
+        "distance": 1504.64,
+        "average_grade": 0.1,
+        "maximum_grade": 1.9,
+        "elevation_high": 1412.8,
+        "elevation_low": 1409.3,
+        "start_latlng": [
+          40.430375,
+          -111.830504
+        ],
+        "end_latlng": [
+          40.431888,
+          -111.84749
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Lehi",
+        "state": "UT",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3346181490051113344,
+      "resource_state": 2,
+      "name": "Ralphs Post-Dinner sprint",
+      "activity": {
+        "id": 14157542547,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 65,
+      "moving_time": 65,
+      "start_date": "2025-04-12T14:55:13Z",
+      "start_date_local": "2025-04-12T08:55:13Z",
+      "distance": 630.6,
+      "start_index": 9118,
+      "end_index": 9183,
+      "device_watts": false,
+      "average_heartrate": 157.5,
+      "max_heartrate": 161.0,
+      "segment": {
+        "id": 30152155,
+        "resource_state": 2,
+        "name": "Ralphs Post-Dinner sprint",
+        "activity_type": "Ride",
+        "distance": 630.6,
+        "average_grade": -0.1,
+        "maximum_grade": 1.4,
+        "elevation_high": 1468.8,
+        "elevation_low": 1468.0,
+        "start_latlng": [
+          40.430952,
+          -111.83551
+        ],
+        "end_latlng": [
+          40.431424,
+          -111.842501
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Lehi",
+        "state": "Utah",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3346181490049991040,
+      "resource_state": 2,
+      "name": "Center St to Lehi block Trail",
+      "activity": {
+        "id": 14157542547,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 321,
+      "moving_time": 321,
+      "start_date": "2025-04-12T14:57:28Z",
+      "start_date_local": "2025-04-12T08:57:28Z",
+      "distance": 2848.5,
+      "start_index": 9253,
+      "end_index": 9573,
+      "device_watts": false,
+      "average_heartrate": 154.3,
+      "max_heartrate": 167.0,
+      "segment": {
+        "id": 4715272,
+        "resource_state": 2,
+        "name": "Center St to Lehi block Trail",
+        "activity_type": "Ride",
+        "distance": 2848.5,
+        "average_grade": -0.9,
+        "maximum_grade": 4.7,
+        "elevation_high": 1438.8,
+        "elevation_low": 1405.6,
+        "start_latlng": [
+          40.432073,
+          -111.850186
+        ],
+        "end_latlng": [
+          40.431258,
+          -111.88379
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Lehi",
+        "state": "UT",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3346181490050930048,
+      "resource_state": 2,
+      "name": "The Final MCX Downhill",
+      "activity": {
+        "id": 14157542547,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 120,
+      "moving_time": 120,
+      "start_date": "2025-04-12T15:00:47Z",
+      "start_date_local": "2025-04-12T09:00:47Z",
+      "distance": 1220.7,
+      "start_index": 9451,
+      "end_index": 9571,
+      "device_watts": false,
+      "average_heartrate": 140.8,
+      "max_heartrate": 160.0,
+      "segment": {
+        "id": 11802651,
+        "resource_state": 2,
+        "name": "The Final MCX Downhill",
+        "activity_type": "Ride",
+        "distance": 1220.7,
+        "average_grade": -3.1,
+        "maximum_grade": 0.4,
+        "elevation_high": 1469.5,
+        "elevation_low": 1432.2,
+        "start_latlng": [
+          40.43222,
+          -111.869779
+        ],
+        "end_latlng": [
+          40.431247,
+          -111.883556
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Lehi",
+        "state": "Utah",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3346181490046306688,
+      "resource_state": 2,
+      "name": "The L\u00f6\u00f6p DH",
+      "activity": {
+        "id": 14157542547,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 61,
+      "moving_time": 61,
+      "start_date": "2025-04-12T15:03:50Z",
+      "start_date_local": "2025-04-12T09:03:50Z",
+      "distance": 509.6,
+      "start_index": 9634,
+      "end_index": 9695,
+      "device_watts": false,
+      "average_heartrate": 126.0,
+      "max_heartrate": 130.0,
+      "segment": {
+        "id": 26601195,
+        "resource_state": 2,
+        "name": "The L\u00f6\u00f6p DH",
+        "activity_type": "Ride",
+        "distance": 509.6,
+        "average_grade": -3.1,
+        "maximum_grade": 2.2,
+        "elevation_high": 1420.8,
+        "elevation_low": 1404.8,
+        "start_latlng": [
+          40.431289,
+          -111.888019
+        ],
+        "end_latlng": [
+          40.431069,
+          -111.891739
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Lehi",
+        "state": "Utah",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3346181490044889472,
+      "resource_state": 2,
+      "name": "TGP Drag",
+      "activity": {
+        "id": 14157542547,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 125,
+      "moving_time": 125,
+      "start_date": "2025-04-12T15:08:47Z",
+      "start_date_local": "2025-04-12T09:08:47Z",
+      "distance": 1099.3,
+      "start_index": 9931,
+      "end_index": 10056,
+      "device_watts": false,
+      "average_heartrate": 158.2,
+      "max_heartrate": 164.0,
+      "segment": {
+        "id": 4336738,
+        "resource_state": 2,
+        "name": "TGP Drag",
+        "activity_type": "Ride",
+        "distance": 1099.3,
+        "average_grade": -0.2,
+        "maximum_grade": 1.6,
+        "elevation_high": 1387.8,
+        "elevation_low": 1384.6,
+        "start_latlng": [
+          40.429084,
+          -111.900963
+        ],
+        "end_latlng": [
+          40.4215,
+          -111.892655
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Lehi",
+        "state": "UT",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    }
+  ],
+  "splits_metric": [
+    {
+      "distance": 1004.2,
+      "elapsed_time": 200,
+      "elevation_difference": -0.8,
+      "moving_time": 174,
+      "split": 1,
+      "average_speed": 5.77,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 110.77586206896552,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.7,
+      "elapsed_time": 209,
+      "elevation_difference": -8.0,
+      "moving_time": 162,
+      "split": 2,
+      "average_speed": 6.16,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 107.17901234567901,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.7,
+      "elapsed_time": 137,
+      "elevation_difference": -2.4,
+      "moving_time": 137,
+      "split": 3,
+      "average_speed": 7.33,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 124.00729927007299,
+      "pace_zone": 0
+    },
+    {
+      "distance": 995.9,
+      "elapsed_time": 131,
+      "elevation_difference": -5.4,
+      "moving_time": 131,
+      "split": 4,
+      "average_speed": 7.6,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 126.66412213740458,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.7,
+      "elapsed_time": 171,
+      "elevation_difference": -3.8,
+      "moving_time": 171,
+      "split": 5,
+      "average_speed": 5.84,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 119.1863354037267,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.0,
+      "elapsed_time": 158,
+      "elevation_difference": -1.8,
+      "moving_time": 158,
+      "split": 6,
+      "average_speed": 6.35,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 122.89873417721519,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.4,
+      "elapsed_time": 164,
+      "elevation_difference": 4.6,
+      "moving_time": 164,
+      "split": 7,
+      "average_speed": 6.1,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 132.8719512195122,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.9,
+      "elapsed_time": 137,
+      "elevation_difference": -4.4,
+      "moving_time": 137,
+      "split": 8,
+      "average_speed": 7.29,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 127.64233576642336,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.5,
+      "elapsed_time": 151,
+      "elevation_difference": 2.6,
+      "moving_time": 151,
+      "split": 9,
+      "average_speed": 6.61,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 136.88741721854305,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.5,
+      "elapsed_time": 323,
+      "elevation_difference": -5.0,
+      "moving_time": 303,
+      "split": 10,
+      "average_speed": 3.3,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 116.13310580204778,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1004.4,
+      "elapsed_time": 155,
+      "elevation_difference": 7.0,
+      "moving_time": 155,
+      "split": 11,
+      "average_speed": 6.48,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 128.58709677419355,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.3,
+      "elapsed_time": 245,
+      "elevation_difference": 11.6,
+      "moving_time": 199,
+      "split": 12,
+      "average_speed": 5.02,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 127.52105263157895,
+      "pace_zone": 0
+    },
+    {
+      "distance": 995.8,
+      "elapsed_time": 168,
+      "elevation_difference": 16.0,
+      "moving_time": 168,
+      "split": 13,
+      "average_speed": 5.93,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 133.41666666666666,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.7,
+      "elapsed_time": 199,
+      "elevation_difference": 28.2,
+      "moving_time": 199,
+      "split": 14,
+      "average_speed": 5.04,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 142.71356783919597,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.7,
+      "elapsed_time": 187,
+      "elevation_difference": 30.0,
+      "moving_time": 187,
+      "split": 15,
+      "average_speed": 5.35,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 152.7433155080214,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.1,
+      "elapsed_time": 171,
+      "elevation_difference": 5.2,
+      "moving_time": 171,
+      "split": 16,
+      "average_speed": 5.86,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 150.5906432748538,
+      "pace_zone": 0
+    },
+    {
+      "distance": 995.2,
+      "elapsed_time": 151,
+      "elevation_difference": -0.2,
+      "moving_time": 151,
+      "split": 17,
+      "average_speed": 6.59,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 140.0066225165563,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1004.6,
+      "elapsed_time": 131,
+      "elevation_difference": 1.2,
+      "moving_time": 131,
+      "split": 18,
+      "average_speed": 7.67,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 146.3206106870229,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.3,
+      "elapsed_time": 131,
+      "elevation_difference": 0.0,
+      "moving_time": 131,
+      "split": 19,
+      "average_speed": 7.64,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 137.83969465648855,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.8,
+      "elapsed_time": 146,
+      "elevation_difference": -12.4,
+      "moving_time": 146,
+      "split": 20,
+      "average_speed": 6.85,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 131.36301369863014,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.9,
+      "elapsed_time": 198,
+      "elevation_difference": 9.2,
+      "moving_time": 198,
+      "split": 21,
+      "average_speed": 5.04,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 146.8181818181818,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.9,
+      "elapsed_time": 163,
+      "elevation_difference": 5.0,
+      "moving_time": 163,
+      "split": 22,
+      "average_speed": 6.13,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 133.60122699386503,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.2,
+      "elapsed_time": 149,
+      "elevation_difference": -0.4,
+      "moving_time": 149,
+      "split": 23,
+      "average_speed": 6.73,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 129.5234899328859,
+      "pace_zone": 0
+    },
+    {
+      "distance": 994.7,
+      "elapsed_time": 151,
+      "elevation_difference": -1.0,
+      "moving_time": 151,
+      "split": 24,
+      "average_speed": 6.59,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 137.96688741721854,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.9,
+      "elapsed_time": 144,
+      "elevation_difference": 3.6,
+      "moving_time": 144,
+      "split": 25,
+      "average_speed": 6.96,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 139.38194444444446,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.8,
+      "elapsed_time": 142,
+      "elevation_difference": 1.8,
+      "moving_time": 142,
+      "split": 26,
+      "average_speed": 7.03,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 143.88732394366198,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.8,
+      "elapsed_time": 131,
+      "elevation_difference": -1.2,
+      "moving_time": 131,
+      "split": 27,
+      "average_speed": 7.62,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 134.89312977099237,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1005.7,
+      "elapsed_time": 118,
+      "elevation_difference": 2.8,
+      "moving_time": 118,
+      "split": 28,
+      "average_speed": 8.52,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 143.15254237288136,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.5,
+      "elapsed_time": 118,
+      "elevation_difference": 0.6,
+      "moving_time": 118,
+      "split": 29,
+      "average_speed": 8.45,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 161.61864406779662,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.8,
+      "elapsed_time": 131,
+      "elevation_difference": 0.0,
+      "moving_time": 131,
+      "split": 30,
+      "average_speed": 7.65,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 154.8091603053435,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.8,
+      "elapsed_time": 134,
+      "elevation_difference": 1.8,
+      "moving_time": 134,
+      "split": 31,
+      "average_speed": 7.44,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 143.6865671641791,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.8,
+      "elapsed_time": 131,
+      "elevation_difference": 0.6,
+      "moving_time": 131,
+      "split": 32,
+      "average_speed": 7.65,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 143.17557251908397,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.5,
+      "elapsed_time": 134,
+      "elevation_difference": 1.0,
+      "moving_time": 134,
+      "split": 33,
+      "average_speed": 7.46,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 146.47761194029852,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.4,
+      "elapsed_time": 143,
+      "elevation_difference": -0.2,
+      "moving_time": 143,
+      "split": 34,
+      "average_speed": 6.99,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 144.76923076923077,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.7,
+      "elapsed_time": 129,
+      "elevation_difference": 1.4,
+      "moving_time": 129,
+      "split": 35,
+      "average_speed": 7.73,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 147.8294573643411,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.5,
+      "elapsed_time": 148,
+      "elevation_difference": 0.4,
+      "moving_time": 148,
+      "split": 36,
+      "average_speed": 6.75,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 145.28275862068966,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.9,
+      "elapsed_time": 137,
+      "elevation_difference": -0.2,
+      "moving_time": 137,
+      "split": 37,
+      "average_speed": 7.31,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 142.72992700729927,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.7,
+      "elapsed_time": 139,
+      "elevation_difference": 0.6,
+      "moving_time": 139,
+      "split": 38,
+      "average_speed": 7.21,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 143.92805755395685,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.5,
+      "elapsed_time": 163,
+      "elevation_difference": 1.6,
+      "moving_time": 163,
+      "split": 39,
+      "average_speed": 6.13,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 143.7171052631579,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.6,
+      "elapsed_time": 142,
+      "elevation_difference": -0.2,
+      "moving_time": 142,
+      "split": 40,
+      "average_speed": 7.06,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 145.3661971830986,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.0,
+      "elapsed_time": 148,
+      "elevation_difference": -0.6,
+      "moving_time": 148,
+      "split": 41,
+      "average_speed": 6.73,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 142.90540540540542,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.8,
+      "elapsed_time": 140,
+      "elevation_difference": 0.8,
+      "moving_time": 140,
+      "split": 42,
+      "average_speed": 7.16,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 143.82142857142858,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1004.4,
+      "elapsed_time": 115,
+      "elevation_difference": -2.2,
+      "moving_time": 115,
+      "split": 43,
+      "average_speed": 8.73,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 142.75652173913045,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.7,
+      "elapsed_time": 127,
+      "elevation_difference": 1.0,
+      "moving_time": 127,
+      "split": 44,
+      "average_speed": 7.88,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 145.5984251968504,
+      "pace_zone": 0
+    },
+    {
+      "distance": 991.9,
+      "elapsed_time": 127,
+      "elevation_difference": 0.2,
+      "moving_time": 127,
+      "split": 45,
+      "average_speed": 7.81,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 154.03149606299212,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.4,
+      "elapsed_time": 123,
+      "elevation_difference": -1.4,
+      "moving_time": 123,
+      "split": 46,
+      "average_speed": 8.15,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 150.8048780487805,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.5,
+      "elapsed_time": 114,
+      "elevation_difference": 0.0,
+      "moving_time": 114,
+      "split": 47,
+      "average_speed": 8.77,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 151.0438596491228,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.9,
+      "elapsed_time": 136,
+      "elevation_difference": -2.0,
+      "moving_time": 136,
+      "split": 48,
+      "average_speed": 7.38,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 147.59259259259258,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.8,
+      "elapsed_time": 120,
+      "elevation_difference": 0.0,
+      "moving_time": 120,
+      "split": 49,
+      "average_speed": 8.33,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 155.29166666666666,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.0,
+      "elapsed_time": 115,
+      "elevation_difference": -1.4,
+      "moving_time": 115,
+      "split": 50,
+      "average_speed": 8.69,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 157.40869565217392,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.9,
+      "elapsed_time": 109,
+      "elevation_difference": -3.2,
+      "moving_time": 109,
+      "split": 51,
+      "average_speed": 9.2,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 153.651376146789,
+      "pace_zone": 0
+    },
+    {
+      "distance": 994.3,
+      "elapsed_time": 110,
+      "elevation_difference": 1.8,
+      "moving_time": 110,
+      "split": 52,
+      "average_speed": 9.04,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 155.9181818181818,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.1,
+      "elapsed_time": 117,
+      "elevation_difference": -0.6,
+      "moving_time": 117,
+      "split": 53,
+      "average_speed": 8.57,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 157.52136752136752,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.5,
+      "elapsed_time": 129,
+      "elevation_difference": -1.2,
+      "moving_time": 129,
+      "split": 54,
+      "average_speed": 7.76,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 150.1782945736434,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.2,
+      "elapsed_time": 128,
+      "elevation_difference": -1.2,
+      "moving_time": 128,
+      "split": 55,
+      "average_speed": 7.79,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 150.609375,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.2,
+      "elapsed_time": 114,
+      "elevation_difference": -8.6,
+      "moving_time": 114,
+      "split": 56,
+      "average_speed": 8.75,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 156.35087719298247,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.8,
+      "elapsed_time": 124,
+      "elevation_difference": 6.0,
+      "moving_time": 124,
+      "split": 57,
+      "average_speed": 8.05,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 159.29032258064515,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.8,
+      "elapsed_time": 122,
+      "elevation_difference": -0.2,
+      "moving_time": 122,
+      "split": 58,
+      "average_speed": 8.22,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 152.5737704918033,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.6,
+      "elapsed_time": 127,
+      "elevation_difference": 1.6,
+      "moving_time": 127,
+      "split": 59,
+      "average_speed": 7.87,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 144.29921259842519,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.7,
+      "elapsed_time": 135,
+      "elevation_difference": -1.4,
+      "moving_time": 135,
+      "split": 60,
+      "average_speed": 7.43,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 149.03703703703704,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.9,
+      "elapsed_time": 135,
+      "elevation_difference": -20.6,
+      "moving_time": 135,
+      "split": 61,
+      "average_speed": 7.4,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 149.31851851851852,
+      "pace_zone": 0
+    },
+    {
+      "distance": 995.7,
+      "elapsed_time": 172,
+      "elevation_difference": 20.8,
+      "moving_time": 172,
+      "split": 62,
+      "average_speed": 5.79,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 163.3139534883721,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.4,
+      "elapsed_time": 112,
+      "elevation_difference": -1.6,
+      "moving_time": 112,
+      "split": 63,
+      "average_speed": 8.94,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 157.375,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.4,
+      "elapsed_time": 112,
+      "elevation_difference": 0.6,
+      "moving_time": 112,
+      "split": 64,
+      "average_speed": 8.95,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 156.14285714285714,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.9,
+      "elapsed_time": 118,
+      "elevation_difference": -0.2,
+      "moving_time": 118,
+      "split": 65,
+      "average_speed": 8.47,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 164.11864406779662,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1005.6,
+      "elapsed_time": 110,
+      "elevation_difference": -24.2,
+      "moving_time": 110,
+      "split": 66,
+      "average_speed": 9.14,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 151.9,
+      "pace_zone": 0
+    },
+    {
+      "distance": 992.0,
+      "elapsed_time": 126,
+      "elevation_difference": -26.4,
+      "moving_time": 126,
+      "split": 67,
+      "average_speed": 7.87,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 128.08264462809916,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.9,
+      "elapsed_time": 218,
+      "elevation_difference": -23.4,
+      "moving_time": 201,
+      "split": 68,
+      "average_speed": 4.97,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 125.47027027027028,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.7,
+      "elapsed_time": 126,
+      "elevation_difference": -8.0,
+      "moving_time": 126,
+      "split": 69,
+      "average_speed": 7.95,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 145.04761904761904,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.5,
+      "elapsed_time": 119,
+      "elevation_difference": -0.2,
+      "moving_time": 119,
+      "split": 70,
+      "average_speed": 8.39,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 160.4453781512605,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1004.3,
+      "elapsed_time": 260,
+      "elevation_difference": -8.0,
+      "moving_time": 236,
+      "split": 71,
+      "average_speed": 4.26,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 142.83937823834196,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.6,
+      "elapsed_time": 166,
+      "elevation_difference": 4.0,
+      "moving_time": 166,
+      "split": 72,
+      "average_speed": 6.03,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 147.06748466257667,
+      "pace_zone": 0
+    },
+    {
+      "distance": 135.5,
+      "elapsed_time": 26,
+      "elevation_difference": 0.4,
+      "moving_time": 26,
+      "split": 73,
+      "average_speed": 5.21,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 158.82608695652175,
+      "pace_zone": 0
+    }
+  ],
+  "splits_standard": [
+    {
+      "distance": 1613.3,
+      "elapsed_time": 291,
+      "elevation_difference": -6.8,
+      "moving_time": 265,
+      "split": 1,
+      "average_speed": 6.09,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 111.6,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1605.8,
+      "elapsed_time": 284,
+      "elevation_difference": -5.0,
+      "moving_time": 237,
+      "split": 2,
+      "average_speed": 6.78,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 116.80590717299577,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1615.2,
+      "elapsed_time": 250,
+      "elevation_difference": -8.0,
+      "moving_time": 250,
+      "split": 3,
+      "average_speed": 6.46,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 122.15833333333333,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1605.8,
+      "elapsed_time": 246,
+      "elevation_difference": 1.2,
+      "moving_time": 246,
+      "split": 4,
+      "average_speed": 6.53,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 124.63414634146342,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1606.7,
+      "elapsed_time": 243,
+      "elevation_difference": -3.4,
+      "moving_time": 243,
+      "split": 5,
+      "average_speed": 6.61,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 130.79012345679013,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.7,
+      "elapsed_time": 410,
+      "elevation_difference": 1.0,
+      "moving_time": 390,
+      "split": 6,
+      "average_speed": 4.13,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 125.77631578947368,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1613.8,
+      "elapsed_time": 247,
+      "elevation_difference": 0.4,
+      "moving_time": 247,
+      "split": 7,
+      "average_speed": 6.53,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 124.19433198380567,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1603.5,
+      "elapsed_time": 350,
+      "elevation_difference": 28.2,
+      "moving_time": 304,
+      "split": 8,
+      "average_speed": 5.27,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 128.5864406779661,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.9,
+      "elapsed_time": 310,
+      "elevation_difference": 40.6,
+      "moving_time": 310,
+      "split": 9,
+      "average_speed": 5.2,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 143.8,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.6,
+      "elapsed_time": 288,
+      "elevation_difference": 25.4,
+      "moving_time": 288,
+      "split": 10,
+      "average_speed": 5.59,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 152.68055555555554,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.6,
+      "elapsed_time": 227,
+      "elevation_difference": 0.8,
+      "moving_time": 227,
+      "split": 11,
+      "average_speed": 7.09,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 142.94273127753303,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1614.2,
+      "elapsed_time": 216,
+      "elevation_difference": -2.6,
+      "moving_time": 216,
+      "split": 12,
+      "average_speed": 7.47,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 138.64814814814815,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1605.2,
+      "elapsed_time": 291,
+      "elevation_difference": 2.4,
+      "moving_time": 291,
+      "split": 13,
+      "average_speed": 5.52,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 141.0,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.8,
+      "elapsed_time": 257,
+      "elevation_difference": 2.8,
+      "moving_time": 257,
+      "split": 14,
+      "average_speed": 6.26,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 131.5058365758755,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1611.4,
+      "elapsed_time": 236,
+      "elevation_difference": -8.6,
+      "moving_time": 236,
+      "split": 15,
+      "average_speed": 6.83,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 134.84745762711864,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1605.3,
+      "elapsed_time": 227,
+      "elevation_difference": 12.0,
+      "moving_time": 227,
+      "split": 16,
+      "average_speed": 7.07,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 143.80176211453744,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1617.6,
+      "elapsed_time": 217,
+      "elevation_difference": 0.2,
+      "moving_time": 217,
+      "split": 17,
+      "average_speed": 7.45,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 136.70967741935485,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1606.2,
+      "elapsed_time": 185,
+      "elevation_difference": 2.2,
+      "moving_time": 185,
+      "split": 18,
+      "average_speed": 8.68,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 155.67027027027027,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1611.4,
+      "elapsed_time": 216,
+      "elevation_difference": 1.6,
+      "moving_time": 216,
+      "split": 19,
+      "average_speed": 7.46,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 151.06944444444446,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.2,
+      "elapsed_time": 209,
+      "elevation_difference": 0.8,
+      "moving_time": 209,
+      "split": 20,
+      "average_speed": 7.69,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 142.1866028708134,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.5,
+      "elapsed_time": 225,
+      "elevation_difference": 0.6,
+      "moving_time": 225,
+      "split": 21,
+      "average_speed": 7.15,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 146.2,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.3,
+      "elapsed_time": 207,
+      "elevation_difference": 1.2,
+      "moving_time": 207,
+      "split": 22,
+      "average_speed": 7.78,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 147.84541062801932,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1605.0,
+      "elapsed_time": 236,
+      "elevation_difference": 0.4,
+      "moving_time": 236,
+      "split": 23,
+      "average_speed": 6.8,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 143.21888412017168,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1614.4,
+      "elapsed_time": 220,
+      "elevation_difference": 1.4,
+      "moving_time": 220,
+      "split": 24,
+      "average_speed": 7.34,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 145.77727272727273,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1606.0,
+      "elapsed_time": 255,
+      "elevation_difference": 0.8,
+      "moving_time": 255,
+      "split": 25,
+      "average_speed": 6.3,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 143.60245901639345,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.3,
+      "elapsed_time": 218,
+      "elevation_difference": -0.2,
+      "moving_time": 218,
+      "split": 26,
+      "average_speed": 7.38,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 144.24311926605503,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.5,
+      "elapsed_time": 211,
+      "elevation_difference": -0.2,
+      "moving_time": 211,
+      "split": 27,
+      "average_speed": 7.62,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 141.55450236966826,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.3,
+      "elapsed_time": 202,
+      "elevation_difference": -0.4,
+      "moving_time": 202,
+      "split": 28,
+      "average_speed": 7.97,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 151.36138613861385,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1612.8,
+      "elapsed_time": 191,
+      "elevation_difference": -3.0,
+      "moving_time": 191,
+      "split": 29,
+      "average_speed": 8.44,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 150.48167539267016,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1605.7,
+      "elapsed_time": 204,
+      "elevation_difference": -0.6,
+      "moving_time": 204,
+      "split": 30,
+      "average_speed": 7.87,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 150.07389162561577,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.2,
+      "elapsed_time": 193,
+      "elevation_difference": -1.4,
+      "moving_time": 193,
+      "split": 31,
+      "average_speed": 8.34,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 156.12953367875647,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1615.9,
+      "elapsed_time": 177,
+      "elevation_difference": -2.6,
+      "moving_time": 177,
+      "split": 32,
+      "average_speed": 9.13,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 153.8135593220339,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1603.9,
+      "elapsed_time": 184,
+      "elevation_difference": 0.2,
+      "moving_time": 184,
+      "split": 33,
+      "average_speed": 8.72,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 157.43478260869566,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.8,
+      "elapsed_time": 212,
+      "elevation_difference": -0.2,
+      "moving_time": 212,
+      "split": 34,
+      "average_speed": 7.58,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 149.5990566037736,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1619.5,
+      "elapsed_time": 176,
+      "elevation_difference": -14.2,
+      "moving_time": 176,
+      "split": 35,
+      "average_speed": 9.2,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 154.1193181818182,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1603.8,
+      "elapsed_time": 210,
+      "elevation_difference": 9.8,
+      "moving_time": 210,
+      "split": 36,
+      "average_speed": 7.64,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 157.76190476190476,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.2,
+      "elapsed_time": 202,
+      "elevation_difference": -5.4,
+      "moving_time": 202,
+      "split": 37,
+      "average_speed": 7.97,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 144.27722772277227,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1606.3,
+      "elapsed_time": 228,
+      "elevation_difference": -7.2,
+      "moving_time": 228,
+      "split": 38,
+      "average_speed": 7.05,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 153.1359649122807,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1615.8,
+      "elapsed_time": 235,
+      "elevation_difference": 11.6,
+      "moving_time": 235,
+      "split": 39,
+      "average_speed": 6.88,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 160.6936170212766,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1605.0,
+      "elapsed_time": 179,
+      "elevation_difference": -0.4,
+      "moving_time": 179,
+      "split": 40,
+      "average_speed": 8.97,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 157.77653631284917,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.0,
+      "elapsed_time": 182,
+      "elevation_difference": -22.8,
+      "moving_time": 182,
+      "split": 41,
+      "average_speed": 8.83,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 157.28021978021977,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.3,
+      "elapsed_time": 217,
+      "elevation_difference": -40.8,
+      "moving_time": 217,
+      "split": 42,
+      "average_speed": 7.41,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 127.78301886792453,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.5,
+      "elapsed_time": 277,
+      "elevation_difference": -18.4,
+      "moving_time": 260,
+      "split": 43,
+      "average_speed": 6.19,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 137.60245901639345,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1613.1,
+      "elapsed_time": 212,
+      "elevation_difference": -7.4,
+      "moving_time": 212,
+      "split": 44,
+      "average_speed": 7.61,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 156.21226415094338,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1326.6,
+      "elapsed_time": 337,
+      "elevation_difference": 4.0,
+      "moving_time": 313,
+      "split": 45,
+      "average_speed": 4.24,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 142.9848484848485,
+      "pace_zone": 0
+    }
+  ],
+  "laps": [
+    {
+      "id": 50255257192,
+      "resource_state": 2,
+      "name": "Lap 1",
+      "activity": {
+        "id": 14157542547,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 10589,
+      "moving_time": 10589,
+      "start_date": "2025-04-12T12:22:56Z",
+      "start_date_local": "2025-04-12T06:22:56Z",
+      "distance": 72141.9,
+      "average_speed": 6.81,
+      "max_speed": 13.86,
+      "lap_index": 1,
+      "split": 1,
+      "start_index": 0,
+      "end_index": 10440,
+      "total_elevation_gain": 283.6,
+      "device_watts": false,
+      "average_heartrate": 141.8,
+      "max_heartrate": 181.0
+    }
+  ],
+  "photos": {
+    "primary": null,
+    "count": 0
+  },
+  "stats_visibility": [
+    {
+      "type": "heart_rate",
+      "visibility": "everyone"
+    },
+    {
+      "type": "pace",
+      "visibility": "everyone"
+    },
+    {
+      "type": "power",
+      "visibility": "everyone"
+    },
+    {
+      "type": "speed",
+      "visibility": "everyone"
+    },
+    {
+      "type": "calories",
+      "visibility": "everyone"
+    }
+  ],
+  "hide_from_home": false,
+  "embed_token": "f6178acb41a4b49fa24c6763f0666886ca98ac97",
+  "available_zones": []
+}

@@ -1,0 +1,154 @@
+{
+  "resource_state": 3,
+  "athlete": {
+    "id": 57014865,
+    "resource_state": 1
+  },
+  "name": "90 min ride",
+  "distance": 0.0,
+  "moving_time": 5410,
+  "elapsed_time": 5410,
+  "total_elevation_gain": 0,
+  "type": "Ride",
+  "sport_type": "Ride",
+  "workout_type": 10,
+  "device_name": "Apple Watch Ultra",
+  "id": 13575150480,
+  "start_date": "2025-02-08T16:20:59Z",
+  "start_date_local": "2025-02-08T09:20:59Z",
+  "timezone": "(GMT-07:00) America/Boise",
+  "utc_offset": -25200.0,
+  "location_city": null,
+  "location_state": null,
+  "location_country": null,
+  "achievement_count": 0,
+  "kudos_count": 1,
+  "comment_count": 0,
+  "athlete_count": 1,
+  "photo_count": 0,
+  "map": {
+    "id": "a13575150480",
+    "polyline": "",
+    "resource_state": 3,
+    "summary_polyline": ""
+  },
+  "trainer": true,
+  "commute": false,
+  "manual": false,
+  "private": false,
+  "visibility": "everyone",
+  "flagged": false,
+  "gear_id": null,
+  "start_latlng": [],
+  "end_latlng": [],
+  "average_speed": 0.0,
+  "max_speed": 0.0,
+  "has_heartrate": true,
+  "average_heartrate": 126.1,
+  "max_heartrate": 149.0,
+  "heartrate_opt_out": false,
+  "display_hide_heartrate_option": true,
+  "elev_high": 0.0,
+  "elev_low": 0.0,
+  "upload_id": 14483371684,
+  "upload_id_str": "14483371684",
+  "external_id": "901F93C2-E940-48DC-B83F-E5C1DF42DF62.fit",
+  "from_accepted_tag": false,
+  "pr_count": 0,
+  "total_photo_count": 0,
+  "has_kudoed": false,
+  "description": "Still a little slow but getting back at it",
+  "calories": 906.0,
+  "perceived_exertion": null,
+  "prefer_perceived_exertion": false,
+  "segment_efforts": [],
+  "laps": [
+    {
+      "id": 47977522326,
+      "resource_state": 2,
+      "name": "Lap 1",
+      "activity": {
+        "id": 13575150480,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 4969,
+      "moving_time": 4969,
+      "start_date": "2025-02-08T16:20:59Z",
+      "start_date_local": "2025-02-08T09:20:59Z",
+      "distance": 0.0,
+      "average_speed": 0.0,
+      "max_speed": 0.0,
+      "lap_index": 1,
+      "split": 1,
+      "start_index": 0,
+      "end_index": 991,
+      "total_elevation_gain": 0,
+      "device_watts": false,
+      "average_heartrate": 125.5,
+      "max_heartrate": 141.0
+    },
+    {
+      "id": 47977522328,
+      "resource_state": 2,
+      "name": "Lap 2",
+      "activity": {
+        "id": 13575150480,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 57014865,
+        "resource_state": 1
+      },
+      "elapsed_time": 440,
+      "moving_time": 440,
+      "start_date": "2025-02-08T17:43:54Z",
+      "start_date_local": "2025-02-08T10:43:54Z",
+      "distance": 0.0,
+      "average_speed": 0.0,
+      "max_speed": 0.0,
+      "lap_index": 2,
+      "split": 2,
+      "start_index": 992,
+      "end_index": 1079,
+      "total_elevation_gain": 0,
+      "device_watts": false,
+      "average_heartrate": 133.2,
+      "max_heartrate": 149.0
+    }
+  ],
+  "photos": {
+    "primary": null,
+    "count": 0
+  },
+  "stats_visibility": [
+    {
+      "type": "heart_rate",
+      "visibility": "everyone"
+    },
+    {
+      "type": "pace",
+      "visibility": "everyone"
+    },
+    {
+      "type": "power",
+      "visibility": "everyone"
+    },
+    {
+      "type": "speed",
+      "visibility": "everyone"
+    },
+    {
+      "type": "calories",
+      "visibility": "everyone"
+    }
+  ],
+  "hide_from_home": false,
+  "embed_token": "c4a184d320a37088b865d3c8b111ec6b5e401877",
+  "available_zones": []
+}
