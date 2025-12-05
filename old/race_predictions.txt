@@ -1,0 +1,41 @@
+======================================================================
+RACE TIME PREDICTIONS
+======================================================================
+
+Analysis Date: 2025-12-04 19:52:40
+Based on 337 runs from 2024-02-27 to 2025-12-04
+Total Miles: 2183.3
+
+All-Time Best Performances:
+  Fastest Mile: 6:37
+  Best Average Pace: 6:37
+  Best 5K Pace: 7:28
+  Best 10K Pace: 7:41
+  Best Half Marathon Pace: 8:25
+  Best Marathon Pace: 8:34
+  Longest Run: 32.2 miles
+
+Recent Training:
+  Weekly Mileage (Last 90 days): 45.2 miles
+  Weekly Mileage (Last 30 days): 64.8 miles
+  Longest Run (Last 90 days): 32.2 miles
+  Fatigue Resistance: 94.0%
+  Fitness Trend: -11.6%
+
+======================================================================
+PREDICTED RACE TIMES
+======================================================================
+
+Mile: 0:08:35 (Pace: 8:35/mile)
+5K: 0:31:16 (Pace: 10:05/mile)
+10K: 0:57:27 (Pace: 9:15/mile)
+Half Marathon: 2:01:56 (Pace: 9:18/mile)
+Marathon: 4:24:04 (Pace: 10:04/mile)
+50K: 5:26:32 (Pace: 10:32/mile)
+50 Mile: 9:31:37 (Pace: 11:25/mile)
+100 Mile: 21:22:51 (Pace: 12:49/mile)
+
+======================================================================
+Note: Predictions assume optimal conditions and proper race execution.
+Ultra predictions require appropriate training and race-day nutrition.
+======================================================================
