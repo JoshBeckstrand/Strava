@@ -2,8 +2,8 @@ import json
 import math
 import datetime
 
-INPUT_FILE = "strava_running_clean.json"
-OUTPUT_FILE = "running_race_predictions4.json"
+INPUT_FILE = "strava_running_splits.json"  # New file name
+OUTPUT_FILE = "running_race_predictions_v2.json"
 
 # Target races in miles
 RACES = {
@@ -19,7 +19,54 @@ RACES = {
 
 # Load cleaned running data
 with open(INPUT_FILE, "r") as f:
-    runs = json.load(f)
+    data = json.load(f)
+
+# Convert new format to old format for compatibility
+runs = []
+for activity_id, activity in data.items():
+    # Calculate average pace from mile splits
+    splits = activity["mile_splits"]
+    if splits:
+        # Convert pace strings like "9:17" to total seconds
+        total_seconds = 0
+        valid_splits = 0
+        for split in splits:
+            if ":" in split:
+                parts = split.split(":")
+                mins = int(parts[0])
+                secs = int(parts[1])
+                total_seconds += mins * 60 + secs
+                valid_splits += 1
+        
+        if valid_splits > 0:
+            avg_seconds_per_mile = total_seconds / valid_splits
+            avg_mins = int(avg_seconds_per_mile // 60)
+            avg_secs = int(avg_seconds_per_mile % 60)
+            avg_pace = f"{avg_mins}:{avg_secs:02d} min/mile"
+        else:
+            avg_pace = "N/A"
+    else:
+        avg_pace = "N/A"
+    
+    # Calculate total time from distance and average pace
+    distance = activity["distance_miles"]
+    if avg_pace != "N/A":
+        pace_parts = avg_pace.replace(" min/mile", "").split(":")
+        pace_mins = int(pace_parts[0]) + int(pace_parts[1]) / 60
+        total_mins = pace_mins * distance
+        hours = int(total_mins // 60)
+        mins = int(total_mins % 60)
+        time_str = f"{hours}:{mins:02d}"
+    else:
+        time_str = "0:00"
+    
+    runs.append({
+        "name": activity["name"],
+        "date": activity["date"],
+        "distance": f"{distance} miles",
+        "time": f"{time_str} h:mm",
+        "average_pace": avg_pace
+    })
 
 # Convert pace "m:ss min/mile" or "mm min/mile" to minutes
 def pace_to_minutes(pace_str):
@@ -277,3 +324,4 @@ with open(OUTPUT_FILE, "w") as f:
     json.dump(predictions, f, indent=2)
 
 print(f"Race predictions saved to {OUTPUT_FILE}")
+print(f"Processed {len(runs)} runs from {INPUT_FILE}")
